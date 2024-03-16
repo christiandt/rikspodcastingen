@@ -92,6 +92,6 @@ if __name__ == '__main__':
             page_size=20,
             paginate=True
         )
-        with open(f"rss/{pod_name}.rss", 'w') as feed_file:
+        with open(f"{pod_name}.rss", 'w') as feed_file:
             feed_file.write(pod.rss_feed())
 
