@@ -22,3 +22,5 @@ jobs:
           git add .
           git commit -m "generated"
           git push
+        with:
+          token: ${{ secrets.TOKEN }}
