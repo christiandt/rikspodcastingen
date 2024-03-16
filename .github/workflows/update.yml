@@ -16,7 +16,6 @@ jobs:
       - name: update
         run: python main.py
       - name: Update Feeds
-        uses: actions/checkout@v4
         run: |
           git config --global user.name 'GithubBot'
           git config --global user.email 'githubaction@users.noreply.github.com'
