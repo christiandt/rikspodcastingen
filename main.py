@@ -79,10 +79,7 @@ class Podcast:
 
 if __name__ == '__main__':
     podcasts = [
-        "berrum_beyer_snakker_om_greier",
-        "loerdagsraadet",
-        "trygdekontoret",
-        "abels_taarn"
+        "berrum_beyer_snakker_om_greier"
     ]
 
     for pod_name in podcasts:
