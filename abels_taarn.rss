@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Abels tårn</title><link>https://radio.nrk.no/podkast/abels_taarn</link><description>Abels tårn</description><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>Hva er verdens mest klissete substans?</title><link>https://podkast.nrk.no/fil/abels_taarn/60988f91-6ae5-45ae-927d-5be4f4bf3801_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Abels tårn</title><link>https://radio.nrk.no/podkast/abels_taarn</link><description>En serie for deg som liker å nerde på de små og store spørsmålene innen vitenskap
+</description><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><itunes:image href="https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qAYr_hY0FhSJveRmsYNQodAQ"></itunes:image><itunes:subtitle>Abels tårn</itunes:subtitle><itunes:summary>En serie for deg som liker å nerde på de små og store spørsmålene innen vitenskap
+</itunes:summary><item><title>Hva er verdens mest klissete substans?</title><link>https://podkast.nrk.no/fil/abels_taarn/60988f91-6ae5-45ae-927d-5be4f4bf3801_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
 
 Dagens eksperter:
 Musikkforsker Alexander Refsum Jensenius
 Fysiker Anders Kvellestad
-Geolog Ingrid Anell</description><pubDate>Fri, 15 Mar 2024 10:00:00 GMT</pubDate></item><item><title>Den store serien om KI (2:10) - KI i krig</title><link>https://podkast.nrk.no/fil/abels_taarn/b68a95ac-e2c7-4c78-bdb0-248ac68668ca_0_ID192MP3.mp3</link><description>Har drapsdroner blitt tatt i bruk i Ukraina? Maskiner som selv velger sine mål - og skyter. 
+Geolog Ingrid Anell</description><pubDate>Fri, 15 Mar 2024 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/60988f91-6ae5-45ae-927d-5be4f4bf3801_0_ID192MP3.mp3" length="3466" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/Lk2XBeEiOWOoqVhwMybpFg72jJFb21x6qA_VmqBfWcPg"></itunes:image><itunes:duration>0:57:46</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Hva er verdens mest klissete substans?</itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
+
+Dagens eksperter:
+Musikkforsker Alexander Refsum Jensenius
+Fysiker Anders Kvellestad
+Geolog Ingrid Anell</itunes:summary></item><item><title>Den store serien om KI (2:10) - KI i krig</title><link>https://podkast.nrk.no/fil/abels_taarn/b68a95ac-e2c7-4c78-bdb0-248ac68668ca_0_ID192MP3.mp3</link><description>Har drapsdroner blitt tatt i bruk i Ukraina? Maskiner som selv velger sine mål - og skyter. 
 Vi spør hvordan KI vil endre framtidens kriger, detekter skudd i Oslo, og så spiller vi Alan Turings Imitation Game. 
-Dessuten kårer vi verdens første moderne datamaskin.</description><pubDate>Tue, 12 Mar 2024 20:15:00 GMT</pubDate></item><item><title>Kan katten din bli allergisk mot deg?</title><link>https://podkast.nrk.no/fil/abels_taarn/30fc6bf0-39dd-4156-84b8-7c71fe40793f_0_ID192MP3.mp3</link><description>I anledning dagen så har vi satt sammen et ekspertpanel med verdens beste vitenskapskvinner, som skal svare på disse spørsmålene:
+Dessuten kårer vi verdens første moderne datamaskin.</description><pubDate>Tue, 12 Mar 2024 20:15:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/b68a95ac-e2c7-4c78-bdb0-248ac68668ca_0_ID192MP3.mp3" length="3524" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/LJ_xdXrJgyBsbgm5Q9_axAGw19jhjNPbYxcfiP-ULUSQ"></itunes:image><itunes:duration>0:58:44</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Den store serien om KI (2:10) - KI i krig</itunes:subtitle><itunes:summary>Har drapsdroner blitt tatt i bruk i Ukraina? Maskiner som selv velger sine mål - og skyter. 
+Vi spør hvordan KI vil endre framtidens kriger, detekter skudd i Oslo, og så spiller vi Alan Turings Imitation Game. 
+Dessuten kårer vi verdens første moderne datamaskin.</itunes:summary></item><item><title>Kan katten din bli allergisk mot deg?</title><link>https://podkast.nrk.no/fil/abels_taarn/30fc6bf0-39dd-4156-84b8-7c71fe40793f_0_ID192MP3.mp3</link><description>I anledning dagen så har vi satt sammen et ekspertpanel med verdens beste vitenskapskvinner, som skal svare på disse spørsmålene:
 
 - Kan man endre DNA på et voksent menneske?  
 - Hvorfor har det blitt forsket så lite på kvinnehelse?
@@ -22,12 +31,33 @@ I panelet:
 Fysiker Marianne Bathen, 
 Lege Ellen Støkken Dahl 
 Molekylærbiolog Sigrid Bratlie
-</description><pubDate>Fri, 08 Mar 2024 10:00:00 GMT</pubDate></item><item><title>Den store serien om KI (1:10) - Kjærlighet i algoritmenes tid</title><link>https://podkast.nrk.no/fil/abels_taarn/829f80ad-1b43-4c4d-adc9-805066f7e3c1_0_ID192MP3.mp3</link><description>En ny industriell revolusjon, en trussel mot menneskeheten eller bare en hype?
+</description><pubDate>Fri, 08 Mar 2024 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/30fc6bf0-39dd-4156-84b8-7c71fe40793f_0_ID192MP3.mp3" length="3462" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/jTWjDc2bg3XDMGQUJNktWAbZ7Bpv_8rCw6d1R7YxgkjA"></itunes:image><itunes:duration>0:57:42</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Kan katten din bli allergisk mot deg?</itunes:subtitle><itunes:summary>I anledning dagen så har vi satt sammen et ekspertpanel med verdens beste vitenskapskvinner, som skal svare på disse spørsmålene:
+
+- Kan man endre DNA på et voksent menneske?  
+- Hvorfor har det blitt forsket så lite på kvinnehelse?
+- Kan man endre DNA på et voksent menneske?
+- Hva er egentlig et kvantedataprogram?
+- Hva ville forventet levealderen vært hvis helsevesenet ikke fantes?
+- Har månefaser noe å si for mensen?
+- Kan vi plassere kvantedatamaskiner i verdensrommet for å holde dem kalde nok?
+- Kan katten din bli allergiske mot deg?                                                                                               
+- Gjør mikrobølgeovn maten usunn? 
+
+I panelet: 
+Fysiker Marianne Bathen, 
+Lege Ellen Støkken Dahl 
+Molekylærbiolog Sigrid Bratlie
+</itunes:summary></item><item><title>Den store serien om KI (1:10) - Kjærlighet i algoritmenes tid</title><link>https://podkast.nrk.no/fil/abels_taarn/829f80ad-1b43-4c4d-adc9-805066f7e3c1_0_ID192MP3.mp3</link><description>En ny industriell revolusjon, en trussel mot menneskeheten eller bare en hype?
 
 Kunstig intelligens er på full fart inn i livene våre. Noen blir til og med kjæreste med algoritmene. 
 I denne første episoden møter vi verdens første koder som drømte om KI allerede på 1800-tallet, og Elisabeth som flørter med KI-vennen sin, og sier hun har mye mer interessante samtaler med den enn med mennesker.
 
-</description><pubDate>Fri, 01 Mar 2024 11:00:00 GMT</pubDate></item><item><title>Kan maskiner forstå dyrespråk?</title><link>https://podkast.nrk.no/fil/abels_taarn/257de36e-572d-46ac-bbe8-3aff8ca735bf_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
+</description><pubDate>Fri, 01 Mar 2024 11:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/829f80ad-1b43-4c4d-adc9-805066f7e3c1_0_ID192MP3.mp3" length="3488" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/uImxeLvUXXha2p-Q4sf8lw8szbJZwTXWGLo7UdTnzNRA"></itunes:image><itunes:duration>0:58:08</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Den store serien om KI (1:10) - Kjærlighet i algoritmenes tid</itunes:subtitle><itunes:summary>En ny industriell revolusjon, en trussel mot menneskeheten eller bare en hype?
+
+Kunstig intelligens er på full fart inn i livene våre. Noen blir til og med kjæreste med algoritmene. 
+I denne første episoden møter vi verdens første koder som drømte om KI allerede på 1800-tallet, og Elisabeth som flørter med KI-vennen sin, og sier hun har mye mer interessante samtaler med den enn med mennesker.
+
+</itunes:summary></item><item><title>Kan maskiner forstå dyrespråk?</title><link>https://podkast.nrk.no/fil/abels_taarn/257de36e-572d-46ac-bbe8-3aff8ca735bf_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
 
 Hvordan fungerer luktesansen under vann?
 Kan tigerhaien smake maten den sluker?
@@ -42,21 +72,50 @@ Datalog Morten Goodwin
 Marinbiolog Emilie Hernes Vereide
 Fysiker Are Raklev
 
-Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</description><pubDate>Fri, 01 Mar 2024 10:00:00 GMT</pubDate></item><item><title>Forskningsfronten - Forskjeller mellom manne- og kvinnehjerner, og farging av jeans med sollys</title><link>https://podkast.nrk.no/fil/abels_taarn/6d4e353d-f36a-409c-8865-9645d85cfbee_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter: 
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</description><pubDate>Fri, 01 Mar 2024 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/257de36e-572d-46ac-bbe8-3aff8ca735bf_0_ID192MP3.mp3" length="3466" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/Fwwm55rJzNG86NtuW7_psAT1Mttdmh3fEBDzMQx3Qrnw"></itunes:image><itunes:duration>0:57:46</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Kan maskiner forstå dyrespråk?</itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
+
+Hvordan fungerer luktesansen under vann?
+Kan tigerhaien smake maten den sluker?
+Har vi egentlig fri vilje når alle naturlovene gjelder?
+Kan opphavsretten stoppe kunstig intelligens sitt megapotensiale?
+Hvor får fisk oksygenet sitt fra?
+Hvordan påvirker fysikk, kjemi og teknologi Simuleringsteorien?
+Blir det behov for politikk hvis kunstig intelligens overtar?
+
+Dagens eksperter:
+Datalog Morten Goodwin
+Marinbiolog Emilie Hernes Vereide
+Fysiker Are Raklev
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</itunes:summary></item><item><title>Forskningsfronten - Forskjeller mellom manne- og kvinnehjerner, og farging av jeans med sollys</title><link>https://podkast.nrk.no/fil/abels_taarn/6d4e353d-f36a-409c-8865-9645d85cfbee_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter: 
 
 - Overraskende miljøvennlig farging av jeans
 - Svaret på om det er forskjell på mannehjerner og kvinnehjerner … eller ikke 
 - Trær som detektorer for å fange opp spor av universets voldsomste hendelser
-- Et genialt "Star Trek"-spørsmål kan hjelpe deg med chatbotten</description><pubDate>Fri, 01 Mar 2024 09:00:00 GMT</pubDate></item><item><title>Forskningsfronten - Selvlysende potteplanter er nå til salgs i USA</title><link>https://podkast.nrk.no/fil/abels_taarn/c8735208-a9c8-4b88-9aa4-c8929299fc75_0_ID192MP3.mp3</link><description>Redaksjonen diskuterer siste forskningsnyheter og denne gangen handler det om: 
+- Et genialt "Star Trek"-spørsmål kan hjelpe deg med chatbotten</description><pubDate>Fri, 01 Mar 2024 09:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/6d4e353d-f36a-409c-8865-9645d85cfbee_0_ID192MP3.mp3" length="2046" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/3mumL9cIJZ9jr50LYgsm2QvhfHMQ_rlCRW5zgJ1NugPw"></itunes:image><itunes:duration>0:34:06</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Forskjeller mellom manne- og kvinnehjerner, og farging av jeans med sollys</itunes:subtitle><itunes:summary>Torkild, Hanne og Annette deler små og store forskningsnyheter: 
+
+- Overraskende miljøvennlig farging av jeans
+- Svaret på om det er forskjell på mannehjerner og kvinnehjerner … eller ikke 
+- Trær som detektorer for å fange opp spor av universets voldsomste hendelser
+- Et genialt "Star Trek"-spørsmål kan hjelpe deg med chatbotten</itunes:summary></item><item><title>Forskningsfronten - Selvlysende potteplanter er nå til salgs i USA</title><link>https://podkast.nrk.no/fil/abels_taarn/c8735208-a9c8-4b88-9aa4-c8929299fc75_0_ID192MP3.mp3</link><description>Redaksjonen diskuterer siste forskningsnyheter og denne gangen handler det om: 
 
 - Selvlysende potteplanter er nå til salgs i USA
 - Hunder som kan lukte seg fram til Parkinson
 - Bjørnedyrets ekstreme dvaletilstand
 - Skorpioners giftige sexliv
 - Satellitter lagd av tre
-</description><pubDate>Mon, 26 Feb 2024 06:00:00 GMT</pubDate></item><item><title>Å smake med testiklene</title><link>https://podkast.nrk.no/fil/abels_taarn/997c24e4-799d-4422-b10d-0da716f1b3b7_0_ID192MP3.mp3</link><description>Menn har smaksceller i testiklene, fant forskere ut i 2013. Og stadig oppdages flere malplasserte smaksceller i kroppen vår.
+</description><pubDate>Mon, 26 Feb 2024 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/c8735208-a9c8-4b88-9aa4-c8929299fc75_0_ID192MP3.mp3" length="2321" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/TSNGuZ3Ay0UZXPPqviT9pgpBfnVc-2vFQd4O7yaArRvQ"></itunes:image><itunes:duration>0:38:41</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Selvlysende potteplanter er nå til salgs i USA</itunes:subtitle><itunes:summary>Redaksjonen diskuterer siste forskningsnyheter og denne gangen handler det om: 
 
-Hanne Aass gjør et dypdykk i temaet</description><pubDate>Sat, 24 Feb 2024 07:00:00 GMT</pubDate></item><item><title>Hvorfor blir man aldri tett i begge nesebor samtidig?</title><link>https://podkast.nrk.no/fil/abels_taarn/0e62b8a2-b5ac-4e62-8dc6-e6b1df3a6d84_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud deg svar på det du ikke visste du ville vite:
+- Selvlysende potteplanter er nå til salgs i USA
+- Hunder som kan lukte seg fram til Parkinson
+- Bjørnedyrets ekstreme dvaletilstand
+- Skorpioners giftige sexliv
+- Satellitter lagd av tre
+</itunes:summary></item><item><title>Å smake med testiklene</title><link>https://podkast.nrk.no/fil/abels_taarn/997c24e4-799d-4422-b10d-0da716f1b3b7_0_ID192MP3.mp3</link><description>Menn har smaksceller i testiklene, fant forskere ut i 2013. Og stadig oppdages flere malplasserte smaksceller i kroppen vår.
+
+Hanne Aass gjør et dypdykk i temaet</description><pubDate>Sat, 24 Feb 2024 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/997c24e4-799d-4422-b10d-0da716f1b3b7_0_ID192MP3.mp3" length="1162" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/U8hgC9qjPQDdi89TOwVkTQRYSNDV_1FobiACGFu-2IKw"></itunes:image><itunes:duration>0:19:22</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Å smake med testiklene</itunes:subtitle><itunes:summary>Menn har smaksceller i testiklene, fant forskere ut i 2013. Og stadig oppdages flere malplasserte smaksceller i kroppen vår.
+
+Hanne Aass gjør et dypdykk i temaet</itunes:summary></item><item><title>Hvorfor blir man aldri tett i begge nesebor samtidig?</title><link>https://podkast.nrk.no/fil/abels_taarn/0e62b8a2-b5ac-4e62-8dc6-e6b1df3a6d84_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud deg svar på det du ikke visste du ville vite:
 
 - Hvordan stilte man uret korrekt i gamle dager?
 - Hjelper en full urinblære oss å holde varmen?
@@ -69,7 +128,20 @@ Hanne Aass gjør et dypdykk i temaet</description><pubDate>Sat, 24 Feb 2024 07:0
 I dagens panel:
 Lege Erik Sveberg Dietrichs
 Fysiker Gaute Einevoll 
-Primatolog Anita Eriksen</description><pubDate>Fri, 23 Feb 2024 10:00:00 GMT</pubDate></item><item><title>Hva er en "human" dødsstraff? </title><link>https://podkast.nrk.no/fil/abels_taarn/8b0ded04-1467-47e4-ac8b-6cfa08cf0973_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+Primatolog Anita Eriksen</description><pubDate>Fri, 23 Feb 2024 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/0e62b8a2-b5ac-4e62-8dc6-e6b1df3a6d84_0_ID192MP3.mp3" length="3477" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/eysjU1-Cut0obKZdL8eXyw084jA3prbknf9liedvjp_w"></itunes:image><itunes:duration>0:57:57</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Hvorfor blir man aldri tett i begge nesebor samtidig?</itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud deg svar på det du ikke visste du ville vite:
+
+- Hvordan stilte man uret korrekt i gamle dager?
+- Hjelper en full urinblære oss å holde varmen?
+- Hvorfor blir ikke apene smartere?
+- Hva er mulige måter å kurere Alzheimer på?
+- Hvorfor blir man aldri tett i begge nesebor samtidig?
+- Er syn virkelig vår viktigste sans?
+- Har blekksprut med sine mange hjerner også flere bevisstheter?   
+
+I dagens panel:
+Lege Erik Sveberg Dietrichs
+Fysiker Gaute Einevoll 
+Primatolog Anita Eriksen</itunes:summary></item><item><title>Hva er en "human" dødsstraff? </title><link>https://podkast.nrk.no/fil/abels_taarn/8b0ded04-1467-47e4-ac8b-6cfa08cf0973_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
 
 - Hva er fysikken bak felleski? 
 - Blir is glattere hvis man fryser såpevann? 
@@ -82,11 +154,28 @@ Fysiker Anja Røyne
 Rettsmedisiner Ida Kathrine Gravensten
 Fysiker Henrik Sveinsson
 
-Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK Radio-appen eller send en mail til abels@nrk.no. </description><pubDate>Fri, 16 Feb 2024 11:00:00 GMT</pubDate></item><item><title>Oppenheimer: Nå har jeg blitt døden</title><link>https://podkast.nrk.no/fil/abels_taarn/1512b127-9c15-4a34-8e71-cedae4865b1f_0_ID192MP3.mp3</link><description>(Reprise) Oscarutdelinga nærmer seg og filmen Oppenheimer har gode sjanser. Vi tar derfor et gjenhør med episoden vår om atombombens far.
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK Radio-appen eller send en mail til abels@nrk.no. </description><pubDate>Fri, 16 Feb 2024 11:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/8b0ded04-1467-47e4-ac8b-6cfa08cf0973_0_ID192MP3.mp3" length="3460" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/ZFlKRfbLCbCC93lekFOArQsnsdbxgYhF7eWiG-epRuCw"></itunes:image><itunes:duration>0:57:40</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Hva er en "human" dødsstraff? </itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
 
-Torkild Jemterud gjør et dypdykk i temaet. </description><pubDate>Fri, 16 Feb 2024 10:00:00 GMT</pubDate></item><item><title>Alt du (ikke) vil vite om kjønnssykdommer</title><link>https://podkast.nrk.no/fil/abels_taarn/94f08ecd-c0d8-4848-90e5-946c47dad986_0_ID192MP3.mp3</link><description>(Reprise) Vi dukker ned i mikroskopet og gransker alskens kjønnssykdommer når vi får besøk av Dr. Ellen Støkken Dahl som skrev boka "Gleden med skjeden". Nå har hun begått en ny bok som har fått tittelen - "I seng med fienden, skrekkelige fortellinger om kjønnssykdommer"
+- Hva er fysikken bak felleski? 
+- Blir is glattere hvis man fryser såpevann? 
+- Hvorfor snorker så mange nordmenn?
+- Hvordan fyre mest effektivt? 
+- Går telen dypere i mildt vær? 
 
-Torkild Jemterud gjør et dypdykk. </description><pubDate>Fri, 09 Feb 2024 10:00:00 GMT</pubDate></item><item><title>Hva er det med tallet 44?</title><link>https://podkast.nrk.no/fil/abels_taarn/8090b590-e6d6-4e4a-9108-d8c3c540a68a_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
+Dagens eksperter:
+Fysiker Anja Røyne
+Rettsmedisiner Ida Kathrine Gravensten
+Fysiker Henrik Sveinsson
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK Radio-appen eller send en mail til abels@nrk.no. </itunes:summary></item><item><title>Oppenheimer: Nå har jeg blitt døden</title><link>https://podkast.nrk.no/fil/abels_taarn/1512b127-9c15-4a34-8e71-cedae4865b1f_0_ID192MP3.mp3</link><description>(Reprise) Oscarutdelinga nærmer seg og filmen Oppenheimer har gode sjanser. Vi tar derfor et gjenhør med episoden vår om atombombens far.
+
+Torkild Jemterud gjør et dypdykk i temaet. </description><pubDate>Fri, 16 Feb 2024 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/1512b127-9c15-4a34-8e71-cedae4865b1f_0_ID192MP3.mp3" length="3460" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/Q0eTKDg2XArTCx1PYonh1wH9Fdb0PMsOkv8Yk9jV-PIw"></itunes:image><itunes:duration>0:57:40</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Oppenheimer: Nå har jeg blitt døden</itunes:subtitle><itunes:summary>(Reprise) Oscarutdelinga nærmer seg og filmen Oppenheimer har gode sjanser. Vi tar derfor et gjenhør med episoden vår om atombombens far.
+
+Torkild Jemterud gjør et dypdykk i temaet. </itunes:summary></item><item><title>Alt du (ikke) vil vite om kjønnssykdommer</title><link>https://podkast.nrk.no/fil/abels_taarn/94f08ecd-c0d8-4848-90e5-946c47dad986_0_ID192MP3.mp3</link><description>(Reprise) Vi dukker ned i mikroskopet og gransker alskens kjønnssykdommer når vi får besøk av Dr. Ellen Støkken Dahl som skrev boka "Gleden med skjeden". Nå har hun begått en ny bok som har fått tittelen - "I seng med fienden, skrekkelige fortellinger om kjønnssykdommer"
+
+Torkild Jemterud gjør et dypdykk. </description><pubDate>Fri, 09 Feb 2024 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/94f08ecd-c0d8-4848-90e5-946c47dad986_0_ID192MP3.mp3" length="3432" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/z2wTEVd95q1_VxctFi-vMA15pZFuzfxUVRjucQ7xbiew"></itunes:image><itunes:duration>0:57:12</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Alt du (ikke) vil vite om kjønnssykdommer</itunes:subtitle><itunes:summary>(Reprise) Vi dukker ned i mikroskopet og gransker alskens kjønnssykdommer når vi får besøk av Dr. Ellen Støkken Dahl som skrev boka "Gleden med skjeden". Nå har hun begått en ny bok som har fått tittelen - "I seng med fienden, skrekkelige fortellinger om kjønnssykdommer"
+
+Torkild Jemterud gjør et dypdykk. </itunes:summary></item><item><title>Hva er det med tallet 44?</title><link>https://podkast.nrk.no/fil/abels_taarn/8090b590-e6d6-4e4a-9108-d8c3c540a68a_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
 
 Hvorfor mister mannfolk håret?
 Er Nord-Norges strender lagd av korall?
@@ -100,14 +189,35 @@ Matematiker Hans Munthe-Kaas
 Arktisk biolog Audun Rickhardsen 
 Psykolog Audun Hetland
 
-Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</description><pubDate>Fri, 09 Feb 2024 10:00:00 GMT</pubDate></item><item><title>Forskningsfronten - Hvithaiunge og Elon Musks hjernechip</title><link>https://podkast.nrk.no/fil/abels_taarn/d7867b34-08d2-46e0-b189-2609d97dcd6d_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</description><pubDate>Fri, 09 Feb 2024 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/8090b590-e6d6-4e4a-9108-d8c3c540a68a_0_ID192MP3.mp3" length="3448" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/fPSsd_n65KoLb8rqRZmfbgoSvlyqA8QO2vrKzyGXrlRA"></itunes:image><itunes:duration>0:57:28</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Hva er det med tallet 44?</itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
+
+Hvorfor mister mannfolk håret?
+Er Nord-Norges strender lagd av korall?
+Hvorfor får jeg ikke høydeskrekk under fallskjermhopping?
+Vil KI kunne løse de store matematiske gåtene?
+Er spekkhoggere aggressive?
+Hvorfor er fibonacci-tallene så populære i universet?
+
+Dagens eksperter:
+Matematiker Hans Munthe-Kaas
+Arktisk biolog Audun Rickhardsen 
+Psykolog Audun Hetland
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</itunes:summary></item><item><title>Forskningsfronten - Hvithaiunge og Elon Musks hjernechip</title><link>https://podkast.nrk.no/fil/abels_taarn/d7867b34-08d2-46e0-b189-2609d97dcd6d_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter
 
 - Hvithaiunge observert for første gang                    
 - Virus med gener gir nytt håp for døve                                                       
 - En chip i hjernen fra Elon Musk
-- Kikerter dyrket i månejord</description><pubDate>Mon, 05 Feb 2024 06:00:00 GMT</pubDate></item><item><title>Den myteomspunne chagasoppen</title><link>https://podkast.nrk.no/fil/abels_taarn/c04e0c63-7b0c-41fd-9d6e-85c95d4b843d_0_ID192MP3.mp3</link><description>Det sies at chagasoppen er bra for det meste, men kanskje du bør tenke deg litt om før du brygger deg en kopp.
+- Kikerter dyrket i månejord</description><pubDate>Mon, 05 Feb 2024 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/d7867b34-08d2-46e0-b189-2609d97dcd6d_0_ID192MP3.mp3" length="1896" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/-DF69MbQc5FI2a9LqjuKfgQc4-_GheFZXo9x7toTmpmQ"></itunes:image><itunes:duration>0:31:36</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Hvithaiunge og Elon Musks hjernechip</itunes:subtitle><itunes:summary>Torkild, Hanne og Annette deler små og store forskningsnyheter
 
-Annette Hobson gjør et dypdykk i temaet </description><pubDate>Sat, 03 Feb 2024 07:00:00 GMT</pubDate></item><item><title>Kan man bli forgiftet av en gammel lysekrone? </title><link>https://podkast.nrk.no/fil/abels_taarn/fdef85ef-3924-427d-8de9-d859c6433b8a_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
+- Hvithaiunge observert for første gang                    
+- Virus med gener gir nytt håp for døve                                                       
+- En chip i hjernen fra Elon Musk
+- Kikerter dyrket i månejord</itunes:summary></item><item><title>Den myteomspunne chagasoppen</title><link>https://podkast.nrk.no/fil/abels_taarn/c04e0c63-7b0c-41fd-9d6e-85c95d4b843d_0_ID192MP3.mp3</link><description>Det sies at chagasoppen er bra for det meste, men kanskje du bør tenke deg litt om før du brygger deg en kopp.
+
+Annette Hobson gjør et dypdykk i temaet </description><pubDate>Sat, 03 Feb 2024 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/c04e0c63-7b0c-41fd-9d6e-85c95d4b843d_0_ID192MP3.mp3" length="1415" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/PN5oNYG740t-R9KIBlO8fAjr2VGCTfEpqDPM-SaHoKHg"></itunes:image><itunes:duration>0:23:35</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Den myteomspunne chagasoppen</itunes:subtitle><itunes:summary>Det sies at chagasoppen er bra for det meste, men kanskje du bør tenke deg litt om før du brygger deg en kopp.
+
+Annette Hobson gjør et dypdykk i temaet </itunes:summary></item><item><title>Kan man bli forgiftet av en gammel lysekrone? </title><link>https://podkast.nrk.no/fil/abels_taarn/fdef85ef-3924-427d-8de9-d859c6433b8a_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
 
 Er tidevann årsaken til at livet gikk fra havet og opp på land? 
 Hvordan klarer mors melk bli så tilpasset barnets behov? 
@@ -121,12 +231,31 @@ Paleontolog Lene Liebe Delsett
 
 Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no
 
-</description><pubDate>Fri, 02 Feb 2024 10:00:00 GMT</pubDate></item><item><title>Forskningsfronten - Spermageddon, PFAS-problemet og kvarker i løsvekt</title><link>https://podkast.nrk.no/fil/abels_taarn/47057e2d-cd1d-4eca-8914-65696e514693_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter 
+</description><pubDate>Fri, 02 Feb 2024 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/fdef85ef-3924-427d-8de9-d859c6433b8a_0_ID192MP3.mp3" length="3451" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/zhFiKjUFCvBRi1N-XeLO2wnMcZcoyUCyMEmuHxYj4IBQ"></itunes:image><itunes:duration>0:57:31</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Kan man bli forgiftet av en gammel lysekrone? </itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
+
+Er tidevann årsaken til at livet gikk fra havet og opp på land? 
+Hvordan klarer mors melk bli så tilpasset barnets behov? 
+Når kan vi dele mennesker inn i ulike arter? 
+Hvorfor blir ikke egenskapen blå øyne utryddet? 
+Finnes det fossiler etter mennesker?
+
+Dagens eksperter:
+Biolog Julie Sørlie Paus-Knudsen 
+Paleontolog Lene Liebe Delsett
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no
+
+</itunes:summary></item><item><title>Forskningsfronten - Spermageddon, PFAS-problemet og kvarker i løsvekt</title><link>https://podkast.nrk.no/fil/abels_taarn/47057e2d-cd1d-4eca-8914-65696e514693_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter 
 
 - Menns sædkvalitet fortsetter å synke globalt
 - Mulig løsning på PFAS-marerittet
-- Kvarker funnet i løsvekt på et ekstremt sted</description><pubDate>Mon, 29 Jan 2024 06:00:00 GMT</pubDate></item><item><title>Isbjørn i svart-hvitt</title><link>https://podkast.nrk.no/fil/abels_taarn/642f6afe-9581-4be6-abd9-326cdb42772f_0_ID192MP3.mp3</link><description>Hvorfor er isbjørnens snute helt svart når resten av den er hvit? Lyver vi så vi tror det selv? Og hvorfor blir noen dyr hauggamle? Arktisk biolog Audun Rikardsen og psykolog Audun Hetland gir deg svarene 
-</description><pubDate>Sat, 27 Jan 2024 07:00:00 GMT</pubDate></item><item><title>Hvor mye kan en hund lære gitt uendelig med tid?</title><link>https://podkast.nrk.no/fil/abels_taarn/66ce8baa-40d2-4b5e-9be0-c4c9215f5621_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på at du ikke visste du lurte på
+- Kvarker funnet i løsvekt på et ekstremt sted</description><pubDate>Mon, 29 Jan 2024 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/47057e2d-cd1d-4eca-8914-65696e514693_0_ID192MP3.mp3" length="1888" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/Jo7m2a-9ig5zZ65e2QpGggZu-J9PosJK44Afp2-0xp0A"></itunes:image><itunes:duration>0:31:28</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Spermageddon, PFAS-problemet og kvarker i løsvekt</itunes:subtitle><itunes:summary>Torkild, Hanne og Annette deler små og store forskningsnyheter 
+
+- Menns sædkvalitet fortsetter å synke globalt
+- Mulig løsning på PFAS-marerittet
+- Kvarker funnet i løsvekt på et ekstremt sted</itunes:summary></item><item><title>Isbjørn i svart-hvitt</title><link>https://podkast.nrk.no/fil/abels_taarn/642f6afe-9581-4be6-abd9-326cdb42772f_0_ID192MP3.mp3</link><description>Hvorfor er isbjørnens snute helt svart når resten av den er hvit? Lyver vi så vi tror det selv? Og hvorfor blir noen dyr hauggamle? Arktisk biolog Audun Rikardsen og psykolog Audun Hetland gir deg svarene 
+</description><pubDate>Sat, 27 Jan 2024 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/642f6afe-9581-4be6-abd9-326cdb42772f_0_ID192MP3.mp3" length="1476" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/dbTuyB--2kfh5_hwKhkxfQ6FvpRVo-yS2jDVJRrOZ1Cw"></itunes:image><itunes:duration>0:24:36</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Isbjørn i svart-hvitt</itunes:subtitle><itunes:summary>Hvorfor er isbjørnens snute helt svart når resten av den er hvit? Lyver vi så vi tror det selv? Og hvorfor blir noen dyr hauggamle? Arktisk biolog Audun Rikardsen og psykolog Audun Hetland gir deg svarene 
+</itunes:summary></item><item><title>Hvor mye kan en hund lære gitt uendelig med tid?</title><link>https://podkast.nrk.no/fil/abels_taarn/66ce8baa-40d2-4b5e-9be0-c4c9215f5621_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på at du ikke visste du lurte på
 
 Hvorfor fryser kokende vann når det kastes i luften?	
 Har ikke lamme refleksbevegelser?		
@@ -140,12 +269,31 @@ Biolog Kjetil Lysne Voje
 Fysiker Torunn Kjeldstad
 Lege Per Brodal
 
-Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</description><pubDate>Fri, 26 Jan 2024 10:00:00 GMT</pubDate></item><item><title>Forskningsfronten - Einsteinflisen, vulkaner og kvantedatemaskiner</title><link>https://podkast.nrk.no/fil/abels_taarn/5ac6736e-02eb-45ed-bccf-ae4a23e9d9fc_0_ID192MP3.mp3</link><description>Torkild Jemterud, matematiker Hans Munthe-Kaas og geolog Perle Myhre deler små og store forskningsnyheter
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</description><pubDate>Fri, 26 Jan 2024 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/66ce8baa-40d2-4b5e-9be0-c4c9215f5621_0_ID192MP3.mp3" length="3450" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/ut3JRbXySA-bPWfa8pN9Kw2wVUvlIKMXuE8KBazErbAQ"></itunes:image><itunes:duration>0:57:30</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Hvor mye kan en hund lære gitt uendelig med tid?</itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på at du ikke visste du lurte på
+
+Hvorfor fryser kokende vann når det kastes i luften?	
+Har ikke lamme refleksbevegelser?		
+Hvor mange vindturbiner må til for å erstatt et vannkraftanlegg? 
+Kan mennesker i koma oppleve ting som skjer med dem?
+Er mumiene fra verdensrommet ekte?	 
+Hvor lang bakke kreves for å lade et tomt bilbatteri? 
+
+Dagens eksperter:
+Biolog Kjetil Lysne Voje
+Fysiker Torunn Kjeldstad
+Lege Per Brodal
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</itunes:summary></item><item><title>Forskningsfronten - Einsteinflisen, vulkaner og kvantedatemaskiner</title><link>https://podkast.nrk.no/fil/abels_taarn/5ac6736e-02eb-45ed-bccf-ae4a23e9d9fc_0_ID192MP3.mp3</link><description>Torkild Jemterud, matematiker Hans Munthe-Kaas og geolog Perle Myhre deler små og store forskningsnyheter
 
 - Einstein-flisen endelig funnet
 - Vulkaner på Island
-- Kineserne satser ikke på kvantedatamaskin</description><pubDate>Mon, 22 Jan 2024 06:00:00 GMT</pubDate></item><item><title>Størmer og Lie, mennene, mytene og matematikken</title><link>https://podkast.nrk.no/fil/abels_taarn/61415227-9318-46b5-add1-ae5161aa2ca3_0_ID192MP3.mp3</link><description>I Tromsø åpnes Li-Størmer Senter, et nytt norsk senter for matematikk. Torkild Jemterud finner ut hvorfor stedet er oppkalt etter to av Norges viktigste matematikere. 
-</description><pubDate>Sat, 20 Jan 2024 06:00:00 GMT</pubDate></item><item><title>Kan man bruke vulkaner til avfallshåndtering? </title><link>https://podkast.nrk.no/fil/abels_taarn/65c94035-2247-41e0-b14f-701ce074ffd7_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
+- Kineserne satser ikke på kvantedatamaskin</description><pubDate>Mon, 22 Jan 2024 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/5ac6736e-02eb-45ed-bccf-ae4a23e9d9fc_0_ID192MP3.mp3" length="1799" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/i-6FZVZdDOA-2Q3HkqwE8A9Al-uQKq-YH_r7viLIQ8oQ"></itunes:image><itunes:duration>0:29:59</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Einsteinflisen, vulkaner og kvantedatemaskiner</itunes:subtitle><itunes:summary>Torkild Jemterud, matematiker Hans Munthe-Kaas og geolog Perle Myhre deler små og store forskningsnyheter
+
+- Einstein-flisen endelig funnet
+- Vulkaner på Island
+- Kineserne satser ikke på kvantedatamaskin</itunes:summary></item><item><title>Størmer og Lie, mennene, mytene og matematikken</title><link>https://podkast.nrk.no/fil/abels_taarn/61415227-9318-46b5-add1-ae5161aa2ca3_0_ID192MP3.mp3</link><description>I Tromsø åpnes Li-Størmer Senter, et nytt norsk senter for matematikk. Torkild Jemterud finner ut hvorfor stedet er oppkalt etter to av Norges viktigste matematikere. 
+</description><pubDate>Sat, 20 Jan 2024 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/61415227-9318-46b5-add1-ae5161aa2ca3_0_ID192MP3.mp3" length="1702" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/eN86_jJrupymxF8ZwO9NWgUBn3yE84thKBta15qkbCWw"></itunes:image><itunes:duration>0:28:22</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Størmer og Lie, mennene, mytene og matematikken</itunes:subtitle><itunes:summary>I Tromsø åpnes Li-Størmer Senter, et nytt norsk senter for matematikk. Torkild Jemterud finner ut hvorfor stedet er oppkalt etter to av Norges viktigste matematikere. 
+</itunes:summary></item><item><title>Kan man bruke vulkaner til avfallshåndtering? </title><link>https://podkast.nrk.no/fil/abels_taarn/65c94035-2247-41e0-b14f-701ce074ffd7_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
 
 Hvorfor spiser vi gytemoden torsk?
 Kan bakterier muteres til å muteres raskere?
@@ -160,13 +308,34 @@ Marinbiolog Marit Reigestad
 Overlege og mikrobiolog Gunnar Skov Simonsen
 Geolog Perle Myhre
 
- Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</description><pubDate>Fri, 19 Jan 2024 10:00:00 GMT</pubDate></item><item><title>Forskningsfronten - Småprat med knølhval og trøbbel i universet</title><link>https://podkast.nrk.no/fil/abels_taarn/48bdb226-87c7-46be-8f61-7b3abf424060_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter
+ Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</description><pubDate>Fri, 19 Jan 2024 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/65c94035-2247-41e0-b14f-701ce074ffd7_0_ID192MP3.mp3" length="3427" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/IPJvQT2TLh4StR9pfEP9-gJOlPmTIQpVzKdplBx_JCiw"></itunes:image><itunes:duration>0:57:07</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Kan man bruke vulkaner til avfallshåndtering? </itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
+
+Hvorfor spiser vi gytemoden torsk?
+Kan bakterier muteres til å muteres raskere?
+Finnes det dyr med fotosyntese?
+Må man fullføre antibiotikakuren?
+Hvordan holder jorda seg flytende i midten?
+Hvorfor flyter ikke polisen vekk?
+Burde bakteriofager hete noe annet?
+
+Dagens eksperter:
+Marinbiolog Marit Reigestad
+Overlege og mikrobiolog Gunnar Skov Simonsen
+Geolog Perle Myhre
+
+ Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no</itunes:summary></item><item><title>Forskningsfronten - Småprat med knølhval og trøbbel i universet</title><link>https://podkast.nrk.no/fil/abels_taarn/48bdb226-87c7-46be-8f61-7b3abf424060_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter
 
 - Problematisk hyttebygging
 - Forskere kommuniserer med knølhvalens WHUP-lyder
-- Voyager-romsondene sliter </description><pubDate>Mon, 15 Jan 2024 06:00:00 GMT</pubDate></item><item><title>Sex, dop og en delfin ved navn Peter</title><link>https://podkast.nrk.no/fil/abels_taarn/db6d3618-8552-4b28-9fb4-e435d4b979a7_0_ID192MP3.mp3</link><description>En absurde forskningshistoriene om en delfin som skulle lære å snakke engelsk.
+- Voyager-romsondene sliter </description><pubDate>Mon, 15 Jan 2024 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/48bdb226-87c7-46be-8f61-7b3abf424060_0_ID192MP3.mp3" length="1653" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/7_8a-sJRWPVdzAys-IA23A7hbs8Y-DrJ327CrGcHkmmw"></itunes:image><itunes:duration>0:27:33</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Småprat med knølhval og trøbbel i universet</itunes:subtitle><itunes:summary>Torkild, Hanne og Annette deler små og store forskningsnyheter
 
-Annette Hobson gjør et dypdykk i temaet</description><pubDate>Sat, 13 Jan 2024 06:00:00 GMT</pubDate></item><item><title>Hva er greia med A- og B-mennesker?</title><link>https://podkast.nrk.no/fil/abels_taarn/d8e72c42-2932-4258-a7bd-dd16d3bb77ea_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på 
+- Problematisk hyttebygging
+- Forskere kommuniserer med knølhvalens WHUP-lyder
+- Voyager-romsondene sliter </itunes:summary></item><item><title>Sex, dop og en delfin ved navn Peter</title><link>https://podkast.nrk.no/fil/abels_taarn/db6d3618-8552-4b28-9fb4-e435d4b979a7_0_ID192MP3.mp3</link><description>En absurde forskningshistoriene om en delfin som skulle lære å snakke engelsk.
+
+Annette Hobson gjør et dypdykk i temaet</description><pubDate>Sat, 13 Jan 2024 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/db6d3618-8552-4b28-9fb4-e435d4b979a7_0_ID192MP3.mp3" length="1837" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/PBlx2WdwkWcmOUpBOrj3Uw0CeCPIauTDIQzDoXcQNZeg"></itunes:image><itunes:duration>0:30:37</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Sex, dop og en delfin ved navn Peter</itunes:subtitle><itunes:summary>En absurde forskningshistoriene om en delfin som skulle lære å snakke engelsk.
+
+Annette Hobson gjør et dypdykk i temaet</itunes:summary></item><item><title>Hva er greia med A- og B-mennesker?</title><link>https://podkast.nrk.no/fil/abels_taarn/d8e72c42-2932-4258-a7bd-dd16d3bb77ea_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på 
 
 Hvorfor har eggs koketid økt? 
 Hvor tynt kan gull bli?
@@ -181,35 +350,78 @@ Fysiker Ole Martin Løvvik
 «Kjøkkenfysiker» Joachim Mossige
 
 Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no 
-</description><pubDate>Fri, 12 Jan 2024 10:00:00 GMT</pubDate></item><item><title>3:3 Vi spår forskningsgjennombruddene i 2024</title><link>https://podkast.nrk.no/fil/abels_taarn/65462fac-a2bc-4c9c-9522-360d3f211485_0_ID192MP3.mp3</link><description>KI-genererte medisiner, nye temperaturrekorder og mennesker til månen det kommende året. Ekspertene skuer inn i krystallkula og spår de vitenskapelige og teknologiske gjennombruddene i 2024.
+</description><pubDate>Fri, 12 Jan 2024 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/d8e72c42-2932-4258-a7bd-dd16d3bb77ea_0_ID192MP3.mp3" length="3466" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/PGbFEl_rB21Q9Mqpi5m9JAThEYPipqLgusPra5YaInqw"></itunes:image><itunes:duration>0:57:46</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Hva er greia med A- og B-mennesker?</itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på 
+
+Hvorfor har eggs koketid økt? 
+Hvor tynt kan gull bli?
+Hvorfor er det flere fargerike og giftige dyr sørover?
+Kjernen i jorda er tung, mens i sola lett, hvorfor?
+Hvorfor kan man blåse bobler av spytt?
+Er ristet brød mindre vitaminrikt enn uristet?
+
+Dagens eksperter:
+Biolog Katharina Vestre
+Fysiker Ole Martin Løvvik 
+«Kjøkkenfysiker» Joachim Mossige
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no 
+</itunes:summary></item><item><title>3:3 Vi spår forskningsgjennombruddene i 2024</title><link>https://podkast.nrk.no/fil/abels_taarn/65462fac-a2bc-4c9c-9522-360d3f211485_0_ID192MP3.mp3</link><description>KI-genererte medisiner, nye temperaturrekorder og mennesker til månen det kommende året. Ekspertene skuer inn i krystallkula og spår de vitenskapelige og teknologiske gjennombruddene i 2024.
 
 I panelet:
 Fysiker- og KI forsker Inga Strümke
 Klimaforsker Bjørn Samset
 Molekylærbiolog Sigrid Bratlie
-Romforsker Pål Brekke</description><pubDate>Fri, 05 Jan 2024 10:03:00 GMT</pubDate></item><item><title>2:3 Vi kårer de største forskningsgjennombruddene i 2023</title><link>https://podkast.nrk.no/fil/abels_taarn/f8da1793-e621-4c59-bb5a-c7e9496b5e91_0_ID192MP3.mp3</link><description>Bio-ChatGPT hallusinerer nye gener, banebrytende medisiner og månelanding er noe av det som venter deg i denne godteposen av en episode. Fire eksperter oppsummerer forskningsåret som kom og gikk.
+Romforsker Pål Brekke</description><pubDate>Fri, 05 Jan 2024 10:03:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/65462fac-a2bc-4c9c-9522-360d3f211485_0_ID192MP3.mp3" length="1749" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gHW_MTatEad2v6u3Ra9y9pQ"></itunes:image><itunes:duration>0:29:09</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>3:3 Vi spår forskningsgjennombruddene i 2024</itunes:subtitle><itunes:summary>KI-genererte medisiner, nye temperaturrekorder og mennesker til månen det kommende året. Ekspertene skuer inn i krystallkula og spår de vitenskapelige og teknologiske gjennombruddene i 2024.
 
 I panelet:
 Fysiker- og KI forsker Inga Strümke
 Klimaforsker Bjørn Samset
 Molekylærbiolog Sigrid Bratlie
-Romforsker Pål Brekke </description><pubDate>Fri, 05 Jan 2024 10:01:00 GMT</pubDate></item><item><title>1:3 Vi kårer de største forskningsgjennombruddene i 2023</title><link>https://podkast.nrk.no/fil/abels_taarn/2c66d71d-24d4-4a05-a7ab-b361838eb8d9_0_ID192MP3.mp3</link><description>Bio-ChatGPT hallusinerer nye gener, banebrytende medisiner og månelanding er noe av det som venter deg i denne godteposen av en episode. Fire eksperter oppsummerer forskningsåret som kom og gikk.
+Romforsker Pål Brekke</itunes:summary></item><item><title>2:3 Vi kårer de største forskningsgjennombruddene i 2023</title><link>https://podkast.nrk.no/fil/abels_taarn/f8da1793-e621-4c59-bb5a-c7e9496b5e91_0_ID192MP3.mp3</link><description>Bio-ChatGPT hallusinerer nye gener, banebrytende medisiner og månelanding er noe av det som venter deg i denne godteposen av en episode. Fire eksperter oppsummerer forskningsåret som kom og gikk.
 
 I panelet:
 Fysiker- og KI forsker Inga Strümke
 Klimaforsker Bjørn Samset
 Molekylærbiolog Sigrid Bratlie
-Romforsker Pål Brekke </description><pubDate>Fri, 05 Jan 2024 10:00:00 GMT</pubDate></item><item><title>Årskavalkade 2023</title><link>https://podkast.nrk.no/fil/abels_taarn/299c6f79-7e50-4ba3-9dbc-576c36bcfae4_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette byr på et raust tilbakeblikk på årets sendinger.
+Romforsker Pål Brekke </description><pubDate>Fri, 05 Jan 2024 10:01:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/f8da1793-e621-4c59-bb5a-c7e9496b5e91_0_ID192MP3.mp3" length="1767" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gHW_MTatEad2v6u3Ra9y9pQ"></itunes:image><itunes:duration>0:29:27</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>2:3 Vi kårer de største forskningsgjennombruddene i 2023</itunes:subtitle><itunes:summary>Bio-ChatGPT hallusinerer nye gener, banebrytende medisiner og månelanding er noe av det som venter deg i denne godteposen av en episode. Fire eksperter oppsummerer forskningsåret som kom og gikk.
+
+I panelet:
+Fysiker- og KI forsker Inga Strümke
+Klimaforsker Bjørn Samset
+Molekylærbiolog Sigrid Bratlie
+Romforsker Pål Brekke </itunes:summary></item><item><title>1:3 Vi kårer de største forskningsgjennombruddene i 2023</title><link>https://podkast.nrk.no/fil/abels_taarn/2c66d71d-24d4-4a05-a7ab-b361838eb8d9_0_ID192MP3.mp3</link><description>Bio-ChatGPT hallusinerer nye gener, banebrytende medisiner og månelanding er noe av det som venter deg i denne godteposen av en episode. Fire eksperter oppsummerer forskningsåret som kom og gikk.
+
+I panelet:
+Fysiker- og KI forsker Inga Strümke
+Klimaforsker Bjørn Samset
+Molekylærbiolog Sigrid Bratlie
+Romforsker Pål Brekke </description><pubDate>Fri, 05 Jan 2024 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/2c66d71d-24d4-4a05-a7ab-b361838eb8d9_0_ID192MP3.mp3" length="3458" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gHW_MTatEad2v6u3Ra9y9pQ"></itunes:image><itunes:duration>0:57:38</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>1:3 Vi kårer de største forskningsgjennombruddene i 2023</itunes:subtitle><itunes:summary>Bio-ChatGPT hallusinerer nye gener, banebrytende medisiner og månelanding er noe av det som venter deg i denne godteposen av en episode. Fire eksperter oppsummerer forskningsåret som kom og gikk.
+
+I panelet:
+Fysiker- og KI forsker Inga Strümke
+Klimaforsker Bjørn Samset
+Molekylærbiolog Sigrid Bratlie
+Romforsker Pål Brekke </itunes:summary></item><item><title>Årskavalkade 2023</title><link>https://podkast.nrk.no/fil/abels_taarn/299c6f79-7e50-4ba3-9dbc-576c36bcfae4_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette byr på et raust tilbakeblikk på årets sendinger.
 
 Vi sender strøm gjennom publikum, og finner ut om baksten blir bedre når månen er ny.
 Vi spiser giftsopper, regenererer kroppsdeler og bruker karaoke som medisin.
-Vi gir grunnstoffene en poetisk overhaling og ønsker alle våre lyttere et riktig godt nytt år!</description><pubDate>Fri, 29 Dec 2023 11:00:00 GMT</pubDate></item><item><title>Forskningsfronten - Stormunnet hai og alkoholens påvirkning på hjernebarken</title><link>https://podkast.nrk.no/fil/abels_taarn/08d6911e-dc23-40bb-810f-d9f32e81408c_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter
+Vi gir grunnstoffene en poetisk overhaling og ønsker alle våre lyttere et riktig godt nytt år!</description><pubDate>Fri, 29 Dec 2023 11:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/299c6f79-7e50-4ba3-9dbc-576c36bcfae4_0_ID192MP3.mp3" length="3440" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/S6vqM4Zl0jNlsRjh3cSH3Qg4qhODZglqZItPBRFm38vQ"></itunes:image><itunes:duration>0:57:20</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Årskavalkade 2023</itunes:subtitle><itunes:summary>Torkild, Hanne og Annette byr på et raust tilbakeblikk på årets sendinger.
+
+Vi sender strøm gjennom publikum, og finner ut om baksten blir bedre når månen er ny.
+Vi spiser giftsopper, regenererer kroppsdeler og bruker karaoke som medisin.
+Vi gir grunnstoffene en poetisk overhaling og ønsker alle våre lyttere et riktig godt nytt år!</itunes:summary></item><item><title>Forskningsfronten - Stormunnet hai og alkoholens påvirkning på hjernebarken</title><link>https://podkast.nrk.no/fil/abels_taarn/08d6911e-dc23-40bb-810f-d9f32e81408c_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter
                       
 - Alkoholikeres hjernebark kan repareres
 - Sjeldent funn av drektig stormunnet hai
-- Atomklokke, julegaven til den som har alt </description><pubDate>Mon, 25 Dec 2023 07:00:00 GMT</pubDate></item><item><title>Hjerneceller koblet til datachip lærer stemmegjenkjenning</title><link>https://podkast.nrk.no/fil/abels_taarn/9958031f-e54f-48d5-a166-92b948fc53e7_0_ID192MP3.mp3</link><description>Menneskelige hjerneceller, dyrket i en petriskål, har blitt koblet til en datachip og trent med kunstig intelligens-algoritmer. Neurobiolog Marianne Fyhn og  fysiker Anders Malthe-Sørenssen forklarer hvordan disse cellene nå kan gjenkjenne stemmer. 
+- Atomklokke, julegaven til den som har alt </description><pubDate>Mon, 25 Dec 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/08d6911e-dc23-40bb-810f-d9f32e81408c_0_ID192MP3.mp3" length="1636" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/REvqCJCiB4H3ocGmprBsYwIcWDvTDQcjWF3Xz_IRyQfg"></itunes:image><itunes:duration>0:27:16</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Stormunnet hai og alkoholens påvirkning på hjernebarken</itunes:subtitle><itunes:summary>Torkild, Hanne og Annette deler små og store forskningsnyheter
+                      
+- Alkoholikeres hjernebark kan repareres
+- Sjeldent funn av drektig stormunnet hai
+- Atomklokke, julegaven til den som har alt </itunes:summary></item><item><title>Hjerneceller koblet til datachip lærer stemmegjenkjenning</title><link>https://podkast.nrk.no/fil/abels_taarn/9958031f-e54f-48d5-a166-92b948fc53e7_0_ID192MP3.mp3</link><description>Menneskelige hjerneceller, dyrket i en petriskål, har blitt koblet til en datachip og trent med kunstig intelligens-algoritmer. Neurobiolog Marianne Fyhn og  fysiker Anders Malthe-Sørenssen forklarer hvordan disse cellene nå kan gjenkjenne stemmer. 
 
-Torkild Jemterud gjør et dypdykk i temaet </description><pubDate>Sat, 23 Dec 2023 08:00:00 GMT</pubDate></item><item><title>Hvilke superkrefter har egentlig julenissen? </title><link>https://podkast.nrk.no/fil/abels_taarn/e5408101-5d71-470c-9603-26e6c54f9610_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
+Torkild Jemterud gjør et dypdykk i temaet </description><pubDate>Sat, 23 Dec 2023 08:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/9958031f-e54f-48d5-a166-92b948fc53e7_0_ID192MP3.mp3" length="1154" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/xMjLmtE_3XUSlI0i49GaYwX38YOqsjV4XCtDB94HpHbw"></itunes:image><itunes:duration>0:19:14</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Hjerneceller koblet til datachip lærer stemmegjenkjenning</itunes:subtitle><itunes:summary>Menneskelige hjerneceller, dyrket i en petriskål, har blitt koblet til en datachip og trent med kunstig intelligens-algoritmer. Neurobiolog Marianne Fyhn og  fysiker Anders Malthe-Sørenssen forklarer hvordan disse cellene nå kan gjenkjenne stemmer. 
+
+Torkild Jemterud gjør et dypdykk i temaet </itunes:summary></item><item><title>Hvilke superkrefter har egentlig julenissen? </title><link>https://podkast.nrk.no/fil/abels_taarn/e5408101-5d71-470c-9603-26e6c54f9610_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
 
 Er en kinetisk molekylvarmer er en reell greie? 
 Kan min deilige kirsebærlikør inneholde cyanid?    
@@ -223,11 +435,29 @@ Fysiker Vidar Skogvoll
 Psykolog Yasmin Sofia Iqbal  
 Organisk kjemiker Alexander H. Sandtorv  
 
-Send oss dine spørsmål ved å trykke på snakkebobla øvesrt i NRK Radio-appen, eller send en mail til abels@nrk.no</description><pubDate>Fri, 22 Dec 2023 10:00:00 GMT</pubDate></item><item><title>Forskningsfronten - Hjemmekjære myke steinaldermenn og båndtvang for katter</title><link>https://podkast.nrk.no/fil/abels_taarn/c8c2499a-4b12-4754-bc72-58783885738d_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter
+Send oss dine spørsmål ved å trykke på snakkebobla øvesrt i NRK Radio-appen, eller send en mail til abels@nrk.no</description><pubDate>Fri, 22 Dec 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/e5408101-5d71-470c-9603-26e6c54f9610_0_ID192MP3.mp3" length="3455" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/_x9N_qTSldgOPYGWku9XIAVfsK9ha2z0Iw6QFiBXYxZQ"></itunes:image><itunes:duration>0:57:35</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Hvilke superkrefter har egentlig julenissen? </itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
+
+Er en kinetisk molekylvarmer er en reell greie? 
+Kan min deilige kirsebærlikør inneholde cyanid?    
+Hva er grådighet?
+Hvor mange folk kreves det for å riste en brødskive? 
+Kan liv på andre planeter ha samme byggesteiner som oss?     
+Hva heter følelsen av at noen glor på deg? 
+
+Dagens eksperter:
+Fysiker Vidar Skogvoll  
+Psykolog Yasmin Sofia Iqbal  
+Organisk kjemiker Alexander H. Sandtorv  
+
+Send oss dine spørsmål ved å trykke på snakkebobla øvesrt i NRK Radio-appen, eller send en mail til abels@nrk.no</itunes:summary></item><item><title>Forskningsfronten - Hjemmekjære myke steinaldermenn og båndtvang for katter</title><link>https://podkast.nrk.no/fil/abels_taarn/c8c2499a-4b12-4754-bc72-58783885738d_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter
 
 - Steinalderkvinnene var tøffere enn gutta
 - Første datasimulerte hjerne skrus på i 2024
-- Båndtvang for katter</description><pubDate>Mon, 18 Dec 2023 06:00:00 GMT</pubDate></item><item><title>Hva er egentlig kjønnsidentitet?</title><link>https://podkast.nrk.no/fil/abels_taarn/b2917af4-a75a-4ead-913b-0c4105830cc6_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste at du lurte på.
+- Båndtvang for katter</description><pubDate>Mon, 18 Dec 2023 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/c8c2499a-4b12-4754-bc72-58783885738d_0_ID192MP3.mp3" length="1522" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/y-8CBQ37uhuv6iIQgjS_GwZv-m-ob0JH2CiQTFOMHXNA"></itunes:image><itunes:duration>0:25:22</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Hjemmekjære myke steinaldermenn og båndtvang for katter</itunes:subtitle><itunes:summary>Torkild, Hanne og Annette deler små og store forskningsnyheter
+
+- Steinalderkvinnene var tøffere enn gutta
+- Første datasimulerte hjerne skrus på i 2024
+- Båndtvang for katter</itunes:summary></item><item><title>Hva er egentlig kjønnsidentitet?</title><link>https://podkast.nrk.no/fil/abels_taarn/b2917af4-a75a-4ead-913b-0c4105830cc6_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste at du lurte på.
 
 Lukter røkelse mindre nå enn før?
 Hvem blir guden til kunstig intelligens? 
@@ -241,19 +471,45 @@ Datalog Morten Goodwin
 Biolog Anne Sverdrup-Thygeson
 Filosof Einar Duenger Bøhn
 
-Send oss dine spørsmål ved å trykke på snakkebobla øvesrt i NRK Radio-appen, eller send en mail til abels@nrk.no</description><pubDate>Fri, 15 Dec 2023 11:00:00 GMT</pubDate></item><item><title>Simuleringshypotesen</title><link>https://podkast.nrk.no/fil/abels_taarn/b1a19053-fc47-4dab-b03e-cd00300f07b0_0_ID192MP3.mp3</link><description>Lever vi i en simulering? Er vi alle dataspillfigurer i en overlegen sivilisasjons modell av verden?
+Send oss dine spørsmål ved å trykke på snakkebobla øvesrt i NRK Radio-appen, eller send en mail til abels@nrk.no</description><pubDate>Fri, 15 Dec 2023 11:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/b2917af4-a75a-4ead-913b-0c4105830cc6_0_ID192MP3.mp3" length="3457" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/qMVHlAgoA7bBy78UA9Px4wblVhFfKswcQLXvyaNfQ9Sg"></itunes:image><itunes:duration>0:57:37</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Hva er egentlig kjønnsidentitet?</itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste at du lurte på.
+
+Lukter røkelse mindre nå enn før?
+Hvem blir guden til kunstig intelligens? 
+Kan jeg leve videre i en digital kopi?
+Hvilke naturkrefter står bak hekseringer?
+Kan AI forutse jordskjelv?
+Hva er kjønnsidentitet?
+
+Dagens eksperter: 
+Datalog Morten Goodwin
+Biolog Anne Sverdrup-Thygeson
+Filosof Einar Duenger Bøhn
+
+Send oss dine spørsmål ved å trykke på snakkebobla øvesrt i NRK Radio-appen, eller send en mail til abels@nrk.no</itunes:summary></item><item><title>Simuleringshypotesen</title><link>https://podkast.nrk.no/fil/abels_taarn/b1a19053-fc47-4dab-b03e-cd00300f07b0_0_ID192MP3.mp3</link><description>Lever vi i en simulering? Er vi alle dataspillfigurer i en overlegen sivilisasjons modell av verden?
 
 Ikke bare fylles TikTok og YouTube av «videobevis» for glitsjer i matrisen, men overraskende mange seriøse forskere mener også det er sannsynlig. Kanskje mer sannsynlig enn at virkeligheten er som vi tror den er.
 
 KI-superstjerne Inga Strümke er en av dem som mener simuleringshypotesen er plausibel. I Abels tårns mørke og lugubre boksering møter hun teoretisk fysiker og simuleringsskeptiker Anders Kvellestad til den endelige duellen!
 
-Torkild Jemterud tar et dypdykk i temaet.</description><pubDate>Fri, 15 Dec 2023 10:00:00 GMT</pubDate></item><item><title>Forskningsfronten  - Pingviner sover kun 4 sekunder i strekk</title><link>https://podkast.nrk.no/fil/abels_taarn/c39e6c13-f80d-4eda-91c2-1d418601aebd_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter. Vi diskuterer:
+Torkild Jemterud tar et dypdykk i temaet.</description><pubDate>Fri, 15 Dec 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/b1a19053-fc47-4dab-b03e-cd00300f07b0_0_ID192MP3.mp3" length="5369" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/2H6t9MTaVAqw41ye9pOtuAl13mO3GPNDs-HXBl0mGWNQ"></itunes:image><itunes:duration>1:29:29</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Simuleringshypotesen</itunes:subtitle><itunes:summary>Lever vi i en simulering? Er vi alle dataspillfigurer i en overlegen sivilisasjons modell av verden?
+
+Ikke bare fylles TikTok og YouTube av «videobevis» for glitsjer i matrisen, men overraskende mange seriøse forskere mener også det er sannsynlig. Kanskje mer sannsynlig enn at virkeligheten er som vi tror den er.
+
+KI-superstjerne Inga Strümke er en av dem som mener simuleringshypotesen er plausibel. I Abels tårns mørke og lugubre boksering møter hun teoretisk fysiker og simuleringsskeptiker Anders Kvellestad til den endelige duellen!
+
+Torkild Jemterud tar et dypdykk i temaet.</itunes:summary></item><item><title>Forskningsfronten  - Pingviner sover kun 4 sekunder i strekk</title><link>https://podkast.nrk.no/fil/abels_taarn/c39e6c13-f80d-4eda-91c2-1d418601aebd_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter. Vi diskuterer:
 
 - Pingviner sover kun 4 sekunder i strekk
 - Enorme isfjell
-- Eldgammelt lys</description><pubDate>Mon, 11 Dec 2023 06:00:00 GMT</pubDate></item><item><title>2:2 Min onkel neandertal</title><link>https://podkast.nrk.no/fil/abels_taarn/7a0cc359-ad78-4bc6-b943-20fc1bf96fae_0_ID192MP3.mp3</link><description>Da vi mennesker kom til Europa, forsvant på mystisk vis vår nære slektning neandertalerne
+- Eldgammelt lys</description><pubDate>Mon, 11 Dec 2023 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/c39e6c13-f80d-4eda-91c2-1d418601aebd_0_ID192MP3.mp3" length="1847" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/KmoiN5eepswHm9HHbX5qnAu6lTEs2EC9uh2eiqtr_AZA"></itunes:image><itunes:duration>0:30:47</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten  - Pingviner sover kun 4 sekunder i strekk</itunes:subtitle><itunes:summary>Torkild, Hanne og Annette deler små og store forskningsnyheter. Vi diskuterer:
 
-Hanne Aass gjør et dypdykk i temaet</description><pubDate>Sat, 09 Dec 2023 06:00:00 GMT</pubDate></item><item><title>Påvirker sovestilling hjernens utvikling?</title><link>https://podkast.nrk.no/fil/abels_taarn/28d87fb8-f5d2-44a1-8abf-672fd304fb10_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
+- Pingviner sover kun 4 sekunder i strekk
+- Enorme isfjell
+- Eldgammelt lys</itunes:summary></item><item><title>2:2 Min onkel neandertal</title><link>https://podkast.nrk.no/fil/abels_taarn/7a0cc359-ad78-4bc6-b943-20fc1bf96fae_0_ID192MP3.mp3</link><description>Da vi mennesker kom til Europa, forsvant på mystisk vis vår nære slektning neandertalerne
+
+Hanne Aass gjør et dypdykk i temaet</description><pubDate>Sat, 09 Dec 2023 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/7a0cc359-ad78-4bc6-b943-20fc1bf96fae_0_ID192MP3.mp3" length="1556" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/PjBiDIwd9rug3im5DcoZwAfTtxiRgmpvU6pdqX3kYY7A"></itunes:image><itunes:duration>0:25:56</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>2:2 Min onkel neandertal</itunes:subtitle><itunes:summary>Da vi mennesker kom til Europa, forsvant på mystisk vis vår nære slektning neandertalerne
+
+Hanne Aass gjør et dypdykk i temaet</itunes:summary></item><item><title>Påvirker sovestilling hjernens utvikling?</title><link>https://podkast.nrk.no/fil/abels_taarn/28d87fb8-f5d2-44a1-8abf-672fd304fb10_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
 
 - Hva er sannsynligheten for at en ape kan skrive Shakespeare? 
 
@@ -274,14 +530,42 @@ Hjerneforsker Marte Julie Sætra
 Geolog Reidar Müller
 Fysiker Andres Kvellestad
 
-Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK Radio-appen eller send mail til abels@nrk.no</description><pubDate>Fri, 08 Dec 2023 10:00:00 GMT</pubDate></item><item><title>Forskningsfronten - OMG-partikkelen og hamstre i dvale</title><link>https://podkast.nrk.no/fil/abels_taarn/9bf772ba-97ed-44c0-bfd5-b6f63dd26ea4_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter. 
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK Radio-appen eller send mail til abels@nrk.no</description><pubDate>Fri, 08 Dec 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/28d87fb8-f5d2-44a1-8abf-672fd304fb10_0_ID192MP3.mp3" length="3431" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/WWuyf0foplFZKPOYiJZ3VQTVKKCKPNvxN-9wlM6TMuvQ"></itunes:image><itunes:duration>0:57:11</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Påvirker sovestilling hjernens utvikling?</itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
+
+- Hva er sannsynligheten for at en ape kan skrive Shakespeare? 
+
+- Hvor kommer saltet i havet fra?
+
+- Hva er sannsynligheten for å bli født?
+
+- Hva viser Santiago Cajals forskning egentlig?	
+
+- Hvordan stiger Norge frem?	
+
+- Vil fotonblanding lage uskarpe bilder?
+
+- Hvordan er det plass til alt lyset i verdensrommet?
+
+Dagens eksperter:
+Hjerneforsker Marte Julie Sætra
+Geolog Reidar Müller
+Fysiker Andres Kvellestad
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK Radio-appen eller send mail til abels@nrk.no</itunes:summary></item><item><title>Forskningsfronten - OMG-partikkelen og hamstre i dvale</title><link>https://podkast.nrk.no/fil/abels_taarn/9bf772ba-97ed-44c0-bfd5-b6f63dd26ea4_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter. 
 
 - OMG-partikkelen - Den nest mest kraftigste kosmiske strålen kommer fra… Ingen vet, men hun har fått navn etter den japanske solgudinnen
 - Droner og kunstig intelligens blir et nytt tilleggsverktøy for å finne landminer
-- Ultralyd kan legge hamstre i dvale.</description><pubDate>Mon, 04 Dec 2023 06:00:00 GMT</pubDate></item><item><title>1:2 Min onkel Neandertal </title><link>https://podkast.nrk.no/fil/abels_taarn/4f594b33-366a-4895-a753-efd4f1cffc48_0_ID192MP3.mp3</link><description>En av vitenskapens største misforståelse har preget historien om vår nære slektning neandertalerne. På tide å få sannheten fram. 
+- Ultralyd kan legge hamstre i dvale.</description><pubDate>Mon, 04 Dec 2023 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/9bf772ba-97ed-44c0-bfd5-b6f63dd26ea4_0_ID192MP3.mp3" length="1953" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgSi3W9pwW8xM5bzyOaudbVw"></itunes:image><itunes:duration>0:32:33</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - OMG-partikkelen og hamstre i dvale</itunes:subtitle><itunes:summary>Torkild, Hanne og Annette deler små og store forskningsnyheter. 
+
+- OMG-partikkelen - Den nest mest kraftigste kosmiske strålen kommer fra… Ingen vet, men hun har fått navn etter den japanske solgudinnen
+- Droner og kunstig intelligens blir et nytt tilleggsverktøy for å finne landminer
+- Ultralyd kan legge hamstre i dvale.</itunes:summary></item><item><title>1:2 Min onkel Neandertal </title><link>https://podkast.nrk.no/fil/abels_taarn/4f594b33-366a-4895-a753-efd4f1cffc48_0_ID192MP3.mp3</link><description>En av vitenskapens største misforståelse har preget historien om vår nære slektning neandertalerne. På tide å få sannheten fram. 
 
 Hanne Aass gjør et dypdykk i temaet  
-</description><pubDate>Sat, 02 Dec 2023 10:00:00 GMT</pubDate></item><item><title>Hva er hensikten med de hormonfrie p-pillene?</title><link>https://podkast.nrk.no/fil/abels_taarn/757cc0a1-2fe8-4009-92aa-ca8756d61853_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
+</description><pubDate>Sat, 02 Dec 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/4f594b33-366a-4895-a753-efd4f1cffc48_0_ID192MP3.mp3" length="1447" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/72W_TchgMyt4radKrTQmMA0ggaB4SBWzn-oS5XiRCacQ"></itunes:image><itunes:duration>0:24:07</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>1:2 Min onkel Neandertal </itunes:subtitle><itunes:summary>En av vitenskapens største misforståelse har preget historien om vår nære slektning neandertalerne. På tide å få sannheten fram. 
+
+Hanne Aass gjør et dypdykk i temaet  
+</itunes:summary></item><item><title>Hva er hensikten med de hormonfrie p-pillene?</title><link>https://podkast.nrk.no/fil/abels_taarn/757cc0a1-2fe8-4009-92aa-ca8756d61853_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
 
 - Vil genmodifiserte mennesker en dag kunne fly og puste under vann?
 - Fryser varmt vann raskere enn kaldt?
@@ -295,13 +579,33 @@ Lege Ellen Støkken Dal
 Fysiker Vidar Skogsvoll
 Molekylærbiolog Sigrid Bratlie 
 
-Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK Radio-appen eller send mail til abels@nrk.no</description><pubDate>Fri, 01 Dec 2023 10:00:00 GMT</pubDate></item><item><title>Kan man urinere hull i porselenet?</title><link>https://podkast.nrk.no/fil/abels_taarn/9469b071-e65e-4e28-9de0-94c7c4294e41_0_ID192MP3.mp3</link><description>Hvor lenge må man (teoretisk) tisse på nøyaktig samme sted på porselenet før det går hull?
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK Radio-appen eller send mail til abels@nrk.no</description><pubDate>Fri, 01 Dec 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/757cc0a1-2fe8-4009-92aa-ca8756d61853_0_ID192MP3.mp3" length="3463" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgSi3W9pwW8xM5bzyOaudbVw"></itunes:image><itunes:duration>0:57:43</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Hva er hensikten med de hormonfrie p-pillene?</itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
+
+- Vil genmodifiserte mennesker en dag kunne fly og puste under vann?
+- Fryser varmt vann raskere enn kaldt?
+- Har skjedekransen, eller jomfruhinna, en funksjon?
+- Ville din kloning få din personlighet?
+- Hvor fort dør man i et sort hull?
+- Hvilke fordeler og ulemper har mannlig omskjæring?
+
+Dagens eksperter:
+Lege Ellen Støkken Dal
+Fysiker Vidar Skogsvoll
+Molekylærbiolog Sigrid Bratlie 
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK Radio-appen eller send mail til abels@nrk.no</itunes:summary></item><item><title>Kan man urinere hull i porselenet?</title><link>https://podkast.nrk.no/fil/abels_taarn/9469b071-e65e-4e28-9de0-94c7c4294e41_0_ID192MP3.mp3</link><description>Hvor lenge må man (teoretisk) tisse på nøyaktig samme sted på porselenet før det går hull?
 Andre del av opptak fra Porsgrunn og Karjolen pub. Med en veldig forkjøla programleder, beklager.
 
 I panelet:
 Mohan Menon - Yara Technologies
 Karoline Saubrekka - Marinbiolog, UiO
-Christian Berg - Hydro aluminium</description><pubDate>Sat, 25 Nov 2023 07:00:00 GMT</pubDate></item><item><title>Hvorfor blir vi deppa når kjendiser dør?</title><link>https://podkast.nrk.no/fil/abels_taarn/af8a64ff-95b7-45c3-8f3f-c3ed73d68f94_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
+Christian Berg - Hydro aluminium</description><pubDate>Sat, 25 Nov 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/9469b071-e65e-4e28-9de0-94c7c4294e41_0_ID192MP3.mp3" length="3427" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/GTOYgCZ0ehkdhzWAtKVPvgoqSygkq2ZTd5vYu-lyuSGw"></itunes:image><itunes:duration>0:57:07</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Kan man urinere hull i porselenet?</itunes:subtitle><itunes:summary>Hvor lenge må man (teoretisk) tisse på nøyaktig samme sted på porselenet før det går hull?
+Andre del av opptak fra Porsgrunn og Karjolen pub. Med en veldig forkjøla programleder, beklager.
+
+I panelet:
+Mohan Menon - Yara Technologies
+Karoline Saubrekka - Marinbiolog, UiO
+Christian Berg - Hydro aluminium</itunes:summary></item><item><title>Hvorfor blir vi deppa når kjendiser dør?</title><link>https://podkast.nrk.no/fil/abels_taarn/af8a64ff-95b7-45c3-8f3f-c3ed73d68f94_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
 
 Blir dyr også hormonelt irrasjonelle?
 Hva er sannsynligheten for å bli født?
@@ -312,7 +616,18 @@ Er faktisk alle snøfnugg ulike?
 Dagens eksperter:
 Psykolog Yasmin Iqbal 
 Hjerneforsker Marianne Fyhn 
-Statistiker Jo Røislien </description><pubDate>Fri, 24 Nov 2023 10:00:00 GMT</pubDate></item><item><title>Menneske uten menneskeceller, hva er igjen?</title><link>https://podkast.nrk.no/fil/abels_taarn/6c1b9ea1-12a3-4449-b830-a1be4ba4c449_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+Statistiker Jo Røislien </description><pubDate>Fri, 24 Nov 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/af8a64ff-95b7-45c3-8f3f-c3ed73d68f94_0_ID192MP3.mp3" length="3426" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/zI_krPjpH4vEUrrgMBMv4QBQtBHkrWUqWoNvp2KxrpdQ"></itunes:image><itunes:duration>0:57:06</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Hvorfor blir vi deppa når kjendiser dør?</itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
+
+Blir dyr også hormonelt irrasjonelle?
+Hva er sannsynligheten for å bli født?
+Hvorfor oppleves ulykker i sakte fart?
+Hvorfor står tiden stille under narkose?
+Er faktisk alle snøfnugg ulike?
+
+Dagens eksperter:
+Psykolog Yasmin Iqbal 
+Hjerneforsker Marianne Fyhn 
+Statistiker Jo Røislien </itunes:summary></item><item><title>Menneske uten menneskeceller, hva er igjen?</title><link>https://podkast.nrk.no/fil/abels_taarn/6c1b9ea1-12a3-4449-b830-a1be4ba4c449_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
 
 Hva er forskjellen på gullvalørene?
 Hva kan gjøres med at alle tv-er og radioer er ute av synk?
@@ -324,14 +639,33 @@ Kan KI produsere NY kunnskap?
 Dagens eksperter: 
 Jessica Lönn-Stensrud - Mikrobiolog
 Olav Lysne - Informatiker
-Ole Swang - Kjemiker</description><pubDate>Fri, 17 Nov 2023 10:00:00 GMT</pubDate></item><item><title>Forskningsfronten - Hestehodetåken, stereolukt og xenotransplantasjon</title><link>https://podkast.nrk.no/fil/abels_taarn/1b45f0e2-7b91-4c1b-93d6-31b7767ce840_0_ID192MP3.mp3</link><description>Torkild, Hanne og Eirik deler små og store forskningsnyheter
+Ole Swang - Kjemiker</description><pubDate>Fri, 17 Nov 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/6c1b9ea1-12a3-4449-b830-a1be4ba4c449_0_ID192MP3.mp3" length="3427" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/fZdzjXpIRkma7WBD0_K-TQg_0upeNpkpsCUOgVeQOx4g"></itunes:image><itunes:duration>0:57:07</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Menneske uten menneskeceller, hva er igjen?</itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+
+Hva er forskjellen på gullvalørene?
+Hva kan gjøres med at alle tv-er og radioer er ute av synk?
+Er is selvrensende?
+Hvor lenge kan man koke på en "evighetssuppe" før den blir farlig?
+Hva skjer EGENTLIG under en forbrenning?
+Kan KI produsere NY kunnskap?
+
+Dagens eksperter: 
+Jessica Lönn-Stensrud - Mikrobiolog
+Olav Lysne - Informatiker
+Ole Swang - Kjemiker</itunes:summary></item><item><title>Forskningsfronten - Hestehodetåken, stereolukt og xenotransplantasjon</title><link>https://podkast.nrk.no/fil/abels_taarn/1b45f0e2-7b91-4c1b-93d6-31b7767ce840_0_ID192MP3.mp3</link><description>Torkild, Hanne og Eirik deler små og store forskningsnyheter
 
 - Å lukte i stereo 
 - Xenotransplantasjon av grisehjerter til mennesker
 - Nye bilder fra Euclid-teleskopet
 - Hitlerbillen og andre mindre heldige navn
 
-Abels tårns hjørne for lemfeldig blafring i forskningsmagasinene</description><pubDate>Mon, 13 Nov 2023 07:00:00 GMT</pubDate></item><item><title>Slørsoppmiddagen</title><link>https://podkast.nrk.no/fil/abels_taarn/c6a1cbd0-3c18-439a-a590-dde9881b6aee_0_ID192MP3.mp3</link><description>Hanne Aass drar på en middag der soppeksperter serverer slørsopp, en slekt som sopplukkere har blitt bedt om å styre langt unna. Noen av slørsoppene er nemlig blant våre dødeligste giftsopper. </description><pubDate>Sat, 11 Nov 2023 09:00:00 GMT</pubDate></item><item><title>Hvordan vet speilet om eplet?</title><link>https://podkast.nrk.no/fil/abels_taarn/c724e586-79e8-4bc4-a01f-4c95da5aa674_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+Abels tårns hjørne for lemfeldig blafring i forskningsmagasinene</description><pubDate>Mon, 13 Nov 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/1b45f0e2-7b91-4c1b-93d6-31b7767ce840_0_ID192MP3.mp3" length="2351" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/GTYFECLGZKOHEL2dI7MooArXyAjwbRw2ODPq970egjuQ"></itunes:image><itunes:duration>0:39:11</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Hestehodetåken, stereolukt og xenotransplantasjon</itunes:subtitle><itunes:summary>Torkild, Hanne og Eirik deler små og store forskningsnyheter
+
+- Å lukte i stereo 
+- Xenotransplantasjon av grisehjerter til mennesker
+- Nye bilder fra Euclid-teleskopet
+- Hitlerbillen og andre mindre heldige navn
+
+Abels tårns hjørne for lemfeldig blafring i forskningsmagasinene</itunes:summary></item><item><title>Slørsoppmiddagen</title><link>https://podkast.nrk.no/fil/abels_taarn/c6a1cbd0-3c18-439a-a590-dde9881b6aee_0_ID192MP3.mp3</link><description>Hanne Aass drar på en middag der soppeksperter serverer slørsopp, en slekt som sopplukkere har blitt bedt om å styre langt unna. Noen av slørsoppene er nemlig blant våre dødeligste giftsopper. </description><pubDate>Sat, 11 Nov 2023 09:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/c6a1cbd0-3c18-439a-a590-dde9881b6aee_0_ID192MP3.mp3" length="1494" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/d90ZvJ-GFTVJQzvrAYh_AQxAkcwv56wpiUrj1gPRLwpw"></itunes:image><itunes:duration>0:24:54</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Slørsoppmiddagen</itunes:subtitle><itunes:summary>Hanne Aass drar på en middag der soppeksperter serverer slørsopp, en slekt som sopplukkere har blitt bedt om å styre langt unna. Noen av slørsoppene er nemlig blant våre dødeligste giftsopper. </itunes:summary></item><item><title>Hvordan vet speilet om eplet?</title><link>https://podkast.nrk.no/fil/abels_taarn/c724e586-79e8-4bc4-a01f-4c95da5aa674_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
 
 Finnes det en grense for hvor stort et levende vesen kan bli?
 Er det virkelig bare seks steg mellom alle mennesker på jorda?
@@ -348,16 +682,42 @@ Petter Bøckman - Zoolog
 Andreas Nakkerud - Matematiker
 
 Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no
-</description><pubDate>Fri, 10 Nov 2023 10:00:00 GMT</pubDate></item><item><title>Forskningsfronten - KI kartlegger artsmangfoldet </title><link>https://podkast.nrk.no/fil/abels_taarn/d31f7303-cb9c-4293-8f12-73017dff39fd_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter
+</description><pubDate>Fri, 10 Nov 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/c724e586-79e8-4bc4-a01f-4c95da5aa674_0_ID192MP3.mp3" length="3391" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/VYeE3q9PZjxtvqVB3mRysQLZkYQT0kD6PmBUKQifxdcQ"></itunes:image><itunes:duration>0:56:31</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Hvordan vet speilet om eplet?</itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+
+Finnes det en grense for hvor stort et levende vesen kan bli?
+Er det virkelig bare seks steg mellom alle mennesker på jorda?
+Hvor høyt kan fugler fly (og hvorfor ikke høyere)?
+Hvordan kan speilet speile skjulte saker og ting?
+Tau rundt jorda: Hvorfor blir det nesten ikke lenger når det heves en meter?
+Svømmer man raskest på dypet eller på grunna?
+Finnes det et motsatt univers?
+Blir man rosa av å spise krill?
+
+Dagens eksperter:
+Ida Torkjellsdatter Storehaug - Fysiker
+Petter Bøckman - Zoolog 
+Andreas Nakkerud - Matematiker
+
+Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no
+</itunes:summary></item><item><title>Forskningsfronten - KI kartlegger artsmangfoldet </title><link>https://podkast.nrk.no/fil/abels_taarn/d31f7303-cb9c-4293-8f12-73017dff39fd_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter
 
 - Kunstig intelligens kan hjelpe oss å telle artsmangfoldet 
 - Endelig påvist at hjernen vår har to tellesystemer
 - Internasjonalt samarbeid om kunstig intelligens.
-- Roveren på Mars Perceverance sitt arbeid, kan bli en dyr affære</description><pubDate>Mon, 06 Nov 2023 06:00:00 GMT</pubDate></item><item><title>Andøyas nye romhavn</title><link>https://podkast.nrk.no/fil/abels_taarn/3b3fb5c7-521d-493c-9d49-e5f0f6d87f4b_0_ID192MP3.mp3</link><description>Denne uka åpnet Andøya Space port med pomp og prakt og selveste Kronprinsen til stede.
+- Roveren på Mars Perceverance sitt arbeid, kan bli en dyr affære</description><pubDate>Mon, 06 Nov 2023 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/d31f7303-cb9c-4293-8f12-73017dff39fd_0_ID192MP3.mp3" length="1804" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/GKIsQdmUfUV0BXSOSLcbggmuISPpHaxElGFgsXT-GgCg"></itunes:image><itunes:duration>0:30:04</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - KI kartlegger artsmangfoldet </itunes:subtitle><itunes:summary>Torkild, Hanne og Annette deler små og store forskningsnyheter
+
+- Kunstig intelligens kan hjelpe oss å telle artsmangfoldet 
+- Endelig påvist at hjernen vår har to tellesystemer
+- Internasjonalt samarbeid om kunstig intelligens.
+- Roveren på Mars Perceverance sitt arbeid, kan bli en dyr affære</itunes:summary></item><item><title>Andøyas nye romhavn</title><link>https://podkast.nrk.no/fil/abels_taarn/3b3fb5c7-521d-493c-9d49-e5f0f6d87f4b_0_ID192MP3.mp3</link><description>Denne uka åpnet Andøya Space port med pomp og prakt og selveste Kronprinsen til stede.
 Abels tårn var der for et år siden og så på fasilitetene, både til det som nå står klart og til moderskipet Andøya Space senter. 
 Og, vi tok pulsen på konflikten som ligger og vaker både under og over havflaten, den mellom fiskerne og romfartsindustrien.
 
-Torkild og Annette gjør et dypdykk. </description><pubDate>Sat, 04 Nov 2023 06:00:00 GMT</pubDate></item><item><title>Kan neandertaler-gener vekkes til live?</title><link>https://podkast.nrk.no/fil/abels_taarn/6a7e30c4-15f8-4ef1-b3f6-fb97e674b675_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+Torkild og Annette gjør et dypdykk. </description><pubDate>Sat, 04 Nov 2023 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/3b3fb5c7-521d-493c-9d49-e5f0f6d87f4b_0_ID192MP3.mp3" length="1736" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/YY3Gl41HAy0KL3-7xvDeFgK2sYIyh8l6eh9SGnzPBtoQ"></itunes:image><itunes:duration>0:28:56</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Andøyas nye romhavn</itunes:subtitle><itunes:summary>Denne uka åpnet Andøya Space port med pomp og prakt og selveste Kronprinsen til stede.
+Abels tårn var der for et år siden og så på fasilitetene, både til det som nå står klart og til moderskipet Andøya Space senter. 
+Og, vi tok pulsen på konflikten som ligger og vaker både under og over havflaten, den mellom fiskerne og romfartsindustrien.
+
+Torkild og Annette gjør et dypdykk. </itunes:summary></item><item><title>Kan neandertaler-gener vekkes til live?</title><link>https://podkast.nrk.no/fil/abels_taarn/6a7e30c4-15f8-4ef1-b3f6-fb97e674b675_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
 
 Hvor små kan datamaskiner bli?
 Ettelysning til KI historier
@@ -375,7 +735,25 @@ Evolusjonsbiolog Glenn-Peter Sætre
 Jordmikrobiolog Erik Joner
 Kvantefysiker Marianne Etzelmüller Bathen
 
-Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</description><pubDate>Fri, 03 Nov 2023 10:00:00 GMT</pubDate></item><item><title>2:2 JUEBELSENDING! Dør alle om jorda stopper å spinne?</title><link>https://podkast.nrk.no/fil/abels_taarn/4284c81b-4aaa-4b40-8c5c-64fc16ecb031_0_ID192MP3.mp3</link><description>...hvis for eksempel en kosmisk kjempe holder fast jorda i klypa?
+Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</description><pubDate>Fri, 03 Nov 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/6a7e30c4-15f8-4ef1-b3f6-fb97e674b675_0_ID192MP3.mp3" length="3466" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/72W_TchgMyt4radKrTQmMA0ggaB4SBWzn-oS5XiRCacQ"></itunes:image><itunes:duration>0:57:46</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Kan neandertaler-gener vekkes til live?</itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+
+Hvor små kan datamaskiner bli?
+Ettelysning til KI historier
+Kan kvinner arve neandertaler-gener?
+Kan neandertalerne gjenskapes?
+Hvorfor skamskjæres brød?
+Hvordan får man ned datamaskinenes energiforbruk?
+Har mennesket arvet neandertalernes døgnrytme? 
+Hvordan oppsto jord?
+Blir kvantedatamaskiner noensinne allemannseie?
+Gjesper insekter? 
+
+Dagens eksperter: 
+Evolusjonsbiolog Glenn-Peter Sætre
+Jordmikrobiolog Erik Joner
+Kvantefysiker Marianne Etzelmüller Bathen
+
+Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</itunes:summary></item><item><title>2:2 JUEBELSENDING! Dør alle om jorda stopper å spinne?</title><link>https://podkast.nrk.no/fil/abels_taarn/4284c81b-4aaa-4b40-8c5c-64fc16ecb031_0_ID192MP3.mp3</link><description>...hvis for eksempel en kosmisk kjempe holder fast jorda i klypa?
 
 - Får man sterkere drømmer av morfin? Psykologen svarer…
 - Er drømmer scener fra et parallelt univers? Fysiker og hjerneforsker svarer…
@@ -393,7 +771,25 @@ KI-forsker og fysiker Inga Strümke
 Bevaringsøkolog Anne Sverdrup-Thygeson   
 Rettsmedisiner Ida Kathrine Gravensteen
 Molekylærbiolog Sigrid Bratlie
-Zoolog Petter Bøckmann</description><pubDate>Fri, 27 Oct 2023 16:00:00 GMT</pubDate></item><item><title>1:2 JUBELSENDING!  Kan man drikke diesel?</title><link>https://podkast.nrk.no/fil/abels_taarn/48f3abae-64e5-40e7-9763-1f74fd4b1820_0_ID192MP3.mp3</link><description>Vi har vunnet PRIX RADIO for årets beste sendeflate, altså radioprogram. For å feire oss selv har vi trommet sammen noen av de beste forskningsformidlerne i Norge, og holder en heidundrende jubelsending for alle våre lyttere.  
+Zoolog Petter Bøckmann</description><pubDate>Fri, 27 Oct 2023 16:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/4284c81b-4aaa-4b40-8c5c-64fc16ecb031_0_ID192MP3.mp3" length="3470" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/m7yrMQaPy2kNd4kpwM7amwORr8uPIhiCfp_P-LQk7oew"></itunes:image><itunes:duration>0:57:50</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>2:2 JUEBELSENDING! Dør alle om jorda stopper å spinne?</itunes:subtitle><itunes:summary>...hvis for eksempel en kosmisk kjempe holder fast jorda i klypa?
+
+- Får man sterkere drømmer av morfin? Psykologen svarer…
+- Er drømmer scener fra et parallelt univers? Fysiker og hjerneforsker svarer…
+- Hva kommer det av at jorda roterer rundt seg selv?
+- Når roer KI-utviklingen seg? KI-forsker og fysikeren svarer..
+- Er noen egenskaper mer "moderne" enn andre? Botanikeren svarer…
+- Hvorfor er fleinsopp ulovlig? Rettspatologen/soppsakkyndig svarer…
+- Kan mintpastiller nøytralisere chili? Molekylærbiologen svarer…
+- Når slutter mennesket å lukte?  Zoologen svarer...
+
+Andre del av jubelsendingens eksperter er: 
+Psykolog Guro Løseth
+Teoretisk fysiker Are Raklev
+KI-forsker og fysiker Inga Strümke
+Bevaringsøkolog Anne Sverdrup-Thygeson   
+Rettsmedisiner Ida Kathrine Gravensteen
+Molekylærbiolog Sigrid Bratlie
+Zoolog Petter Bøckmann</itunes:summary></item><item><title>1:2 JUBELSENDING!  Kan man drikke diesel?</title><link>https://podkast.nrk.no/fil/abels_taarn/48f3abae-64e5-40e7-9763-1f74fd4b1820_0_ID192MP3.mp3</link><description>Vi har vunnet PRIX RADIO for årets beste sendeflate, altså radioprogram. For å feire oss selv har vi trommet sammen noen av de beste forskningsformidlerne i Norge, og holder en heidundrende jubelsending for alle våre lyttere.  
 
 - Kan diesel brukes i kroppen?
 - Hvordan lage den perfekte pannekakerøra?
@@ -408,13 +804,34 @@ Kjemiker Carl Henrik Gørbitz
 Fysiker Joachim Mossige
 Paleontolog Aubrey Roberts
 Klimaforsker Bjørn Samset
-Kjemiker Einar Uggerud</description><pubDate>Fri, 27 Oct 2023 10:00:00 GMT</pubDate></item><item><title>Rettsmedisinens historie</title><link>https://podkast.nrk.no/fil/abels_taarn/fffba546-17d3-4131-b32a-45076f7b5b93_0_ID192MP3.mp3</link><description>Lungeflyteprøven var en test der man tok ut lungene til et spedbarn og la dem i vann. Fløt de så hadde barnet pustet, sank de har ikke barnet pustet. Tore Renberg har skrevet en roman om rettsaken i 1681 som gjorde denne testen historisk. Vi har koblet ham sammen med rettsmedisiner Ida Kathrine Gravensteen og møter dem i en obduksjonssal. 
+Kjemiker Einar Uggerud</description><pubDate>Fri, 27 Oct 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/48f3abae-64e5-40e7-9763-1f74fd4b1820_0_ID192MP3.mp3" length="3466" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/V3vTB-6KX67-C4v2lJjbPA-VtY7GhTi_BNymu9Gw-fGw"></itunes:image><itunes:duration>0:57:46</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>1:2 JUBELSENDING!  Kan man drikke diesel?</itunes:subtitle><itunes:summary>Vi har vunnet PRIX RADIO for årets beste sendeflate, altså radioprogram. For å feire oss selv har vi trommet sammen noen av de beste forskningsformidlerne i Norge, og holder en heidundrende jubelsending for alle våre lyttere.  
 
-Annette Hobson gjør et dypdykk i temaet.</description><pubDate>Mon, 23 Oct 2023 07:00:00 GMT</pubDate></item><item><title>Forskningsfronten - Psykedelika som medisin, røverplaneter og pene bankdirektører</title><link>https://podkast.nrk.no/fil/abels_taarn/4518e168-6a1f-445e-8c7f-e959aea59548_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter.
+- Kan diesel brukes i kroppen?
+- Hvordan lage den perfekte pannekakerøra?
+- Var det mer oksygen før?
+- Var G-kraften lavere før?
+  Hvilke kjente energikilder skulle vi hatt mer av, og hvilke burde vi droppet?
+- Hvordan ville samfunnet sett ut uten metall?
+ - Når farger er bølger, hvordan kan klesvask påvirke farger ?    
+
+Dagens eksperter:
+Kjemiker Carl Henrik Gørbitz
+Fysiker Joachim Mossige
+Paleontolog Aubrey Roberts
+Klimaforsker Bjørn Samset
+Kjemiker Einar Uggerud</itunes:summary></item><item><title>Rettsmedisinens historie</title><link>https://podkast.nrk.no/fil/abels_taarn/fffba546-17d3-4131-b32a-45076f7b5b93_0_ID192MP3.mp3</link><description>Lungeflyteprøven var en test der man tok ut lungene til et spedbarn og la dem i vann. Fløt de så hadde barnet pustet, sank de har ikke barnet pustet. Tore Renberg har skrevet en roman om rettsaken i 1681 som gjorde denne testen historisk. Vi har koblet ham sammen med rettsmedisiner Ida Kathrine Gravensteen og møter dem i en obduksjonssal. 
+
+Annette Hobson gjør et dypdykk i temaet.</description><pubDate>Mon, 23 Oct 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/fffba546-17d3-4131-b32a-45076f7b5b93_0_ID192MP3.mp3" length="1631" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/bOycfeipRXkrvFxMpJs4VQZ6hcVrN5oIz2Dpxi49CBtw"></itunes:image><itunes:duration>0:27:11</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Rettsmedisinens historie</itunes:subtitle><itunes:summary>Lungeflyteprøven var en test der man tok ut lungene til et spedbarn og la dem i vann. Fløt de så hadde barnet pustet, sank de har ikke barnet pustet. Tore Renberg har skrevet en roman om rettsaken i 1681 som gjorde denne testen historisk. Vi har koblet ham sammen med rettsmedisiner Ida Kathrine Gravensteen og møter dem i en obduksjonssal. 
+
+Annette Hobson gjør et dypdykk i temaet.</itunes:summary></item><item><title>Forskningsfronten - Psykedelika som medisin, røverplaneter og pene bankdirektører</title><link>https://podkast.nrk.no/fil/abels_taarn/4518e168-6a1f-445e-8c7f-e959aea59548_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter.
 
 - Bruk av psykedeliske stoffer i behandlingen av noen psykiske tilstander.
 - Røverplaneter
-- Forstemmende forskning viser: Pene mennesker tjener mer. MYE mer.</description><pubDate>Mon, 23 Oct 2023 06:00:00 GMT</pubDate></item><item><title>Dynamittgubber som stearinlys?</title><link>https://podkast.nrk.no/fil/abels_taarn/a3a72635-0ed3-4a32-8397-8a42a6cf69c8_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+- Forstemmende forskning viser: Pene mennesker tjener mer. MYE mer.</description><pubDate>Mon, 23 Oct 2023 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/4518e168-6a1f-445e-8c7f-e959aea59548_0_ID192MP3.mp3" length="1769" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/Rsbdr2dnxmTnAgDgwrF0JwBNvSehkcthYongbzPg9Lvw"></itunes:image><itunes:duration>0:29:29</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Psykedelika som medisin, røverplaneter og pene bankdirektører</itunes:subtitle><itunes:summary>Torkild, Hanne og Annette deler små og store forskningsnyheter.
+
+- Bruk av psykedeliske stoffer i behandlingen av noen psykiske tilstander.
+- Røverplaneter
+- Forstemmende forskning viser: Pene mennesker tjener mer. MYE mer.</itunes:summary></item><item><title>Dynamittgubber som stearinlys?</title><link>https://podkast.nrk.no/fil/abels_taarn/a3a72635-0ed3-4a32-8397-8a42a6cf69c8_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
 
 - Dynamittgubber som stearinlys? 
 - Hjelper dragsug på drivstoffbruk?
@@ -429,15 +846,38 @@ Professor i forbrenning, Knut Vågsæther
 Polarforsker Karoline Saubreka
 Vindingeniør Atle Johnson Gyllensten
 
-Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</description><pubDate>Fri, 20 Oct 2023 07:00:00 GMT</pubDate></item><item><title>Forskningsfronten - Bananfluas følelsesliv</title><link>https://podkast.nrk.no/fil/abels_taarn/ba0aaf4d-f07c-49bf-a2c1-4e19101da9ce_0_ID192MP3.mp3</link><description>Torkild, Annette og Hanne deler små og store forskningsnyheter. 
+Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</description><pubDate>Fri, 20 Oct 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/a3a72635-0ed3-4a32-8397-8a42a6cf69c8_0_ID192MP3.mp3" length="3426" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/FC_wlm6QrxcBeh9rbSu-gwsv4FG9DDVMg45sLvGL4poA"></itunes:image><itunes:duration>0:57:06</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Dynamittgubber som stearinlys?</itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+
+- Dynamittgubber som stearinlys? 
+- Hjelper dragsug på drivstoffbruk?
+- Hva skal blekkspruten med tre hjerter?
+- Hvor mange - og hvor store - vindmøller er optimalt?
+- Om dyphavsstrømmer og polar planktonvekst
+- Hva er lydbølger laget av?
+- Temperert vann som strømsparingstiltak?
+
+Dagens eksperter:
+Professor i forbrenning, Knut Vågsæther
+Polarforsker Karoline Saubreka
+Vindingeniør Atle Johnson Gyllensten
+
+Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</itunes:summary></item><item><title>Forskningsfronten - Bananfluas følelsesliv</title><link>https://podkast.nrk.no/fil/abels_taarn/ba0aaf4d-f07c-49bf-a2c1-4e19101da9ce_0_ID192MP3.mp3</link><description>Torkild, Annette og Hanne deler små og store forskningsnyheter. 
 
 - En ny studie tyder på at bananfluer har et forhold til døden. De blir i hvert fall stressa av den.
 - Narges Mohammadi er den tredje fysikeren som får Nobels fredspris - vi diskuterer Nobelprisenes politiske rolle
 - Nytt lasergyroskop kan måle mikroskopiske endringer i jordas rotasjon
 - Vil kvinner på p-piller ha det bedre om de kutter ut menstruasjonen helt? For det kan de?
-</description><pubDate>Mon, 16 Oct 2023 06:00:00 GMT</pubDate></item><item><title>Homo naledi</title><link>https://podkast.nrk.no/fil/abels_taarn/34cd0342-4251-4970-9f70-9e82c460c71b_0_ID192MP3.mp3</link><description>Innerst inne i en grotte i Sør-Afrika har grotteutforskere tatt seg inn i et kammer hvor trolig ingen har vært på tusener av år, kanskje hundretusener. Det de fant der kan endre historien om mennesket.
+</description><pubDate>Mon, 16 Oct 2023 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/ba0aaf4d-f07c-49bf-a2c1-4e19101da9ce_0_ID192MP3.mp3" length="1707" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/jWEZRWm-pm9kQb9AhPfFnwH9tMT64lOdCqVxCZ2r9XUw"></itunes:image><itunes:duration>0:28:27</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Bananfluas følelsesliv</itunes:subtitle><itunes:summary>Torkild, Annette og Hanne deler små og store forskningsnyheter. 
 
-Hanne Aass gjør et dypdykk i temaet.</description><pubDate>Sat, 14 Oct 2023 07:00:00 GMT</pubDate></item><item><title>Er vi spesielt utsatt for pollenallergi i Norge? </title><link>https://podkast.nrk.no/fil/abels_taarn/8813be82-88cc-4c57-926c-c19ea63fe3be_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+- En ny studie tyder på at bananfluer har et forhold til døden. De blir i hvert fall stressa av den.
+- Narges Mohammadi er den tredje fysikeren som får Nobels fredspris - vi diskuterer Nobelprisenes politiske rolle
+- Nytt lasergyroskop kan måle mikroskopiske endringer i jordas rotasjon
+- Vil kvinner på p-piller ha det bedre om de kutter ut menstruasjonen helt? For det kan de?
+</itunes:summary></item><item><title>Homo naledi</title><link>https://podkast.nrk.no/fil/abels_taarn/34cd0342-4251-4970-9f70-9e82c460c71b_0_ID192MP3.mp3</link><description>Innerst inne i en grotte i Sør-Afrika har grotteutforskere tatt seg inn i et kammer hvor trolig ingen har vært på tusener av år, kanskje hundretusener. Det de fant der kan endre historien om mennesket.
+
+Hanne Aass gjør et dypdykk i temaet.</description><pubDate>Sat, 14 Oct 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/34cd0342-4251-4970-9f70-9e82c460c71b_0_ID192MP3.mp3" length="1755" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/DVeflBxZBBGTCWqsvMg-WgZM1Wnw_R0662SOqDro4Lsw"></itunes:image><itunes:duration>0:29:15</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Homo naledi</itunes:subtitle><itunes:summary>Innerst inne i en grotte i Sør-Afrika har grotteutforskere tatt seg inn i et kammer hvor trolig ingen har vært på tusener av år, kanskje hundretusener. Det de fant der kan endre historien om mennesket.
+
+Hanne Aass gjør et dypdykk i temaet.</itunes:summary></item><item><title>Er vi spesielt utsatt for pollenallergi i Norge? </title><link>https://podkast.nrk.no/fil/abels_taarn/8813be82-88cc-4c57-926c-c19ea63fe3be_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
 
 - Om hele uværet "Hans" kom i en dråpe, hvor stor hadde dråpen blitt?
 - Hvorfor hjelper det å legge en tresleiv over pastagryta så det ikke koker over?
@@ -450,7 +890,20 @@ Ida Torkjellsdatter Storehaug - Fysiker
 Rafael Escobar Løvdahl - Meteorolog
 Charlotte Sletten Bjorå - Botaniker
 
-Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</description><pubDate>Fri, 13 Oct 2023 10:00:00 GMT</pubDate></item><item><title>Kan man snart snakke med de døde?</title><link>https://podkast.nrk.no/fil/abels_taarn/d5a370a6-db5d-4291-8e73-b4827580177e_0_ID192MP3.mp3</link><description>Hvem skulle trodd at framtidens månebase blei unnfanga Østfold, Norge?
+Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</description><pubDate>Fri, 13 Oct 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/8813be82-88cc-4c57-926c-c19ea63fe3be_0_ID192MP3.mp3" length="3464" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/4NifUPkedDRGbaAhI8OiSgoPlaTblj9j_mINElVmqcug"></itunes:image><itunes:duration>0:57:44</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Er vi spesielt utsatt for pollenallergi i Norge? </itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+
+- Om hele uværet "Hans" kom i en dråpe, hvor stor hadde dråpen blitt?
+- Hvorfor hjelper det å legge en tresleiv over pastagryta så det ikke koker over?
+- Lider matkorn av innavl?
+- Hvordan oppstår kuldehull?
+- Endrer en "tone" seg når den paserer over hodet vårt. F.eks en høy C?
+
+Dagens eksperter:
+Ida Torkjellsdatter Storehaug - Fysiker 
+Rafael Escobar Løvdahl - Meteorolog
+Charlotte Sletten Bjorå - Botaniker
+
+Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</itunes:summary></item><item><title>Kan man snart snakke med de døde?</title><link>https://podkast.nrk.no/fil/abels_taarn/d5a370a6-db5d-4291-8e73-b4827580177e_0_ID192MP3.mp3</link><description>Hvem skulle trodd at framtidens månebase blei unnfanga Østfold, Norge?
 En fest av en sending fra litteraturhuset i Fredrikstad. (Del 1)
 
 - Hvordan havner blåskjellene langt inne på land?
@@ -468,15 +921,41 @@ Martin Lersch
 Anna-Lena Kjøniiksen
 Tomas Norlander
  
-Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</description><pubDate>Fri, 06 Oct 2023 11:00:00 GMT</pubDate></item><item><title>Nobelpris spesial - mRNA, kvanteprikker og en EKSTREMT LITEN revolusjon</title><link>https://podkast.nrk.no/fil/abels_taarn/9fd50362-2b7b-4d68-99ed-9fe85225528f_0_ID192MP3.mp3</link><description>Veien til en Nobelpris var lang og kronglete for Katalin Karikó. I mange år kjempet hun i motbakke uten at noen hørte på ideen hennes. Den gikk ut på å bruke mRNA for å få kroppen til å produsere sin egen vaksine. Så kom COVID, og nå er hun en av de mest feirede forskerne i verden.
+Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</description><pubDate>Fri, 06 Oct 2023 11:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/d5a370a6-db5d-4291-8e73-b4827580177e_0_ID192MP3.mp3" length="3361" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/zUkn9ulaSqwnbpYfbrz-cQ_35DcZvRI-M-rJ1mupbtaA"></itunes:image><itunes:duration>0:56:01</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Kan man snart snakke med de døde?</itunes:subtitle><itunes:summary>Hvem skulle trodd at framtidens månebase blei unnfanga Østfold, Norge?
+En fest av en sending fra litteraturhuset i Fredrikstad. (Del 1)
+
+- Hvordan havner blåskjellene langt inne på land?
+- Kan man snart snakke med de døde?
+- Gjærbakst og månefaser
+- Månebetong (et kortreist produkt fra Østfold)
+- Er vann fryst eller smelta ved NØYAKTIG null grader?
+- Er det egentlig så mye liv i dyphavet, der man vil lete etter mineraler?
+- Hvorfor bygger vi ikke saltsmeltereaktorer i Norge?
+- Hva hvis Kjernekraft hadde vunnet fram på 70-tallet...
+
+Dagens eksperter:
+Pia Ve Dahlen
+Martin Lersch
+Anna-Lena Kjøniiksen
+Tomas Norlander
+ 
+Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</itunes:summary></item><item><title>Nobelpris spesial - mRNA, kvanteprikker og en EKSTREMT LITEN revolusjon</title><link>https://podkast.nrk.no/fil/abels_taarn/9fd50362-2b7b-4d68-99ed-9fe85225528f_0_ID192MP3.mp3</link><description>Veien til en Nobelpris var lang og kronglete for Katalin Karikó. I mange år kjempet hun i motbakke uten at noen hørte på ideen hennes. Den gikk ut på å bruke mRNA for å få kroppen til å produsere sin egen vaksine. Så kom COVID, og nå er hun en av de mest feirede forskerne i verden.
 
 I denne episoden snakker vi om de vitenskapelige Nobelprisene: hvorfor du trolig har huset fullt av kvanteprikker og hvorfor vi kanskje står ovenfor et  vaskeekte paradigmeskifte i fysikken.
 
-Dagens eksperter: Sigrid Bratlie, Ole Martin Løvvik og Ola Nilsen</description><pubDate>Fri, 06 Oct 2023 10:00:00 GMT</pubDate></item><item><title>Skjønnheten i kaos</title><link>https://podkast.nrk.no/fil/abels_taarn/c255e4d4-9e5e-4776-8d19-4584cb736ee6_0_ID192MP3.mp3</link><description>Kan det å møte sin elskede sammenlignes med ... bølgefunksjonens kollaps?
+Dagens eksperter: Sigrid Bratlie, Ole Martin Løvvik og Ola Nilsen</description><pubDate>Fri, 06 Oct 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/9fd50362-2b7b-4d68-99ed-9fe85225528f_0_ID192MP3.mp3" length="3299" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/5YQleHqtGHKxlRaE4l8i3QQjSp34wSvchw8Xx73KrBWA"></itunes:image><itunes:duration>0:54:59</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Nobelpris spesial - mRNA, kvanteprikker og en EKSTREMT LITEN revolusjon</itunes:subtitle><itunes:summary>Veien til en Nobelpris var lang og kronglete for Katalin Karikó. I mange år kjempet hun i motbakke uten at noen hørte på ideen hennes. Den gikk ut på å bruke mRNA for å få kroppen til å produsere sin egen vaksine. Så kom COVID, og nå er hun en av de mest feirede forskerne i verden.
+
+I denne episoden snakker vi om de vitenskapelige Nobelprisene: hvorfor du trolig har huset fullt av kvanteprikker og hvorfor vi kanskje står ovenfor et  vaskeekte paradigmeskifte i fysikken.
+
+Dagens eksperter: Sigrid Bratlie, Ole Martin Løvvik og Ola Nilsen</itunes:summary></item><item><title>Skjønnheten i kaos</title><link>https://podkast.nrk.no/fil/abels_taarn/c255e4d4-9e5e-4776-8d19-4584cb736ee6_0_ID192MP3.mp3</link><description>Kan det å møte sin elskede sammenlignes med ... bølgefunksjonens kollaps?
 Julia Ravanis skriver om det vakreste hun vet: kvantefysikk, kjærlighet og kaos.
 
 Torkild Jemterud gjør et dypdykk. 
-Reprise fra Juli 2022</description><pubDate>Sat, 30 Sep 2023 07:00:00 GMT</pubDate></item><item><title>Hvor kraftig er verdens minste atombombe? </title><link>https://podkast.nrk.no/fil/abels_taarn/803b1416-53ef-4d28-8972-2104bdf95012_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+Reprise fra Juli 2022</description><pubDate>Sat, 30 Sep 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/c255e4d4-9e5e-4776-8d19-4584cb736ee6_0_ID192MP3.mp3" length="3461" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/85lqXOdf6VZStY1qfjWj2AE9Yl1SBRjC_sX7qTezWIkQ"></itunes:image><itunes:duration>0:57:41</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Skjønnheten i kaos</itunes:subtitle><itunes:summary>Kan det å møte sin elskede sammenlignes med ... bølgefunksjonens kollaps?
+Julia Ravanis skriver om det vakreste hun vet: kvantefysikk, kjærlighet og kaos.
+
+Torkild Jemterud gjør et dypdykk. 
+Reprise fra Juli 2022</itunes:summary></item><item><title>Hvor kraftig er verdens minste atombombe? </title><link>https://podkast.nrk.no/fil/abels_taarn/803b1416-53ef-4d28-8972-2104bdf95012_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
 
 - Hvor mange mygg må jeg slå i hjel for at neste generasjon velger bort meg?
 - Kan kunstig intelligens brukes til som superledere eller mer effektive solceller?
@@ -491,16 +970,40 @@ Biolog Kjetil Lysne Voje
 Fysiker Gaute Einevoll
 
 Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no
-</description><pubDate>Fri, 29 Sep 2023 10:00:00 GMT</pubDate></item><item><title>Forskningsfronten - Steinslikkende forskere og hundespråk </title><link>https://podkast.nrk.no/fil/abels_taarn/6a64d669-edf9-430d-9612-a785f43ce882_0_ID192MP3.mp3</link><description>Torkild, Annette og Hanne deler små og store forskningsnyheter. 
+</description><pubDate>Fri, 29 Sep 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/803b1416-53ef-4d28-8972-2104bdf95012_0_ID192MP3.mp3" length="3462" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/uxn1B2nhtMruH37Lqy0wMQJaOFw2opNI8E9Ylg_E40DQ"></itunes:image><itunes:duration>0:57:42</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Hvor kraftig er verdens minste atombombe? </itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+
+- Hvor mange mygg må jeg slå i hjel for at neste generasjon velger bort meg?
+- Kan kunstig intelligens brukes til som superledere eller mer effektive solceller?
+- Hvorfor er det så farlig at CO2-mengden øker i atmosfæren
+- Dreper sterkt krydder bakterier?
+- Om vi kommer i kontakt med en utenomjordisk livsform, kan den smitte oss med "noe"?
+- Er det mulig å bremse utviklingen av kunstig intelligens?
+
+Dagens eksperter:
+Lege og KI-forsker Ishita Barua
+Biolog Kjetil Lysne Voje
+Fysiker Gaute Einevoll
+
+Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no
+</itunes:summary></item><item><title>Forskningsfronten - Steinslikkende forskere og hundespråk </title><link>https://podkast.nrk.no/fil/abels_taarn/6a64d669-edf9-430d-9612-a785f43ce882_0_ID192MP3.mp3</link><description>Torkild, Annette og Hanne deler små og store forskningsnyheter. 
 
 - Snakker du "hundsk"?  - Hvor god er du egentlig til å forstå hundens mimikk?
 - Omvendt vaksine mot MS
-- Hvorfor liker enkelte forskere å slikke på steiner?  ... og andre utvalgte Ig-Nobelpriser</description><pubDate>Mon, 25 Sep 2023 06:00:00 GMT</pubDate></item><item><title>Kosen med narkosen</title><link>https://podkast.nrk.no/fil/abels_taarn/8a8e2de8-617a-4092-8986-49ef3f70da3f_0_ID192MP3.mp3</link><description>Hva slags anestesi brukte steinaldermennesket da de gjorde sin hodeskallekirurgi?
+- Hvorfor liker enkelte forskere å slikke på steiner?  ... og andre utvalgte Ig-Nobelpriser</description><pubDate>Mon, 25 Sep 2023 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/6a64d669-edf9-430d-9612-a785f43ce882_0_ID192MP3.mp3" length="1768" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/yMFyx57kM3-uJDh-0MI-_Ax4Y6Dvs0lmHRcB29kNqvqw"></itunes:image><itunes:duration>0:29:28</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Steinslikkende forskere og hundespråk </itunes:subtitle><itunes:summary>Torkild, Annette og Hanne deler små og store forskningsnyheter. 
+
+- Snakker du "hundsk"?  - Hvor god er du egentlig til å forstå hundens mimikk?
+- Omvendt vaksine mot MS
+- Hvorfor liker enkelte forskere å slikke på steiner?  ... og andre utvalgte Ig-Nobelpriser</itunes:summary></item><item><title>Kosen med narkosen</title><link>https://podkast.nrk.no/fil/abels_taarn/8a8e2de8-617a-4092-8986-49ef3f70da3f_0_ID192MP3.mp3</link><description>Hva slags anestesi brukte steinaldermennesket da de gjorde sin hodeskallekirurgi?
 Hva er det med narkosemidlene som gjør at bevisstheten blir slått ut, mens ikke vitale kroppsfunksjoner som for eksempel hjertet?
 
 Vi snakker om narkosens hemmeligheter og alt anestesilegen burde fortalt deg før du sovner.
 
-Torkild Jemterud gjør et dypdykk med Lars Prag Antonsen</description><pubDate>Sat, 23 Sep 2023 07:00:00 GMT</pubDate></item><item><title>Hvorfor faller ikke skyene ned?</title><link>https://podkast.nrk.no/fil/abels_taarn/919bd061-1eb1-49c7-9104-9c8a42806e90_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+Torkild Jemterud gjør et dypdykk med Lars Prag Antonsen</description><pubDate>Sat, 23 Sep 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/8a8e2de8-617a-4092-8986-49ef3f70da3f_0_ID192MP3.mp3" length="2036" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/_QSW-8gdBpclZYeBsvpn1wzgVkvD9mVrQw-5kgDvXfaA"></itunes:image><itunes:duration>0:33:56</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Kosen med narkosen</itunes:subtitle><itunes:summary>Hva slags anestesi brukte steinaldermennesket da de gjorde sin hodeskallekirurgi?
+Hva er det med narkosemidlene som gjør at bevisstheten blir slått ut, mens ikke vitale kroppsfunksjoner som for eksempel hjertet?
+
+Vi snakker om narkosens hemmeligheter og alt anestesilegen burde fortalt deg før du sovner.
+
+Torkild Jemterud gjør et dypdykk med Lars Prag Antonsen</itunes:summary></item><item><title>Hvorfor faller ikke skyene ned?</title><link>https://podkast.nrk.no/fil/abels_taarn/919bd061-1eb1-49c7-9104-9c8a42806e90_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
 
 Har Abels tårn sagt feil om jordas krumning?
 Har grisens hjerne krympet?
@@ -515,13 +1018,34 @@ Hvorfor driver innsekter med synkronflyving?
 Dagens eksperter: 
 Solveig Engebretsen
 Petter Bøckman
-Anja Røyne	</description><pubDate>Fri, 22 Sep 2023 10:00:00 GMT</pubDate></item><item><title>Forskningsfronten - Myggens ofre og sorte stjerner</title><link>https://podkast.nrk.no/fil/abels_taarn/6c8ef332-8e16-40b0-860d-2879f020223b_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter. 
+Anja Røyne	</description><pubDate>Fri, 22 Sep 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/919bd061-1eb1-49c7-9104-9c8a42806e90_0_ID192MP3.mp3" length="3461" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/J4Hybm_Nn0WKJ4G6BKjjQA0IOY7chLnc6wPbT-jF7OYg"></itunes:image><itunes:duration>0:57:41</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Hvorfor faller ikke skyene ned?</itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+
+Har Abels tårn sagt feil om jordas krumning?
+Har grisens hjerne krympet?
+Hvorfor krymper plastflasker over tid når de har vann i seg?
+Kan man spille Euro Jakpot i det uendelige uten å vinne?
+Hvordan vinne i lotto? 
+Blir jordkloden tyngre? 
+Hva blir i så fall brennverdien av vektløs ved? 
+Hva er forventet levealder hvis man er født i 1960?
+Hvorfor driver innsekter med synkronflyving?
+
+Dagens eksperter: 
+Solveig Engebretsen
+Petter Bøckman
+Anja Røyne	</itunes:summary></item><item><title>Forskningsfronten - Myggens ofre og sorte stjerner</title><link>https://podkast.nrk.no/fil/abels_taarn/6c8ef332-8e16-40b0-860d-2879f020223b_0_ID192MP3.mp3</link><description>Torkild, Hanne og Annette deler små og store forskningsnyheter. 
 
 - Myggens offerpreferanser
 - Sorte stjerner
-- Neshorn tilbakeføres</description><pubDate>Mon, 18 Sep 2023 06:00:00 GMT</pubDate></item><item><title>Å leve uten plast</title><link>https://podkast.nrk.no/fil/abels_taarn/3cc71583-fc10-43fd-bbd4-26c708d1762a_0_ID192MP3.mp3</link><description>Hvert år produseres det 430 millioner tonn plass, og mye av det havner i havet. Noen hevder at det snart er mer plast enn fisk. Men kan vi leve våre moderne liv uten plast? Og hvorfor er det så vanskelig å resirkulere det?
+- Neshorn tilbakeføres</description><pubDate>Mon, 18 Sep 2023 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/6c8ef332-8e16-40b0-860d-2879f020223b_0_ID192MP3.mp3" length="1679" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/4Dkh2oNi-VUSgGDD56Thlw7J75ZJoVDYq1jKExL4PhCQ"></itunes:image><itunes:duration>0:27:59</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Myggens ofre og sorte stjerner</itunes:subtitle><itunes:summary>Torkild, Hanne og Annette deler små og store forskningsnyheter. 
 
-Torkild Jemterud gjør et dypdykk i temaet. </description><pubDate>Sat, 16 Sep 2023 07:00:00 GMT</pubDate></item><item><title>Kan aliens leve i det tomme verdensrommet?</title><link>https://podkast.nrk.no/fil/abels_taarn/ef4e5dae-69b8-4263-9416-ce0336c802d6_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+- Myggens offerpreferanser
+- Sorte stjerner
+- Neshorn tilbakeføres</itunes:summary></item><item><title>Å leve uten plast</title><link>https://podkast.nrk.no/fil/abels_taarn/3cc71583-fc10-43fd-bbd4-26c708d1762a_0_ID192MP3.mp3</link><description>Hvert år produseres det 430 millioner tonn plass, og mye av det havner i havet. Noen hevder at det snart er mer plast enn fisk. Men kan vi leve våre moderne liv uten plast? Og hvorfor er det så vanskelig å resirkulere det?
+
+Torkild Jemterud gjør et dypdykk i temaet. </description><pubDate>Sat, 16 Sep 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/3cc71583-fc10-43fd-bbd4-26c708d1762a_0_ID192MP3.mp3" length="1814" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/b54YBjePJD5ObRD1yJAQCAVHRjOE8WuOhks3bdUF5WAQ"></itunes:image><itunes:duration>0:30:14</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Å leve uten plast</itunes:subtitle><itunes:summary>Hvert år produseres det 430 millioner tonn plass, og mye av det havner i havet. Noen hevder at det snart er mer plast enn fisk. Men kan vi leve våre moderne liv uten plast? Og hvorfor er det så vanskelig å resirkulere det?
+
+Torkild Jemterud gjør et dypdykk i temaet. </itunes:summary></item><item><title>Kan aliens leve i det tomme verdensrommet?</title><link>https://podkast.nrk.no/fil/abels_taarn/ef4e5dae-69b8-4263-9416-ce0336c802d6_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
 
 - Flyter alt i kroppen når du ligger og dupper i badekaret?
 - Kan man finne fritt svevende liv  i verdensrommet?
@@ -536,15 +1060,38 @@ Astronom Vegard Rekaa
 Fysiker Are Raklev
 Rettsmedisiner Ida Kathrine Gravensteen
 
-Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</description><pubDate>Fri, 15 Sep 2023 10:00:00 GMT</pubDate></item><item><title> Bondens nye hjelper</title><link>https://podkast.nrk.no/fil/abels_taarn/bdbc045d-4f0f-4fb1-b517-5f8149a2aa15_0_ID192MP3.mp3</link><description>AX-1 roboten jakter ugress og dreper det med en liten sprut. Dette er presisjonsluking og kan spare miljøet for mye gift.
+Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</description><pubDate>Fri, 15 Sep 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/ef4e5dae-69b8-4263-9416-ce0336c802d6_0_ID192MP3.mp3" length="3447" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/Bcyrta9R5-FJcE3uXxFKVAMbD29fXyw7InfCu8jauPvw"></itunes:image><itunes:duration>0:57:27</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Kan aliens leve i det tomme verdensrommet?</itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
 
-Torkild Jemterud gjør et dypdykk i temaet. </description><pubDate>Sun, 10 Sep 2023 07:00:00 GMT</pubDate></item><item><title>Forskningsfronten - UFO-rusk og helbredende fosterceller</title><link>https://podkast.nrk.no/fil/abels_taarn/804e649b-1324-4efb-8330-bd3c16592322_0_ID192MP3.mp3</link><description>Torkild, Annette og Hanne deler små og store forskningsnyheter.
+- Flyter alt i kroppen når du ligger og dupper i badekaret?
+- Kan man finne fritt svevende liv  i verdensrommet?
+- Kan vi sette en Kunstig intelligens til å gå gjennom all gammel lyd fra verdensrommet og lete etter et.. "hei"?
+- Er det et fortrinn å ha dobbelt opp av noen organer?
+- Hvor høyt på månens overflate må du stå for å se horisonten krumme seg?
+- Hjelper det å holde på det vonde stedet for å døyve smerte?
+- Øker smerte ved stress?
+
+Dagens eksperter: 
+Astronom Vegard Rekaa 
+Fysiker Are Raklev
+Rettsmedisiner Ida Kathrine Gravensteen
+
+Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</itunes:summary></item><item><title> Bondens nye hjelper</title><link>https://podkast.nrk.no/fil/abels_taarn/bdbc045d-4f0f-4fb1-b517-5f8149a2aa15_0_ID192MP3.mp3</link><description>AX-1 roboten jakter ugress og dreper det med en liten sprut. Dette er presisjonsluking og kan spare miljøet for mye gift.
+
+Torkild Jemterud gjør et dypdykk i temaet. </description><pubDate>Sun, 10 Sep 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/bdbc045d-4f0f-4fb1-b517-5f8149a2aa15_0_ID192MP3.mp3" length="1255" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/pIDW4tBU_8RpBChLYILw-AJDGnyfyAoJnIi9FSDFnfnw"></itunes:image><itunes:duration>0:20:55</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle> Bondens nye hjelper</itunes:subtitle><itunes:summary>AX-1 roboten jakter ugress og dreper det med en liten sprut. Dette er presisjonsluking og kan spare miljøet for mye gift.
+
+Torkild Jemterud gjør et dypdykk i temaet. </itunes:summary></item><item><title>Forskningsfronten - UFO-rusk og helbredende fosterceller</title><link>https://podkast.nrk.no/fil/abels_taarn/804e649b-1324-4efb-8330-bd3c16592322_0_ID192MP3.mp3</link><description>Torkild, Annette og Hanne deler små og store forskningsnyheter.
 
 - Kan fosterceller kurere mors syke hjerte?
 - Har vi funnet UFO-rusk fra ytre rom?
 - Selvrensende toaletter uten vann...
 
-Og, vi får besøk av redaktøren for Forskning.no som i disse dager publiserer en stor serie som stiller spørsmål ved psykologiforskningen.</description><pubDate>Sat, 09 Sep 2023 06:00:00 GMT</pubDate></item><item><title>Hvorfor våkner jeg med morrabrød?</title><link>https://podkast.nrk.no/fil/abels_taarn/511feae4-c1ce-43b1-8fb4-dfa098b41fd2_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+Og, vi får besøk av redaktøren for Forskning.no som i disse dager publiserer en stor serie som stiller spørsmål ved psykologiforskningen.</description><pubDate>Sat, 09 Sep 2023 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/804e649b-1324-4efb-8330-bd3c16592322_0_ID192MP3.mp3" length="2272" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/Yhluc7JEqN-2F57v6xCdbw4m-UA0zEmWwrjA-_7NKL-Q"></itunes:image><itunes:duration>0:37:52</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - UFO-rusk og helbredende fosterceller</itunes:subtitle><itunes:summary>Torkild, Annette og Hanne deler små og store forskningsnyheter.
+
+- Kan fosterceller kurere mors syke hjerte?
+- Har vi funnet UFO-rusk fra ytre rom?
+- Selvrensende toaletter uten vann...
+
+Og, vi får besøk av redaktøren for Forskning.no som i disse dager publiserer en stor serie som stiller spørsmål ved psykologiforskningen.</itunes:summary></item><item><title>Hvorfor våkner jeg med morrabrød?</title><link>https://podkast.nrk.no/fil/abels_taarn/511feae4-c1ce-43b1-8fb4-dfa098b41fd2_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
 
 - Hvordan vet kengurumor hva hun skal gjøre?
 - Kan en apekatt skrive som Shakespeare?
@@ -560,16 +1107,41 @@ Primatolog Anita Eriksen
 Lege Ellen Støkken Dahl
 Matematiker Arne B. Slettsjø
 
-Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</description><pubDate>Fri, 08 Sep 2023 10:00:00 GMT</pubDate></item><item><title>Forskningsfronten - Å snakke ved tankens kraft</title><link>https://podkast.nrk.no/fil/abels_taarn/395264c4-df72-44d9-a0ae-38eee607a206_0_ID192MP3.mp3</link><description>Torkild, Annette og Hanne deler små og store nyheter fra forskningens verden.
+Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</description><pubDate>Fri, 08 Sep 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/511feae4-c1ce-43b1-8fb4-dfa098b41fd2_0_ID192MP3.mp3" length="3587" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/xbfFxRDvT4vXatTkrjM-YQxYxJ30pm6YtLHb6ECLmXdg"></itunes:image><itunes:duration>0:59:47</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Hvorfor våkner jeg med morrabrød?</itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+
+- Hvordan vet kengurumor hva hun skal gjøre?
+- Kan en apekatt skrive som Shakespeare?
+- Kan man spille Euro Jackpot i det uendelige uten å vinne?
+- Er det en sammenheng mellom piggsvin og brunsegler?
+- Hvordan kan et riskorn sette pustefunksjonen ut av spill?
+- Hva er best å gjøre når man setter noe i vrangstrupen, hoste eller drikke?
+- Finnes det egentlig tilfeldigheter?	
+- Blir man syk av våte sokker eller hår?	
+
+Ukens eksperter:
+Primatolog Anita Eriksen
+Lege Ellen Støkken Dahl
+Matematiker Arne B. Slettsjø
+
+Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</itunes:summary></item><item><title>Forskningsfronten - Å snakke ved tankens kraft</title><link>https://podkast.nrk.no/fil/abels_taarn/395264c4-df72-44d9-a0ae-38eee607a206_0_ID192MP3.mp3</link><description>Torkild, Annette og Hanne deler små og store nyheter fra forskningens verden.
 
 - Ny teknologi gir stemmen tilbake til mennesker som har mistet taleevnen: tankelesning, KI og talesyntese
 - Bør du sove på mage, rygg eller siden?
-- 1000 år etter kompasset har fysikere funnet en ny måte å finne nord på</description><pubDate>Mon, 04 Sep 2023 07:00:00 GMT</pubDate></item><item><title>Forurensning i hagen din</title><link>https://podkast.nrk.no/fil/abels_taarn/eab410e3-2d43-4683-b206-6ed1116dd53e_0_ID192MP3.mp3</link><description>På 50-tallet ble norske hageeiere sterkt oppfordret til å sprøyte epletrærne sine, ikke bare om våren, men sju ganger i løpet av året. Hvordan har all denne sprøytinga påvirket jordsmonn og epletrær i dag?
+- 1000 år etter kompasset har fysikere funnet en ny måte å finne nord på</description><pubDate>Mon, 04 Sep 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/395264c4-df72-44d9-a0ae-38eee607a206_0_ID192MP3.mp3" length="1632" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/nfr1czIDMwEyAQ3TBlYHtw3kpIF2yjqN2veQTAKOy4uA"></itunes:image><itunes:duration>0:27:12</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Å snakke ved tankens kraft</itunes:subtitle><itunes:summary>Torkild, Annette og Hanne deler små og store nyheter fra forskningens verden.
+
+- Ny teknologi gir stemmen tilbake til mennesker som har mistet taleevnen: tankelesning, KI og talesyntese
+- Bør du sove på mage, rygg eller siden?
+- 1000 år etter kompasset har fysikere funnet en ny måte å finne nord på</itunes:summary></item><item><title>Forurensning i hagen din</title><link>https://podkast.nrk.no/fil/abels_taarn/eab410e3-2d43-4683-b206-6ed1116dd53e_0_ID192MP3.mp3</link><description>På 50-tallet ble norske hageeiere sterkt oppfordret til å sprøyte epletrærne sine, ikke bare om våren, men sju ganger i løpet av året. Hvordan har all denne sprøytinga påvirket jordsmonn og epletrær i dag?
 
 Torkild Jemterud gjør et dypdykk i temaet. 
 
 
-</description><pubDate>Sat, 02 Sep 2023 07:00:00 GMT</pubDate></item><item><title>Hvordan bør oppvaskkosten oppbevares?</title><link>https://podkast.nrk.no/fil/abels_taarn/2247e864-6b7a-472c-9e4c-d49af9d8aaee_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+</description><pubDate>Sat, 02 Sep 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/eab410e3-2d43-4683-b206-6ed1116dd53e_0_ID192MP3.mp3" length="1902" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/ARqDEQ7SsojgjYIwvEmPJgkCdvidlNjeNumODMoa2VQg"></itunes:image><itunes:duration>0:31:42</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forurensning i hagen din</itunes:subtitle><itunes:summary>På 50-tallet ble norske hageeiere sterkt oppfordret til å sprøyte epletrærne sine, ikke bare om våren, men sju ganger i løpet av året. Hvordan har all denne sprøytinga påvirket jordsmonn og epletrær i dag?
+
+Torkild Jemterud gjør et dypdykk i temaet. 
+
+
+</itunes:summary></item><item><title>Hvordan bør oppvaskkosten oppbevares?</title><link>https://podkast.nrk.no/fil/abels_taarn/2247e864-6b7a-472c-9e4c-d49af9d8aaee_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
 
 - Er selv brød ultraprosessert, og gjør det noe?
 - Lading av powerbank på tur
@@ -585,12 +1157,33 @@ Sissel Beate Rønning - Genteknolog og matforsker
 Einar Uggerud - Kjemiker
 Ole Martin Løvvik - Fysiker
 
-Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</description><pubDate>Fri, 01 Sep 2023 10:00:00 GMT</pubDate></item><item><title>Forskningsfronten - Indias månelanding og farvel til mørk materie</title><link>https://podkast.nrk.no/fil/abels_taarn/5552cd8d-6690-4857-a187-1c28f8e4f6c7_0_ID192MP3.mp3</link><description>Torkild, Annette og Hanne deler små og store forskningsnyheter. 
+Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</description><pubDate>Fri, 01 Sep 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/2247e864-6b7a-472c-9e4c-d49af9d8aaee_0_ID192MP3.mp3" length="3473" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/WruzxkEwV7q5OHZnrq6juwO9bjbxZ342Gb9VykuNeT2A"></itunes:image><itunes:duration>0:57:53</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Hvordan bør oppvaskkosten oppbevares?</itunes:subtitle><itunes:summary>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+
+- Er selv brød ultraprosessert, og gjør det noe?
+- Lading av powerbank på tur
+- Bør man la oppvaskkosten ligge i vasken eller henge den opp?
+- Hva er best: oppvaskkost eller svamp?
+- Hva ville en kjemiker kunne lage hvis hen ble kasta 2000 år tilbake i tid?
+- Hvordan ville det vært å bevege seg rundt  inni jorda, dersom den var hul?
+- Er kværna rødt kjøtt mer usunt enn en hel biff?
+- Kan man lage en stjerne av vann?
+
+Ukens eksperter:
+Sissel Beate Rønning - Genteknolog og matforsker
+Einar Uggerud - Kjemiker
+Ole Martin Løvvik - Fysiker
+
+Send oss dine spørsmål ved å trykke på snakkeboblen øverst på skjermen, eller send en mail til abels@nrk.no</itunes:summary></item><item><title>Forskningsfronten - Indias månelanding og farvel til mørk materie</title><link>https://podkast.nrk.no/fil/abels_taarn/5552cd8d-6690-4857-a187-1c28f8e4f6c7_0_ID192MP3.mp3</link><description>Torkild, Annette og Hanne deler små og store forskningsnyheter. 
 - Både gode og dårlige nyheter fra månelandingene som har skjedd den siste uka.
 - Innsekter sliter seg ut i lysforurensede områder.
-- Ny teori om mørk materie, kanskje. Kan Newton og Einsteins teorier stå for fall?</description><pubDate>Mon, 28 Aug 2023 07:00:00 GMT</pubDate></item><item><title>Spesial: LK-99 Superlederen som slo ned som en bombe</title><link>https://podkast.nrk.no/fil/abels_taarn/4448a426-8fb7-4fc1-8e24-3fa9c00c7fd0_0_ID192MP3.mp3</link><description>"Dette er århundrets forskningsgjennombrudd", blei det meldt  i nyhetsmedier verden over for noen uker siden. "Det vil snu opp ned på hvordan vi lever våre liv!"
+- Ny teori om mørk materie, kanskje. Kan Newton og Einsteins teorier stå for fall?</description><pubDate>Mon, 28 Aug 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/5552cd8d-6690-4857-a187-1c28f8e4f6c7_0_ID192MP3.mp3" length="1476" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/EHr6mmAlXugR27JnNh-2ggqHDhOVjvZOAGX05kg2oW6A"></itunes:image><itunes:duration>0:24:36</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Indias månelanding og farvel til mørk materie</itunes:subtitle><itunes:summary>Torkild, Annette og Hanne deler små og store forskningsnyheter. 
+- Både gode og dårlige nyheter fra månelandingene som har skjedd den siste uka.
+- Innsekter sliter seg ut i lysforurensede områder.
+- Ny teori om mørk materie, kanskje. Kan Newton og Einsteins teorier stå for fall?</itunes:summary></item><item><title>Spesial: LK-99 Superlederen som slo ned som en bombe</title><link>https://podkast.nrk.no/fil/abels_taarn/4448a426-8fb7-4fc1-8e24-3fa9c00c7fd0_0_ID192MP3.mp3</link><description>"Dette er århundrets forskningsgjennombrudd", blei det meldt  i nyhetsmedier verden over for noen uker siden. "Det vil snu opp ned på hvordan vi lever våre liv!"
 Forskningsbomben var at koreanske forskere meldte om et nytt materiale som var superledende ved romtemperatur. Det ville i så fall innebære et strømnett helt uten energitap, et farvel til ulike kraftregioner her til lands, superraske svevende tog og datamaskiner tusener ganger kraftigere enn dagens. 
-Men var nyheten for god til å være sann? Abels tårn tar saken!</description><pubDate>Sat, 26 Aug 2023 07:00:00 GMT</pubDate></item><item><title>Abels tårn - Hvorfor får ikke elefanter kreft?</title><link>https://podkast.nrk.no/fil/abels_taarn/769173cd-18bc-4504-aafc-7d7e011826a4_0_ID192MP3.mp3</link><description>ABELS TÅRN 
+Men var nyheten for god til å være sann? Abels tårn tar saken!</description><pubDate>Sat, 26 Aug 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/4448a426-8fb7-4fc1-8e24-3fa9c00c7fd0_0_ID192MP3.mp3" length="2282" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/3RXoDoTOcye6VWKnWEe0HAWRDEr9J7FCvAeykmjbkiHw"></itunes:image><itunes:duration>0:38:02</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Spesial: LK-99 Superlederen som slo ned som en bombe</itunes:subtitle><itunes:summary>"Dette er århundrets forskningsgjennombrudd", blei det meldt  i nyhetsmedier verden over for noen uker siden. "Det vil snu opp ned på hvordan vi lever våre liv!"
+Forskningsbomben var at koreanske forskere meldte om et nytt materiale som var superledende ved romtemperatur. Det ville i så fall innebære et strømnett helt uten energitap, et farvel til ulike kraftregioner her til lands, superraske svevende tog og datamaskiner tusener ganger kraftigere enn dagens. 
+Men var nyheten for god til å være sann? Abels tårn tar saken!</itunes:summary></item><item><title>Abels tårn - Hvorfor får ikke elefanter kreft?</title><link>https://podkast.nrk.no/fil/abels_taarn/769173cd-18bc-4504-aafc-7d7e011826a4_0_ID192MP3.mp3</link><description>ABELS TÅRN 
 
 Ekspertpanelet:
 Biolog Katharina Vestre
@@ -612,12 +1205,39 @@ Svarer i dag på disse spørsmålene:
 - Er stillehavsøstersen vår venn eller fiende?
 
 - Hvilken sopp er den farligste i miljøet vårt?
-</description><pubDate>Fri, 25 Aug 2023 10:00:00 GMT</pubDate></item><item><title>Oppenheimer spesial</title><link>https://podkast.nrk.no/fil/abels_taarn/8bbdf91a-9d2b-4e1e-8b01-9338b0db480e_0_ID192MP3.mp3</link><description>"Nå har jeg blitt døden, ødelegger av verdener". Dette sitatet fra en hinduistisk tekst for gjennom hodet til Robert Oppenheimer - atombombens far - da han fikk melding om bombingen av Hiroshima. Ikke bare i sommerens storfilm, men i den virkelige verden.
+</description><pubDate>Fri, 25 Aug 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/769173cd-18bc-4504-aafc-7d7e011826a4_0_ID192MP3.mp3" length="3460" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/aLr4-IhPqxwNloX4g6K3ww8REzaen9vg7Gt19qAqLPkA"></itunes:image><itunes:duration>0:57:40</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Abels tårn - Hvorfor får ikke elefanter kreft?</itunes:subtitle><itunes:summary>ABELS TÅRN 
+
+Ekspertpanelet:
+Biolog Katharina Vestre
+Lege Erik Sveberg Dietrichs 
+Marinbiolog Emilie Hernes Vereide
+
+Svarer i dag på disse spørsmålene:
+
+- Er det farlig å spise for mye banan?
+
+- Er det sant at elefanter ikke kan få kreft?
+
+- Hva ville skjedd om menneskene fikk oppgradert sansene sine?
+
+- Dreper sterkt krydder bakterier?
+
+- Kan fingertupper vokse tilbake?
+
+- Er stillehavsøstersen vår venn eller fiende?
+
+- Hvilken sopp er den farligste i miljøet vårt?
+</itunes:summary></item><item><title>Oppenheimer spesial</title><link>https://podkast.nrk.no/fil/abels_taarn/8bbdf91a-9d2b-4e1e-8b01-9338b0db480e_0_ID192MP3.mp3</link><description>"Nå har jeg blitt døden, ødelegger av verdener". Dette sitatet fra en hinduistisk tekst for gjennom hodet til Robert Oppenheimer - atombombens far - da han fikk melding om bombingen av Hiroshima. Ikke bare i sommerens storfilm, men i den virkelige verden.
 
 Med utgangspunkt i filmen spør vi: Hva var det med det norske tungtvannet? Hvilke isotoper var det USA eksporterte til Norge, og hvorfor? Hvordan virker 'anriket uran' og hvordan gjør man det? Hvorfor forsket man på framstilling av plutonium i Norge?
 
 Med Øyvind Grøn og Ole Christian Reistad
-</description><pubDate>Fri, 18 Aug 2023 10:00:00 GMT</pubDate></item><item><title>Abels tårn - Er det flest øyner eller føtter i verden?</title><link>https://podkast.nrk.no/fil/abels_taarn/602a3e52-4658-4227-b78b-ee63d2d6d63a_0_ID192MP3.mp3</link><description>ABELS TÅRN                                                                   
+</description><pubDate>Fri, 18 Aug 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/8bbdf91a-9d2b-4e1e-8b01-9338b0db480e_0_ID192MP3.mp3" length="3460" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/uETWger3cwyCR18EfOJjsQN-CpHktp2mZ5WRnU1bwIkg"></itunes:image><itunes:duration>0:57:40</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Oppenheimer spesial</itunes:subtitle><itunes:summary>"Nå har jeg blitt døden, ødelegger av verdener". Dette sitatet fra en hinduistisk tekst for gjennom hodet til Robert Oppenheimer - atombombens far - da han fikk melding om bombingen av Hiroshima. Ikke bare i sommerens storfilm, men i den virkelige verden.
+
+Med utgangspunkt i filmen spør vi: Hva var det med det norske tungtvannet? Hvilke isotoper var det USA eksporterte til Norge, og hvorfor? Hvordan virker 'anriket uran' og hvordan gjør man det? Hvorfor forsket man på framstilling av plutonium i Norge?
+
+Med Øyvind Grøn og Ole Christian Reistad
+</itunes:summary></item><item><title>Abels tårn - Er det flest øyner eller føtter i verden?</title><link>https://podkast.nrk.no/fil/abels_taarn/602a3e52-4658-4227-b78b-ee63d2d6d63a_0_ID192MP3.mp3</link><description>ABELS TÅRN                                                                   
 - Nyser alle dyr?
 - Er det mulig å lage et kunstig kulelyn, styre det - og lage en plasmakanon?
 - Er det flest øyne eller føtter i verden?
@@ -630,7 +1250,20 @@ og, hvor lang tid ville det tatt å skli over?
 I panelet:
 Paleontolog Lene Liebe Delsett
 Fysiker Vidar Skogvoll
-Marinbiolog Simon Hasselø Kline</description><pubDate>Fri, 18 Aug 2023 09:00:00 GMT</pubDate></item><item><title>Abels sommermix - Tissetrengt i öpna landskap</title><link>https://podkast.nrk.no/fil/abels_taarn/167a5b24-5092-4931-ae5b-3657b5bc5d59_0_ID192MP3.mp3</link><description>Blir man mer tissetrengt på vidda enn i skauen?
+Marinbiolog Simon Hasselø Kline</description><pubDate>Fri, 18 Aug 2023 09:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/602a3e52-4658-4227-b78b-ee63d2d6d63a_0_ID192MP3.mp3" length="3460" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/StUL1hzVoiFsDmB3BxCJoQT2g-1kfmwlh0TvFmJ6NvLA"></itunes:image><itunes:duration>0:57:40</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Abels tårn - Er det flest øyner eller føtter i verden?</itunes:subtitle><itunes:summary>ABELS TÅRN                                                                   
+- Nyser alle dyr?
+- Er det mulig å lage et kunstig kulelyn, styre det - og lage en plasmakanon?
+- Er det flest øyne eller føtter i verden?
+- Kan man grave så dype groper i havet at det ikke stiger?
+- Hvis man skulle sette opp en zipline mellom New Zealand og Australia, hvor høyt tårn må man bygge?
+og, hvor lang tid ville det tatt å skli over?
+- Høna eller egget, hva kom først?
+- Kan blekksprut få feber?
+
+I panelet:
+Paleontolog Lene Liebe Delsett
+Fysiker Vidar Skogvoll
+Marinbiolog Simon Hasselø Kline</itunes:summary></item><item><title>Abels sommermix - Tissetrengt i öpna landskap</title><link>https://podkast.nrk.no/fil/abels_taarn/167a5b24-5092-4931-ae5b-3657b5bc5d59_0_ID192MP3.mp3</link><description>Blir man mer tissetrengt på vidda enn i skauen?
 
 Planter som vokser på steingrunn: hvor kommer det biologiske byggematerialet fra?
 
@@ -664,7 +1297,41 @@ Panel 3
 Botaniker Charlotte Sletten Bjorå
 Fysiker og hjerneforsker Gaute Einevoll
 
-</description><pubDate>Fri, 11 Aug 2023 10:00:00 GMT</pubDate></item><item><title>Abels sommermix - kreativitet og menssyklus</title><link>https://podkast.nrk.no/fil/abels_taarn/5daf5ed7-947a-439f-b96c-54bba339d51e_0_ID192MP3.mp3</link><description> Hvorfor har vi så stor hjerne, og ikke for eksempel kenguruen?
+</description><pubDate>Fri, 11 Aug 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/167a5b24-5092-4931-ae5b-3657b5bc5d59_0_ID192MP3.mp3" length="3429" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/19re-L4cYNenmKOJxKPS-gkO3m5Ez_k7RMMbrtkbATBw"></itunes:image><itunes:duration>0:57:09</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Abels sommermix - Tissetrengt i öpna landskap</itunes:subtitle><itunes:summary>Blir man mer tissetrengt på vidda enn i skauen?
+
+Planter som vokser på steingrunn: hvor kommer det biologiske byggematerialet fra?
+
+Blir vi kokt av mikrobølger som vibrerer vannet i kroppen vår?
+
+Er det ekstra mange svaler i år?
+
+Tilgroing av fjordene – hva skjer?
+
+Panel 1
+Jordmikrobiolog Erik Joner
+Øko-toksikolog Julie Sørlie Paus-Knudsen
+Fysiker og hjerneforsker Gaute Einevoll                                                                                                                    34:04
+Hvorfor fjerner varmt vann møkka best?
+
+Nytt panel
+Har mindre dusjing- pga høye strømpriser – ført til dårligere folkehelse og høyere dødlighet?
+
+Evighetskjemikalier – hype eller enda noe å bekymre seg for?
+
+Panel 2
+Kjemiker Alexander Sandtorv
+Psykolog Jasmin Iqbal
+Zoolog Petter Bøckman
+
+Nytt panel:
+
+Hvordan kan vi si at 90 % av livet i havet er ukjent … når vi ikke kjenner det?
+
+Panel 3
+Botaniker Charlotte Sletten Bjorå
+Fysiker og hjerneforsker Gaute Einevoll
+
+</itunes:summary></item><item><title>Abels sommermix - kreativitet og menssyklus</title><link>https://podkast.nrk.no/fil/abels_taarn/5daf5ed7-947a-439f-b96c-54bba339d51e_0_ID192MP3.mp3</link><description> Hvorfor har vi så stor hjerne, og ikke for eksempel kenguruen?
 
 Har kvinner større skaperkraft ved eggløsning? Finnes det noe tilsvarende syklus for menn?
 
@@ -691,20 +1358,60 @@ Botaniker Charlotte Sletten Bjorå
 Paleontolog Jørn Hurum
 Datalog Morten Goodwin
 
-            </description><pubDate>Fri, 04 Aug 2023 07:00:00 GMT</pubDate></item><item><title>Abels tårn - Kreativ taksidermi og kompostering</title><link>https://podkast.nrk.no/fil/abels_taarn/8fd5cfb1-ba0e-48a0-919b-290d99c5c9bc_0_ID192MP3.mp3</link><description>Er det regler for hva taksidermister kan gjøre når de stopper ut dyr? 
+            </description><pubDate>Fri, 04 Aug 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/5daf5ed7-947a-439f-b96c-54bba339d51e_0_ID192MP3.mp3" length="3429" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/TV7NgjH8O-YBf8m8SQDf6wjF2QhyeE7XBH8YGKkZQHHw"></itunes:image><itunes:duration>0:57:09</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Abels sommermix - kreativitet og menssyklus</itunes:subtitle><itunes:summary> Hvorfor har vi så stor hjerne, og ikke for eksempel kenguruen?
+
+Har kvinner større skaperkraft ved eggløsning? Finnes det noe tilsvarende syklus for menn?
+
+Psykologisk institutt vil ha forsøkspersoner til vennestudie
+
+Er det greit å bruke gamle, slitte isbokser til matoppbevaring?
+
+Hva gjorde folk med skjegg og negler i steinalderen?
+                                                                                         
+Panel 1 
+Psykolog Guro Løseth
+Zoolog Petter Bøckman
+Kjemiker Einar Uggerud
+Påvirker mennesket dannelsen av nye bergarter?
+
+Kan KI brukes til å forutsi ting vi ikke har tenkt på? Som for eksempel en ny pandemi?    
+
+Hvordan blir man kvitt løvetann i hagen?
+
+Lysenkos skygge over sovjetisk vitenskap
+
+ Panel 2
+Botaniker Charlotte Sletten Bjorå
+Paleontolog Jørn Hurum
+Datalog Morten Goodwin
+
+            </itunes:summary></item><item><title>Abels tårn - Kreativ taksidermi og kompostering</title><link>https://podkast.nrk.no/fil/abels_taarn/8fd5cfb1-ba0e-48a0-919b-290d99c5c9bc_0_ID192MP3.mp3</link><description>Er det regler for hva taksidermister kan gjøre når de stopper ut dyr? 
 Er magen vår i bunn og grunn en kompostbinge?
 
 Panelet
 Kjetil Lysne Voje
-Erik Joner</description><pubDate>Sat, 29 Jul 2023 07:00:00 GMT</pubDate></item><item><title>Abels serie - Drømmen om evig liv #4: Evighetsmennesket</title><link>https://podkast.nrk.no/fil/abels_taarn/a132aa92-31a6-4d8a-b78e-9477bc6c8390_0_ID192MP3.mp3</link><description>Anders Sandberg er filosof ved Oxford og har inngått avtale om å fryses ned når han dør. Han tror at mennesket i framtiden vil bli en slags kyborg som glir inn mellom den fysiske verden og cyberspace.
+Erik Joner</description><pubDate>Sat, 29 Jul 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/8fd5cfb1-ba0e-48a0-919b-290d99c5c9bc_0_ID192MP3.mp3" length="1207" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/DETZ0e7SiJMbU6j1ae6rsAeugOp1a6cWlpcNqEPaJVog"></itunes:image><itunes:duration>0:20:07</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Abels tårn - Kreativ taksidermi og kompostering</itunes:subtitle><itunes:summary>Er det regler for hva taksidermister kan gjøre når de stopper ut dyr? 
+Er magen vår i bunn og grunn en kompostbinge?
+
+Panelet
+Kjetil Lysne Voje
+Erik Joner</itunes:summary></item><item><title>Abels serie - Drømmen om evig liv #4: Evighetsmennesket</title><link>https://podkast.nrk.no/fil/abels_taarn/a132aa92-31a6-4d8a-b78e-9477bc6c8390_0_ID192MP3.mp3</link><description>Anders Sandberg er filosof ved Oxford og har inngått avtale om å fryses ned når han dør. Han tror at mennesket i framtiden vil bli en slags kyborg som glir inn mellom den fysiske verden og cyberspace.
 
 Medvirkende:
 Anders Sandberg
-Annelin Eriksen</description><pubDate>Fri, 28 Jul 2023 07:00:00 GMT</pubDate></item><item><title>Abels serie - Drømmen om evig liv #3:  Den russiske evighetsbevegelsen</title><link>https://podkast.nrk.no/fil/abels_taarn/3093b608-88c4-4b10-9e39-1867a2637c5c_0_ID192MP3.mp3</link><description>Å fryse seg ned når man dør høres veldig amerikansk ut. Men ideen kommer fra Russland, der ideene fortsatt lever!
+Annelin Eriksen</description><pubDate>Fri, 28 Jul 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/a132aa92-31a6-4d8a-b78e-9477bc6c8390_0_ID192MP3.mp3" length="1562" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/ruh8p4PAdFFDJhe9gc_kkgunbFzeAtNK5MS5dj8L2gAw"></itunes:image><itunes:duration>0:26:02</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Abels serie - Drømmen om evig liv #4: Evighetsmennesket</itunes:subtitle><itunes:summary>Anders Sandberg er filosof ved Oxford og har inngått avtale om å fryses ned når han dør. Han tror at mennesket i framtiden vil bli en slags kyborg som glir inn mellom den fysiske verden og cyberspace.
+
+Medvirkende:
+Anders Sandberg
+Annelin Eriksen</itunes:summary></item><item><title>Abels serie - Drømmen om evig liv #3:  Den russiske evighetsbevegelsen</title><link>https://podkast.nrk.no/fil/abels_taarn/3093b608-88c4-4b10-9e39-1867a2637c5c_0_ID192MP3.mp3</link><description>Å fryse seg ned når man dør høres veldig amerikansk ut. Men ideen kommer fra Russland, der ideene fortsatt lever!
 
 Medvirkende:
 Annelin Eriksen
-Ida Kathrine Gravensteen</description><pubDate>Thu, 27 Jul 2023 07:00:00 GMT</pubDate></item><item><title>Abels serie - Drømmen om evig liv #2 - Digital udødlighet</title><link>https://podkast.nrk.no/fil/abels_taarn/d5341d0d-a564-4349-bfcf-f6e1b24c54d9_0_ID192MP3.mp3</link><description>Hvis det var mulig: ville du lasta opp bevisstheten din til en datamaskin, og fortsatt livet som en digital avatar? Eventuelt: lasta deg opp til en robothjerne? 
+Ida Kathrine Gravensteen</description><pubDate>Thu, 27 Jul 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/3093b608-88c4-4b10-9e39-1867a2637c5c_0_ID192MP3.mp3" length="566" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/d2aoLG7NqdJGSLszifsyaAP6Ryvdu51RH73yj6xJx42A"></itunes:image><itunes:duration>0:09:26</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Abels serie - Drømmen om evig liv #3:  Den russiske evighetsbevegelsen</itunes:subtitle><itunes:summary>Å fryse seg ned når man dør høres veldig amerikansk ut. Men ideen kommer fra Russland, der ideene fortsatt lever!
+
+Medvirkende:
+Annelin Eriksen
+Ida Kathrine Gravensteen</itunes:summary></item><item><title>Abels serie - Drømmen om evig liv #2 - Digital udødlighet</title><link>https://podkast.nrk.no/fil/abels_taarn/d5341d0d-a564-4349-bfcf-f6e1b24c54d9_0_ID192MP3.mp3</link><description>Hvis det var mulig: ville du lasta opp bevisstheten din til en datamaskin, og fortsatt livet som en digital avatar? Eventuelt: lasta deg opp til en robothjerne? 
 
 Og - Er aldring en sjukdom som kan kureres?                                                                                                                 
 
@@ -717,7 +1424,20 @@ Fysiker og hjerneforsker Gaute Einevoll
 Jordmikrobiolog Erik Joner
 Toksikolog Julie Sørlie Paus-Knudsen
 
-</description><pubDate>Fri, 21 Jul 2023 07:00:00 GMT</pubDate></item><item><title>Abels sommermix - Chat GPT,  vitenskapens endetid og "En teori for alt"</title><link>https://podkast.nrk.no/fil/abels_taarn/f4577047-7f47-4fff-a148-ae7199f0155a_0_ID192MP3.mp3</link><description>Abels sommermix – Chat GPT, vitenskapens endetid og «En teori for alt»
+</description><pubDate>Fri, 21 Jul 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/d5341d0d-a564-4349-bfcf-f6e1b24c54d9_0_ID192MP3.mp3" length="3430" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/k4Uj2gUjGGUiiYZy9_xbJAMAhdiL8Y0CdrQUl-jdFTpQ"></itunes:image><itunes:duration>0:57:10</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Abels serie - Drømmen om evig liv #2 - Digital udødlighet</itunes:subtitle><itunes:summary>Hvis det var mulig: ville du lasta opp bevisstheten din til en datamaskin, og fortsatt livet som en digital avatar? Eventuelt: lasta deg opp til en robothjerne? 
+
+Og - Er aldring en sjukdom som kan kureres?                                                                                                                 
+
+Medvirkende
+Sosialantropolog Annelin Eriksen
+Rettsmedisiner Ida Kathrine Gravensteen
+Datalog Morten Goodwin
+
+Fysiker og hjerneforsker Gaute Einevoll
+Jordmikrobiolog Erik Joner
+Toksikolog Julie Sørlie Paus-Knudsen
+
+</itunes:summary></item><item><title>Abels sommermix - Chat GPT,  vitenskapens endetid og "En teori for alt"</title><link>https://podkast.nrk.no/fil/abels_taarn/f4577047-7f47-4fff-a148-ae7199f0155a_0_ID192MP3.mp3</link><description>Abels sommermix – Chat GPT, vitenskapens endetid og «En teori for alt»
 
 Det #%&amp;! Mattestykket - Del 1 
 
@@ -739,7 +1459,29 @@ Statsviter Rachel Tiller
 Genteknolog Trygve Brautaset
 Kjemiker Ole Swang
 Økolog Anita Eriksen
-Hjerneforsker Per Brodal</description><pubDate>Fri, 14 Jul 2023 07:00:00 GMT</pubDate></item><item><title>Abels tårn - Hva med et kjernekraftverk i Oslo by?</title><link>https://podkast.nrk.no/fil/abels_taarn/13c54d66-a707-4fd8-989f-7db891b1bc52_0_ID192MP3.mp3</link><description>ABELS TÅRN- Ask me anything - om tabuteknologi 
+Hjerneforsker Per Brodal</description><pubDate>Fri, 14 Jul 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/f4577047-7f47-4fff-a148-ae7199f0155a_0_ID192MP3.mp3" length="3430" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/6xj0KaUvCD7TlsFZk-6fagp3PWvGbPWR-htqzJcGijmA"></itunes:image><itunes:duration>0:57:10</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Abels sommermix - Chat GPT,  vitenskapens endetid og "En teori for alt"</itunes:subtitle><itunes:summary>Abels sommermix – Chat GPT, vitenskapens endetid og «En teori for alt»
+
+Det #%&amp;! Mattestykket - Del 1 
+
+Det #%&amp;! Mattestykket - Del 2 – Chat GPT gir oss «fasiten»
+
+Det #%&amp;! Mattestykket - Del 3 – Kan vi stole på Chat GPT? 
+
+Er vi i vitenskapens endetid – er de store oppdagelsenes æra over?
+
+Dagens fysikk er ufullstendig. Hvor jakter ikke flere på en «Theory of Everything – En teori for alt»?
+
+Besøk oss gjerne på nrk.no/abels og still dine spørsmål                                                                                                                                  
+Medvirkende (hele sendinga)
+
+Matematiker Helge Holden
+Informatiker Jon Atle Gulla
+KI-forsker Inga Strümke
+Statsviter Rachel Tiller
+Genteknolog Trygve Brautaset
+Kjemiker Ole Swang
+Økolog Anita Eriksen
+Hjerneforsker Per Brodal</itunes:summary></item><item><title>Abels tårn - Hva med et kjernekraftverk i Oslo by?</title><link>https://podkast.nrk.no/fil/abels_taarn/13c54d66-a707-4fd8-989f-7db891b1bc52_0_ID192MP3.mp3</link><description>ABELS TÅRN- Ask me anything - om tabuteknologi 
 
 Velkommen til denne sendingen som er et samarbeid mellom Abels tårn og foreningen - Realister uten grenser
 Tre vitenskapskvinner deler oppfordringen: Ask me anything, og tar imot spørsmål fra publikum. 
@@ -774,7 +1516,42 @@ På podiet:
 Kjernefysiker Sunniva Rose
 Genteknolog Sigrid Bratlie
 Lege og kunstig intelligensforsker Ishita Barua
-</description><pubDate>Fri, 07 Jul 2023 10:00:00 GMT</pubDate></item><item><title>Abels Tårn - Hvorfor sier norske leger: "drikk vann"</title><link>https://podkast.nrk.no/fil/abels_taarn/8c484c5f-1994-46d0-82fb-3cb42ce8e90e_0_ID192MP3.mp3</link><description>Fra voksenopplæringa i Oslo med tre eksperter som svarer på elevenes spørsmål.
+</description><pubDate>Fri, 07 Jul 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/13c54d66-a707-4fd8-989f-7db891b1bc52_0_ID192MP3.mp3" length="3866" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/BxggaYQEzsuUmHOQhd3BMg7LJFU635H19HCwhZsWocMA"></itunes:image><itunes:duration>1:04:26</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Abels tårn - Hva med et kjernekraftverk i Oslo by?</itunes:subtitle><itunes:summary>ABELS TÅRN- Ask me anything - om tabuteknologi 
+
+Velkommen til denne sendingen som er et samarbeid mellom Abels tårn og foreningen - Realister uten grenser
+Tre vitenskapskvinner deler oppfordringen: Ask me anything, og tar imot spørsmål fra publikum. 
+
+Bør vi ta en pause i utviklingen av kunstig intelligens, eller skal vi bare kjøre på.
+
+Hvordan kan Ki hjelpe oss i helsevesenet?
+
+Hva med å bygge et kjernekraftverk på Filipstadkaia i Oslo?
+
+Bør genteknologiloven liberaliseres?
+
+Hvorfor snakker vi smartere om genetikk og forskjellene i samfunnet?
+
+Kan man kjøle ned atomreaktorer med salt? 
+
+Antibiotika resistens, hva gjør vi?
+
+Hvis dataene kunstig intelligens bruker for å finne antibiotika er begrenset, hvordan kan den da finne det?
+
+Hvis ikke vi gjør det, kommer Kina til å gjøre det. Er det et godt argument i forhold til ny teknologi?
+
+Er det mulig å kryss redigere gener?
+
+Er det ett fagfelt som ikke kan forberedes med kunstig intelligens.
+
+Hvor optimistisk er det å tenke at man skal implementere KI i helsevesenet? 
+ 
+Hva er fremtidens drømme teknologi?
+
+På podiet: 
+Kjernefysiker Sunniva Rose
+Genteknolog Sigrid Bratlie
+Lege og kunstig intelligensforsker Ishita Barua
+</itunes:summary></item><item><title>Abels Tårn - Hvorfor sier norske leger: "drikk vann"</title><link>https://podkast.nrk.no/fil/abels_taarn/8c484c5f-1994-46d0-82fb-3cb42ce8e90e_0_ID192MP3.mp3</link><description>Fra voksenopplæringa i Oslo med tre eksperter som svarer på elevenes spørsmål.
 
  - Hvorfor sier norske leger "drikk vann" istdetfor å gi medisin?
 
@@ -803,7 +1580,36 @@ Lege og kunstig intelligensforsker Ishita Barua
 I panelet
 Lege og rettsmedisiner Ida Kathrine Gravensteen
 Organisk kjemiker Alexander H. Sandtorv 
-Geolog Ingrid Anell</description><pubDate>Fri, 30 Jun 2023 14:00:00 GMT</pubDate></item><item><title>Abels bakgård - Sommeravslutning i Botanisk hage fortsetter</title><link>https://podkast.nrk.no/fil/abels_taarn/cf233ee8-edb9-44dc-8b4e-b7a293da70ca_0_ID192MP3.mp3</link><description>ABELS BAKGÅRD
+Geolog Ingrid Anell</description><pubDate>Fri, 30 Jun 2023 14:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/8c484c5f-1994-46d0-82fb-3cb42ce8e90e_0_ID192MP3.mp3" length="3430" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/DdP9Gr55b63pqUrghbKcfAOiQtr3jeqjeIRroXUqyHdw"></itunes:image><itunes:duration>0:57:10</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Abels Tårn - Hvorfor sier norske leger: "drikk vann"</itunes:subtitle><itunes:summary>Fra voksenopplæringa i Oslo med tre eksperter som svarer på elevenes spørsmål.
+
+ - Hvorfor sier norske leger "drikk vann" istdetfor å gi medisin?
+
+- Er det farlig med klor i drikkevann?   
+
+- Hvorfor smaker vannet så forskjellig i andre land?  
+
+- Skjer det flest jordskjelv på natten?   
+
+- Skjer det flere jordskjelv nå enn før?   
+
+- Kan man varsle jordskjelv?  
+
+- Er det vanligere for innvandrere enn nordmenn å få pollenallergi sent i livet? 
+
+- Hva med barna våre som er født i Norge? 
+
+- Hvorfor bruker nordmann fløte på jordbær? 
+
+- Hvordan kan man bygge jordskjelvsikre hus? 
+
+- Kan man være allergisk mot parfyme?
+
+- Rensing av kloakkvann
+
+I panelet
+Lege og rettsmedisiner Ida Kathrine Gravensteen
+Organisk kjemiker Alexander H. Sandtorv 
+Geolog Ingrid Anell</itunes:summary></item><item><title>Abels bakgård - Sommeravslutning i Botanisk hage fortsetter</title><link>https://podkast.nrk.no/fil/abels_taarn/cf233ee8-edb9-44dc-8b4e-b7a293da70ca_0_ID192MP3.mp3</link><description>ABELS BAKGÅRD
 
 Forskningsfronten - Nyheter fra vitenskapens verden
 
@@ -818,7 +1624,22 @@ Abels tema 1: Et innblikk i insektenes verden fra et topp moderne insekthotell
 Abels tema 2: Blomsterbed med tørkeresistente planter 
 
 
-</description><pubDate>Sat, 24 Jun 2023 06:00:00 GMT</pubDate></item><item><title>Abels tårn - Sommersending i Botanisk hage</title><link>https://podkast.nrk.no/fil/abels_taarn/06320f82-fd91-4cb8-ae1e-af77813d631a_0_ID192MP3.mp3</link><description>Et strålende ekspertpanel i det grønne på Botanisk hage, svarer på disse spørsmålene fra våre lyttere.
+</description><pubDate>Sat, 24 Jun 2023 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/cf233ee8-edb9-44dc-8b4e-b7a293da70ca_0_ID192MP3.mp3" length="3419" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/Sxu8_wXFu2H-rhXVtos6CgjZkEZXU_v4cqUYsHaLgMCA"></itunes:image><itunes:duration>0:56:59</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Abels bakgård - Sommeravslutning i Botanisk hage fortsetter</itunes:subtitle><itunes:summary>ABELS BAKGÅRD
+
+Forskningsfronten - Nyheter fra vitenskapens verden
+
+Ny forskning om hvordan planter reiser globalt
+
+Papegøyene tar over verden
+
+Og siste nytt om Guro Tarjem - Abels tårns grunnlegger og dronning.
+
+Abels tema 1: Et innblikk i insektenes verden fra et topp moderne insekthotell
+
+Abels tema 2: Blomsterbed med tørkeresistente planter 
+
+
+</itunes:summary></item><item><title>Abels tårn - Sommersending i Botanisk hage</title><link>https://podkast.nrk.no/fil/abels_taarn/06320f82-fd91-4cb8-ae1e-af77813d631a_0_ID192MP3.mp3</link><description>Et strålende ekspertpanel i det grønne på Botanisk hage, svarer på disse spørsmålene fra våre lyttere.
 
 Sang dinosaurene? I så fall hvordan hørtes det ut?
 
@@ -839,21 +1660,56 @@ Hvordan skal vi bli kvitt de svartelistede lupinene?
 Ukas panel:
 Paleontolog Aubrey Jane Roberts
 Botaniker Charlotte Sletten Bjorå
-Entomolog Hallvard Elven</description><pubDate>Fri, 23 Jun 2023 10:00:00 GMT</pubDate></item><item><title>Forskningsfronten - Det første syntetiske menneskeembryoet. Ingen sæd, ingen egg.</title><link>https://podkast.nrk.no/fil/abels_taarn/0eb4e3f0-65bb-473b-bab1-9676f8120470_0_ID192MP3.mp3</link><description>Forskningsfronten
+Entomolog Hallvard Elven</description><pubDate>Fri, 23 Jun 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/06320f82-fd91-4cb8-ae1e-af77813d631a_0_ID192MP3.mp3" length="3426" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/u1ew2-geJzsIdKAwJIgakwAwfaFb0QhqfKolMwyXC_gw"></itunes:image><itunes:duration>0:57:06</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Abels tårn - Sommersending i Botanisk hage</itunes:subtitle><itunes:summary>Et strålende ekspertpanel i det grønne på Botanisk hage, svarer på disse spørsmålene fra våre lyttere.
+
+Sang dinosaurene? I så fall hvordan hørtes det ut?
+
+Kan agurker få i seg e.coli-bakterier hvis de blir vannet med vann som inneholder det?
+
+Hvordan ville jorda vært uten mennesker?
+
+Kan man i dag på noen steder observere kjemiske hendelser lik dem man antar startet livet på jorda, og finnes det i så fall primitivt liv der?
+
+Biene lager honning av plantesaft og nektar. Inneholder plantesaft aromaer slik nektar gjør? Vil plantesaft dermed også sette smak på honningen?
+
+Finnes det en humle midd symbiose?
+
+Var det flere hester før enn nå?
+
+Hvordan skal vi bli kvitt de svartelistede lupinene?
+
+Ukas panel:
+Paleontolog Aubrey Jane Roberts
+Botaniker Charlotte Sletten Bjorå
+Entomolog Hallvard Elven</itunes:summary></item><item><title>Forskningsfronten - Det første syntetiske menneskeembryoet. Ingen sæd, ingen egg.</title><link>https://podkast.nrk.no/fil/abels_taarn/0eb4e3f0-65bb-473b-bab1-9676f8120470_0_ID192MP3.mp3</link><description>Forskningsfronten
 
 - Måker i Brighton bruker mennesker som munnskjenk.
 
 - Fra søvnforskningen - hjelper det å sove med sammentapet munn?
 
 - Det første syntetiske embryoet er laget uten sædceller eller egg.
-</description><pubDate>Mon, 19 Jun 2023 06:00:00 GMT</pubDate></item><item><title>Abels serie: Drømmen om evig liv #1 - Nedfryst til framtida</title><link>https://podkast.nrk.no/fil/abels_taarn/049b625f-4910-4d83-8804-8cca3cfea0d4_0_ID192MP3.mp3</link><description>Den teknovitenskaplige udødelighetsbevegelsen, kalles den. Summen av alle de som drømmer om å omgå døden på den ene eller den andre måten. I denne miniserien ser vi på noen av metodene man tenker seg. 
+</description><pubDate>Mon, 19 Jun 2023 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/0eb4e3f0-65bb-473b-bab1-9676f8120470_0_ID192MP3.mp3" length="1119" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/BTPZNt7yCSgOoZR7Yqr48QgcscUmbkPlWQwH_AXNWrUw"></itunes:image><itunes:duration>0:18:39</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Det første syntetiske menneskeembryoet. Ingen sæd, ingen egg.</itunes:subtitle><itunes:summary>Forskningsfronten
+
+- Måker i Brighton bruker mennesker som munnskjenk.
+
+- Fra søvnforskningen - hjelper det å sove med sammentapet munn?
+
+- Det første syntetiske embryoet er laget uten sædceller eller egg.
+</itunes:summary></item><item><title>Abels serie: Drømmen om evig liv #1 - Nedfryst til framtida</title><link>https://podkast.nrk.no/fil/abels_taarn/049b625f-4910-4d83-8804-8cca3cfea0d4_0_ID192MP3.mp3</link><description>Den teknovitenskaplige udødelighetsbevegelsen, kalles den. Summen av alle de som drømmer om å omgå døden på den ene eller den andre måten. I denne miniserien ser vi på noen av metodene man tenker seg. 
 Episode 1 handler om de som vil forlenge det biologiske livet, reversere aldringen og la seg fryse ned inntil teknologien er moden.
 
 Med 
 Annelin Eriksen
 Ida Kathrine Gravensteen
 
- </description><pubDate>Sat, 17 Jun 2023 07:00:00 GMT</pubDate></item><item><title>Abels tårn - Kan en silikonpupp rense kroppen?</title><link>https://podkast.nrk.no/fil/abels_taarn/89a1ff0f-dfcc-4efd-bb37-038af6041df3_0_ID192MP3.mp3</link><description>Et fantastisk panel svarer på nye populærvitenskapelige spørsmål fra vår lyttere.
+ </description><pubDate>Sat, 17 Jun 2023 07:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/049b625f-4910-4d83-8804-8cca3cfea0d4_0_ID192MP3.mp3" length="2288" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/057rXUlSKqfTPSN3jvc1ew4tV7ctVX2WoHRny-I7gK4Q"></itunes:image><itunes:duration>0:38:08</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Abels serie: Drømmen om evig liv #1 - Nedfryst til framtida</itunes:subtitle><itunes:summary>Den teknovitenskaplige udødelighetsbevegelsen, kalles den. Summen av alle de som drømmer om å omgå døden på den ene eller den andre måten. I denne miniserien ser vi på noen av metodene man tenker seg. 
+Episode 1 handler om de som vil forlenge det biologiske livet, reversere aldringen og la seg fryse ned inntil teknologien er moden.
+
+Med 
+Annelin Eriksen
+Ida Kathrine Gravensteen
+
+ </itunes:summary></item><item><title>Abels tårn - Kan en silikonpupp rense kroppen?</title><link>https://podkast.nrk.no/fil/abels_taarn/89a1ff0f-dfcc-4efd-bb37-038af6041df3_0_ID192MP3.mp3</link><description>Et fantastisk panel svarer på nye populærvitenskapelige spørsmål fra vår lyttere.
 
 - Kan KI overta programledelsen av Abels tårn sånn at Torkild kan få seg noe annet å gjøre? 
 
@@ -872,12 +1728,36 @@ Ida Kathrine Gravensteen
 I Panelet:
 Morten Goodwin
 Julie Sørlie Paus-Knudsen
-Harald Hrubos Strøm</description><pubDate>Fri, 16 Jun 2023 10:00:00 GMT</pubDate></item><item><title>Forskningsfronten - Fiske-DNA i svevestøv og DNA-lagring av data.</title><link>https://podkast.nrk.no/fil/abels_taarn/35661778-9c9c-48bd-95d3-0ba7a3f76be1_0_ID192MP3.mp3</link><description>Abels tårns skråblikk inn i verdenen av forskningsnyhter. Denne uka om et uventet funn i målestasjoner for luftforurensning, og de avsindige mengdene data som kan lagres i DNA</description><pubDate>Tue, 13 Jun 2023 10:00:00 GMT</pubDate></item><item><title>Tema: På tide å spise mer genredigert mat?</title><link>https://podkast.nrk.no/fil/abels_taarn/ab3b67e9-f7bf-46f1-b262-ffba49b19b9c_0_ID192MP3.mp3</link><description>Ville du spist brød laget av korn som var beviselig mindre kreftfremkallende, og som man kunne dyrke mer av på et mindre areal... - Hvis du også visste at kornet var genredigert? 
+Harald Hrubos Strøm</description><pubDate>Fri, 16 Jun 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/89a1ff0f-dfcc-4efd-bb37-038af6041df3_0_ID192MP3.mp3" length="3460" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/EmxV4RZ4B2xuN_2Bk5N8Gg2PNXRsQwFcGa2FG02zEdvw"></itunes:image><itunes:duration>0:57:40</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Abels tårn - Kan en silikonpupp rense kroppen?</itunes:subtitle><itunes:summary>Et fantastisk panel svarer på nye populærvitenskapelige spørsmål fra vår lyttere.
+
+- Kan KI overta programledelsen av Abels tårn sånn at Torkild kan få seg noe annet å gjøre? 
+
+- Hvorfor i alle dager har man to luftinntak? /Har vi mennesker nærstående dyre-slektninger som puster og spiser med forskjellige kroppsåpninger ?
+
+- Er det mange fødsler eller kanskje fettsuging som fjerner fettløselige miljøgifter fra kroppen mest effektivt?
+
+- Kan AI løse miljø – og klimakrisen?  
+
+- Er det mulig for oss å puste og samtidig stenge av luktesansen?
+
+- Hvor mye større hadde artsmangfoldet på jorda vært uten mennesker?
+ 
+- Hvor enkelt er det å hacke en elbil og ta kontroll over funksjonene?
+
+I Panelet:
+Morten Goodwin
+Julie Sørlie Paus-Knudsen
+Harald Hrubos Strøm</itunes:summary></item><item><title>Forskningsfronten - Fiske-DNA i svevestøv og DNA-lagring av data.</title><link>https://podkast.nrk.no/fil/abels_taarn/35661778-9c9c-48bd-95d3-0ba7a3f76be1_0_ID192MP3.mp3</link><description>Abels tårns skråblikk inn i verdenen av forskningsnyhter. Denne uka om et uventet funn i målestasjoner for luftforurensning, og de avsindige mengdene data som kan lagres i DNA</description><pubDate>Tue, 13 Jun 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/35661778-9c9c-48bd-95d3-0ba7a3f76be1_0_ID192MP3.mp3" length="759" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/ynyFaQIZKZfqAhL8z289AgaVl9tmLh6oOaGztB5IHSmA"></itunes:image><itunes:duration>0:12:39</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Fiske-DNA i svevestøv og DNA-lagring av data.</itunes:subtitle><itunes:summary>Abels tårns skråblikk inn i verdenen av forskningsnyhter. Denne uka om et uventet funn i målestasjoner for luftforurensning, og de avsindige mengdene data som kan lagres i DNA</itunes:summary></item><item><title>Tema: På tide å spise mer genredigert mat?</title><link>https://podkast.nrk.no/fil/abels_taarn/ab3b67e9-f7bf-46f1-b262-ffba49b19b9c_0_ID192MP3.mp3</link><description>Ville du spist brød laget av korn som var beviselig mindre kreftfremkallende, og som man kunne dyrke mer av på et mindre areal... - Hvis du også visste at kornet var genredigert? 
 Og mer generelt: Hvordan produsere mer mat i en verden med krig og gryende klimakrise? Svaret er genredigering og CRISPR, mener flertallet i et regjeringsoppnevnt utvalg. 
 Vent litt! Her må vi være føre var, mener mindretallet.
 
 Med Sigrid Bratlie og Aina Bartmann
-</description><pubDate>Mon, 12 Jun 2023 17:00:00 GMT</pubDate></item><item><title>Abels tårn - Er det trygt å sykle når det lyner?</title><link>https://podkast.nrk.no/fil/abels_taarn/747f4a72-7f1f-4971-9574-d994f1970a5f_0_ID192MP3.mp3</link><description> - Hvor trygg er sykkelen når det lyner?
+</description><pubDate>Mon, 12 Jun 2023 17:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/ab3b67e9-f7bf-46f1-b262-ffba49b19b9c_0_ID192MP3.mp3" length="2643" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/MefPoX4NRUvtxRF-5Phh_AvaJu_k1XvrOPdh35adepMg"></itunes:image><itunes:duration>0:44:03</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Tema: På tide å spise mer genredigert mat?</itunes:subtitle><itunes:summary>Ville du spist brød laget av korn som var beviselig mindre kreftfremkallende, og som man kunne dyrke mer av på et mindre areal... - Hvis du også visste at kornet var genredigert? 
+Og mer generelt: Hvordan produsere mer mat i en verden med krig og gryende klimakrise? Svaret er genredigering og CRISPR, mener flertallet i et regjeringsoppnevnt utvalg. 
+Vent litt! Her må vi være føre var, mener mindretallet.
+
+Med Sigrid Bratlie og Aina Bartmann
+</itunes:summary></item><item><title>Abels tårn - Er det trygt å sykle når det lyner?</title><link>https://podkast.nrk.no/fil/abels_taarn/747f4a72-7f1f-4971-9574-d994f1970a5f_0_ID192MP3.mp3</link><description> - Hvor trygg er sykkelen når det lyner?
 
 - Hvis 10 000 lyshudede mennesker flyttet til Afrika og bosatte seg i et avgrenset område og bare formerte seg med hverandre, ville etterkommerne etter hvert utvikle mørkere hudfarge?
 
@@ -885,10 +1765,21 @@ Med Sigrid Bratlie og Aina Bartmann
 
 - Kunne hvalene blitt enda større hvis de hadde to hjerter?
 
-- Kan det lyne fra en paraply?</description><pubDate>Fri, 09 Jun 2023 10:00:00 GMT</pubDate></item><item><title>Forskningsfronten - Lammet mann kan gå igjen</title><link>https://podkast.nrk.no/fil/abels_taarn/0062c7b4-c0a1-4519-987c-2736226c7510_0_ID192MP3.mp3</link><description>Lammet mann kan gå igjen,                                   
+- Kan det lyne fra en paraply?</description><pubDate>Fri, 09 Jun 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/747f4a72-7f1f-4971-9574-d994f1970a5f_0_ID192MP3.mp3" length="3432" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/QBlRLvydP04sNUW9iiiNNAH-f6W75KoTCDBKTPCPbrvg"></itunes:image><itunes:duration>0:57:12</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Abels tårn - Er det trygt å sykle når det lyner?</itunes:subtitle><itunes:summary> - Hvor trygg er sykkelen når det lyner?
+
+- Hvis 10 000 lyshudede mennesker flyttet til Afrika og bosatte seg i et avgrenset område og bare formerte seg med hverandre, ville etterkommerne etter hvert utvikle mørkere hudfarge?
+
+- Er det et dårlig tegn hvis vi kan høre at mobiltelefonen ringer inne fra mikrobølgeovnen?
+
+- Kunne hvalene blitt enda større hvis de hadde to hjerter?
+
+- Kan det lyne fra en paraply?</itunes:summary></item><item><title>Forskningsfronten - Lammet mann kan gå igjen</title><link>https://podkast.nrk.no/fil/abels_taarn/0062c7b4-c0a1-4519-987c-2736226c7510_0_ID192MP3.mp3</link><description>Lammet mann kan gå igjen,                                   
 Resirkulert plast er ikke så bra som vi tror                                                                 
 Målinger viser høyere nivåer radioaktivitet på isbreer enn i Tsjernobyl  og Fukushima                                 
-Ja, det er plass til mer i dessertmagen</description><pubDate>Mon, 05 Jun 2023 06:00:00 GMT</pubDate></item><item><title>Tema - Spisbar plast</title><link>https://podkast.nrk.no/fil/abels_taarn/0c8e8e7b-c265-4b6b-81a0-ea6d27abaccd_0_ID192MP3.mp3</link><description>Bildet av en strandet hval med magen full av plast er etset inn i bevisstheten til mange av oss. Men hva om plasten i magen hadde vært laget av havets egen salat?</description><pubDate>Sat, 03 Jun 2023 06:00:00 GMT</pubDate></item><item><title>Abels Tårn - Finnes det en kreftvaksine for hunder?</title><link>https://podkast.nrk.no/fil/abels_taarn/3d3f1715-ad3d-496e-833b-5ca9cdd3ad93_0_ID192MP3.mp3</link><description>ABELS TÅRN
+Ja, det er plass til mer i dessertmagen</description><pubDate>Mon, 05 Jun 2023 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/0062c7b4-c0a1-4519-987c-2736226c7510_0_ID192MP3.mp3" length="1961" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/6PI9jAFque99q-A1QZe3eAoNSUHU4vZ7rBI60h7illLw"></itunes:image><itunes:duration>0:32:41</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Lammet mann kan gå igjen</itunes:subtitle><itunes:summary>Lammet mann kan gå igjen,                                   
+Resirkulert plast er ikke så bra som vi tror                                                                 
+Målinger viser høyere nivåer radioaktivitet på isbreer enn i Tsjernobyl  og Fukushima                                 
+Ja, det er plass til mer i dessertmagen</itunes:summary></item><item><title>Tema - Spisbar plast</title><link>https://podkast.nrk.no/fil/abels_taarn/0c8e8e7b-c265-4b6b-81a0-ea6d27abaccd_0_ID192MP3.mp3</link><description>Bildet av en strandet hval med magen full av plast er etset inn i bevisstheten til mange av oss. Men hva om plasten i magen hadde vært laget av havets egen salat?</description><pubDate>Sat, 03 Jun 2023 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/0c8e8e7b-c265-4b6b-81a0-ea6d27abaccd_0_ID192MP3.mp3" length="1428" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/ECPjSfuFD6AOUj3aUyR_VQY46CS_qKXuTkkKhWajwiDA"></itunes:image><itunes:duration>0:23:48</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Tema - Spisbar plast</itunes:subtitle><itunes:summary>Bildet av en strandet hval med magen full av plast er etset inn i bevisstheten til mange av oss. Men hva om plasten i magen hadde vært laget av havets egen salat?</itunes:summary></item><item><title>Abels Tårn - Finnes det en kreftvaksine for hunder?</title><link>https://podkast.nrk.no/fil/abels_taarn/3d3f1715-ad3d-496e-833b-5ca9cdd3ad93_0_ID192MP3.mp3</link><description>ABELS TÅRN
 Et strålende ekspertpanel sitter klare for å svare på følgende spørsmål fra våre lyttere:
 
 - Finnes det en kreftvaksine for hunder?
@@ -904,7 +1795,23 @@ Et strålende ekspertpanel sitter klare for å svare på følgende spørsmål fr
 - Berøring utløser kjærlighetshormonet oksytocin, men hva skjer etter det?
 
 - Ballonger blir slappe etter hvert, men hvor er det luften slipper ut? 
-</description><pubDate>Fri, 02 Jun 2023 10:00:00 GMT</pubDate></item><item><title>Forskningsfronten - Aggressive spekkhoggere, mobile labber og elektronikk av tr</title><link>https://podkast.nrk.no/fil/abels_taarn/272c53a8-2312-4c35-8d43-d03a5f261dbb_0_ID192MP3.mp3</link><description>FORSKNINGSFRONTEN med nyheter fra vitenskapens verden:
+</description><pubDate>Fri, 02 Jun 2023 10:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/3d3f1715-ad3d-496e-833b-5ca9cdd3ad93_0_ID192MP3.mp3" length="3459" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/3IxNzvRqL3gUPAO9OfMiOghrzyXaQnjXHi3CJYpQuQeA"></itunes:image><itunes:duration>0:57:39</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Abels Tårn - Finnes det en kreftvaksine for hunder?</itunes:subtitle><itunes:summary>ABELS TÅRN
+Et strålende ekspertpanel sitter klare for å svare på følgende spørsmål fra våre lyttere:
+
+- Finnes det en kreftvaksine for hunder?
+
+- Er det lettere å bli syk når «kroppen slapper av»?
+
+- Hvis stress gjør oss syke blir vi vel friske av kjærlighet og glede?
+
+- Hvordan kan en hvit linskjorte bli rosa når den legges i klorvann?
+
+- Hvorfor kiler det vanvittig når andre kiler oss, men ikke når vi gjør det selv?
+
+- Berøring utløser kjærlighetshormonet oksytocin, men hva skjer etter det?
+
+- Ballonger blir slappe etter hvert, men hvor er det luften slipper ut? 
+</itunes:summary></item><item><title>Forskningsfronten - Aggressive spekkhoggere, mobile labber og elektronikk av tr</title><link>https://podkast.nrk.no/fil/abels_taarn/272c53a8-2312-4c35-8d43-d03a5f261dbb_0_ID192MP3.mp3</link><description>FORSKNINGSFRONTEN med nyheter fra vitenskapens verden:
 
 Spekkhoggere angriper seilbåter
 
@@ -912,4 +1819,12 @@ Mobile forskningslabber og nye materialer
 
 Elektronikk laget av tre
 
-</description><pubDate>Mon, 29 May 2023 06:00:00 GMT</pubDate></item></channel></rss>
+</description><pubDate>Mon, 29 May 2023 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/272c53a8-2312-4c35-8d43-d03a5f261dbb_0_ID192MP3.mp3" length="1000" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/0ed3IwfCxit-FNcQctbOXwFt5FyoCcgd88N4NZQebSPQ"></itunes:image><itunes:duration>0:16:40</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Aggressive spekkhoggere, mobile labber og elektronikk av tr</itunes:subtitle><itunes:summary>FORSKNINGSFRONTEN med nyheter fra vitenskapens verden:
+
+Spekkhoggere angriper seilbåter
+
+Mobile forskningslabber og nye materialer
+
+Elektronikk laget av tre
+
+</itunes:summary></item></channel></rss>

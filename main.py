@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 
 import requests
 import rfeed
@@ -10,13 +10,8 @@ class Podcast:
             raise ValueError('when max_episodes is larger than page_size, pagination needs to be enabled')
         self.api_host = "https://psapi.nrk.no"
         self.podcast_name = podcast_name
-        self.podcast_title = Podcast._convert_name_to_title(podcast_name)
         self.episodes = self._fetch_episodes(max_episodes=max_episodes, page_size=page_size, sort=sort, paginate=paginate)
-        self._add_mp3_url()
-
-    @staticmethod
-    def _convert_name_to_title(name):
-        return name.replace("_", " ").replace('ae', 'æ').replace('oe', 'ø').replace('aa', 'å').capitalize()
+        self._add_mp3_url_and_metadata()
 
     def _fetch_episodes(self, max_episodes, page_size, sort, paginate):
         eps = []
@@ -32,12 +27,20 @@ class Podcast:
                     return eps[0:max_episodes]
         return eps
 
-    def _add_mp3_url(self):
+    def _add_mp3_url_and_metadata(self):
         print(f"fetching files for {self.podcast_name}")
+
         for eps in self.episodes:
-            res = requests.get(f"{self.api_host}/playback/manifest/podcast/{eps.get('episodeId')}?eea-portability=true")
-            file_url = res.json().get('playable').get('assets')[0].get('url')
-            eps['mp3'] = file_url
+            manifest = requests.get(f"{self.api_host}/playback/manifest/podcast/{eps.get('episodeId')}?eea-portability=true")
+            eps['mp3'] = manifest.json().get('playable').get('assets')[0].get('url')
+
+            metadata = requests.get(f"{self.api_host}/playback/metadata/podcast/{eps.get('episodeId')}?eea-portability=true")
+            eps['show_title'] = metadata.json().get('preplay').get('titles').get('title')
+            eps['show_subtitle'] = metadata.json().get('preplay').get('titles').get('subtitle')
+            eps['show_image'] = metadata.json().get('preplay').get('squarePoster').get('images')[-1].get('url')
+            self.title = metadata.json().get('_embedded').get('podcast').get('titles').get('title')
+            self.subtitle = metadata.json().get('_embedded').get('podcast').get('titles').get('subtitle')
+            self.image = metadata.json().get('_embedded').get('podcast').get('imageUrl')
             print(".", end='')
         print("")
 
@@ -47,16 +50,30 @@ class Podcast:
     def rss_feed(self):
         items = []
         for eps in self.episodes:
+            itunes_item = rfeed.iTunesItem(
+                subtitle=eps.get('show_title'),
+                summary=eps.get('show_subtitle'),
+                duration=str(timedelta(seconds=eps.get('durationInSeconds'))),
+                image=eps.get('show_image')
+            )
             items.append(rfeed.Item(
                 title=eps.get('titles').get('title'),
                 description=eps.get('titles').get('subtitle'),
                 pubDate=datetime.fromisoformat(eps.get('date')),
-                link=eps.get('mp3')
+                link=eps.get('mp3'),
+                enclosure=rfeed.Enclosure(url=eps.get('mp3'), length=eps.get('durationInSeconds'), type='audio/mpeg'),
+                extensions=[itunes_item]
             ))
-        return rfeed.Feed(title=self.podcast_title,
+        itunes = rfeed.iTunes(
+            subtitle=self.title,
+            summary=self.subtitle,
+            image=self.image
+        )
+        return rfeed.Feed(title=str(self.title),
                           link=f"https://radio.nrk.no/podkast/{self.podcast_name}",
-                          description=self.podcast_title,
-                          items=items
+                          description=self.subtitle,
+                          items=items,
+                          extensions=[itunes]
                           ).rss()
 
 
