@@ -77,20 +77,21 @@ class Podcast:
                           ).rss()
 
 
-podcasts = [
-    "berrum_beyer_snakker_om_greier",
-    "loerdagsraadet",
-    "trygdekontoret",
-    "abels_taarn"
-]
+if __name__ == '__main__':
+    podcasts = [
+        "berrum_beyer_snakker_om_greier",
+        "loerdagsraadet",
+        "trygdekontoret",
+        "abels_taarn"
+    ]
 
-for pod_name in podcasts:
-    pod = Podcast(
-        podcast_name=pod_name,
-        max_episodes=100,
-        page_size=20,
-        paginate=True
-    )
-    with open(f"{pod_name}.rss", 'w') as feed_file:
-        feed_file.write(pod.rss_feed())
+    for pod_name in podcasts:
+        pod = Podcast(
+            podcast_name=pod_name,
+            max_episodes=100,
+            page_size=20,
+            paginate=True
+        )
+        with open(f"rss/{pod_name}.rss", 'w') as feed_file:
+            feed_file.write(pod.rss_feed())
 
