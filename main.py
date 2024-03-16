@@ -88,7 +88,7 @@ if __name__ == '__main__':
     for pod_name in podcasts:
         pod = Podcast(
             podcast_name=pod_name,
-            max_episodes=100,
+            max_episodes=50,
             page_size=20,
             paginate=True
         )

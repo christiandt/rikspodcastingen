@@ -15,6 +15,7 @@ jobs:
         run: python -m pip install --upgrade requests rfeed
       - name: update
         run: python main.py
+      - uses: actions/checkout@v4
       - name: Update Feeds
         run: |
           git config --global user.name 'GithubBot'
