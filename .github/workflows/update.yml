@@ -20,6 +20,7 @@ jobs:
         with:
           token: ${{ secrets.TOKEN }}
       - name: Update Feeds
+        continue-on-error: true
         run: |
           python main.py
           git config user.name github-actions
