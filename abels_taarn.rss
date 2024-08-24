@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Abels tårn</title><link>https://radio.nrk.no/podkast/abels_taarn</link><description>En serie for deg som liker å nerde på de små og store spørsmålene innen vitenskap.
 </description><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><itunes:image href="https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qAYr_hY0FhSJveRmsYNQodAQ"></itunes:image><itunes:subtitle>Abels tårn</itunes:subtitle><itunes:summary>En serie for deg som liker å nerde på de små og store spørsmålene innen vitenskap.
-</itunes:summary><item><title>Hva skjer når to sorte hull kræsjer?</title><link>https://podkast.nrk.no/fil/abels_taarn/2d3b271b-0702-46e7-847f-83224cd9609b_0_ID192MP3.mp3</link><description>Abels tårn sender fra Stavanger! Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+</itunes:summary><item><title>Abels tårn - Kan jeg få en KI som digital assistent?</title><link>https://podkast.nrk.no/fil/abels_taarn/480c8585-bfaa-459f-884d-ebb63a2d1833_0_ID192MP3.mp3</link><description>Et strålende ekspertpanel svarer på det du ikke visste du ville vite. I dag med hovedvekt på kunstig intelligens.
+
+Programleder Torkild Jemterud
+
+Dagens panel:
+Inga Strumke - Partikkelfysiker, forfatter, forsker og KI dronning
+Sondre Ronander  - Informasjonssjef for Google Norge 
+Klas Henning Pettersen  - CEO for NORA – Norwegian Artificial Intelligence Research Consortium</description><pubDate>Fri, 23 Aug 2024 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/480c8585-bfaa-459f-884d-ebb63a2d1833_0_ID192MP3.mp3" length="3475" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/S6pD-ieSM5aKfs8OxeOIgQywK3beLEn8Epo-vFWhZBbA"></itunes:image><itunes:duration>0:57:55</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Abels tårn - Kan jeg få en KI som digital assistent?</itunes:subtitle><itunes:summary>Et strålende ekspertpanel svarer på det du ikke visste du ville vite. I dag med hovedvekt på kunstig intelligens.
+
+Programleder Torkild Jemterud
+
+Dagens panel:
+Inga Strumke - Partikkelfysiker, forfatter, forsker og KI dronning
+Sondre Ronander  - Informasjonssjef for Google Norge 
+Klas Henning Pettersen  - CEO for NORA – Norwegian Artificial Intelligence Research Consortium</itunes:summary></item><item><title>Hva skjer når to sorte hull kræsjer?</title><link>https://podkast.nrk.no/fil/abels_taarn/2d3b271b-0702-46e7-847f-83224cd9609b_0_ID192MP3.mp3</link><description>Abels tårn sender fra Stavanger! Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
 
 I panelet:
 Fysiker Vegard Undheim
@@ -459,18 +473,4 @@ Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen,
 - Overraskende miljøvennlig farging av jeans
 - Svaret på om det er forskjell på mannehjerner og kvinnehjerner … eller ikke 
 - Trær som detektorer for å fange opp spor av universets voldsomste hendelser
-- Et genialt "Star Trek"-spørsmål kan hjelpe deg med chatbotten</itunes:summary></item><item><title>Forskningsfronten - Selvlysende potteplanter er nå til salgs i USA</title><link>https://podkast.nrk.no/fil/abels_taarn/c8735208-a9c8-4b88-9aa4-c8929299fc75_0_ID192MP3.mp3</link><description>Redaksjonen diskuterer siste forskningsnyheter og denne gangen handler det om: 
-
-- Selvlysende potteplanter er nå til salgs i USA
-- Hunder som kan lukte seg fram til Parkinson
-- Bjørnedyrets ekstreme dvaletilstand
-- Skorpioners giftige sexliv
-- Satellitter lagd av tre
-</description><pubDate>Mon, 26 Feb 2024 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/c8735208-a9c8-4b88-9aa4-c8929299fc75_0_ID192MP3.mp3" length="2321" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/TSNGuZ3Ay0UZXPPqviT9pgpBfnVc-2vFQd4O7yaArRvQ"></itunes:image><itunes:duration>0:38:41</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Selvlysende potteplanter er nå til salgs i USA</itunes:subtitle><itunes:summary>Redaksjonen diskuterer siste forskningsnyheter og denne gangen handler det om: 
-
-- Selvlysende potteplanter er nå til salgs i USA
-- Hunder som kan lukte seg fram til Parkinson
-- Bjørnedyrets ekstreme dvaletilstand
-- Skorpioners giftige sexliv
-- Satellitter lagd av tre
-</itunes:summary></item></channel></rss>
+- Et genialt "Star Trek"-spørsmål kan hjelpe deg med chatbotten</itunes:summary></item></channel></rss>
