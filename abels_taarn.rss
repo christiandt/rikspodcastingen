@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Abels tårn</title><link>https://radio.nrk.no/podkast/abels_taarn</link><description>En serie for deg som liker å nerde på de små og store spørsmålene innen vitenskap.
 </description><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><itunes:image href="https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qAYr_hY0FhSJveRmsYNQodAQ"></itunes:image><itunes:subtitle>Abels tårn</itunes:subtitle><itunes:summary>En serie for deg som liker å nerde på de små og store spørsmålene innen vitenskap.
-</itunes:summary><item><title>Hvorfor har ikke vi mennesker pels?</title><link>https://podkast.nrk.no/fil/abels_taarn/65e83aad-22df-4abc-9018-ab2574c8358f_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
+</itunes:summary><item><title>Forskningsfronten - Skremte kuer og Ig-Nobel</title><link>https://podkast.nrk.no/fil/abels_taarn/bbb53e31-81c9-4be0-881b-b948f6b78b44_0_ID192MP3.mp3</link><description>Torkild, Hanne og Kristina mesker seg i verdens rareste forskningsnyheter når de går gjennom vinnerne av årets Ig-Nobelpriser. Prisen på en dollar gikk blant annet til forskning på:
+
+Sammenhengen mellom katter, oppblåste papirposer og kuers evne til å melke.
+Pattedyrs mulighet til å puste gjennom anus.
+Og svaret på om planter kan se eller ikke.</description><pubDate>Mon, 23 Sep 2024 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/bbb53e31-81c9-4be0-881b-b948f6b78b44_0_ID192MP3.mp3" length="1752" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/vWmQm_tff4IQs9WyEY7yLw4A8nTiJSDkII_NLuyZZteQ"></itunes:image><itunes:duration>0:29:12</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Skremte kuer og Ig-Nobel</itunes:subtitle><itunes:summary>Torkild, Hanne og Kristina mesker seg i verdens rareste forskningsnyheter når de går gjennom vinnerne av årets Ig-Nobelpriser. Prisen på en dollar gikk blant annet til forskning på:
+
+Sammenhengen mellom katter, oppblåste papirposer og kuers evne til å melke.
+Pattedyrs mulighet til å puste gjennom anus.
+Og svaret på om planter kan se eller ikke.</itunes:summary></item><item><title>Hvorfor har ikke vi mennesker pels?</title><link>https://podkast.nrk.no/fil/abels_taarn/65e83aad-22df-4abc-9018-ab2574c8358f_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
 
 Dagens eksperter:
 Kjemiker Ole Swang
@@ -479,4 +487,4 @@ Forskerne vet nå hvorfor levende musikk påvirker oss så sterkt
 
 Michel Talagrand fikk årets Abel-pris for å ha gjort matematisk mulig å regne ut neste hundreårsbølge 
 
-</itunes:summary></item><item><title>Den store serien om KI (3:10) - Når maskiner lærer å se</title><link>https://podkast.nrk.no/fil/abels_taarn/56f3d54a-25a2-4d26-b41e-00eb6ed069cd_0_ID192MP3.mp3</link><description>Volvo tester ut biler pakket inn i kameraer og radarer. Selv etter 50 år er det fortsatt vanskelig å lære biler å se. Er trikset å lære av menneskehjernen?</description><pubDate>Fri, 22 Mar 2024 18:48:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/56f3d54a-25a2-4d26-b41e-00eb6ed069cd_0_ID192MP3.mp3" length="3686" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/NKHDjrz8FJbfB5qSfBOL0AOImDXJjM5HnqKeVPtIlZyw"></itunes:image><itunes:duration>1:01:26</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Den store serien om KI (3:10) - Når maskiner lærer å se</itunes:subtitle><itunes:summary>Volvo tester ut biler pakket inn i kameraer og radarer. Selv etter 50 år er det fortsatt vanskelig å lære biler å se. Er trikset å lære av menneskehjernen?</itunes:summary></item></channel></rss>
+</itunes:summary></item></channel></rss>
