@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Abels tårn</title><link>https://radio.nrk.no/podkast/abels_taarn</link><description>En serie for deg som liker å nerde på de små og store spørsmålene innen vitenskap.
 </description><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><itunes:image href="https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qAYr_hY0FhSJveRmsYNQodAQ"></itunes:image><itunes:subtitle>Abels tårn</itunes:subtitle><itunes:summary>En serie for deg som liker å nerde på de små og store spørsmålene innen vitenskap.
-</itunes:summary><item><title>Hvor lenge funker et avkappet hode?</title><link>https://podkast.nrk.no/fil/abels_taarn/4fb6f2d3-cd48-4f1d-b919-b3fba0a9a2a2_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
+</itunes:summary><item><title>Forskningsfronten - Den store marshmallowtesten er feil</title><link>https://podkast.nrk.no/fil/abels_taarn/6d28c980-3dff-42e3-8571-69509dfb1b51_0_ID192MP3.mp3</link><description>En berømt psykologitest med marshmallow fra 70-tallet  tilbakevises.  
+
+ Forklaringen på et mystisk Jordskjelvsignal som slo inn på måleapparater verden over for et år siden.  
+
+ Blekkspruten viser seg å ha overraskende gode samarbeidsevner, med en annen art...</description><pubDate>Wed, 09 Oct 2024 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/6d28c980-3dff-42e3-8571-69509dfb1b51_0_ID192MP3.mp3" length="1915" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/F0aC7_Du5GUfGKWyU4n4jg1SncJNwLfPNOPLEwQRM6zA"></itunes:image><itunes:duration>0:31:55</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Den store marshmallowtesten er feil</itunes:subtitle><itunes:summary>En berømt psykologitest med marshmallow fra 70-tallet  tilbakevises.  
+
+ Forklaringen på et mystisk Jordskjelvsignal som slo inn på måleapparater verden over for et år siden.  
+
+ Blekkspruten viser seg å ha overraskende gode samarbeidsevner, med en annen art...</itunes:summary></item><item><title>Hvor lenge funker et avkappet hode?</title><link>https://podkast.nrk.no/fil/abels_taarn/4fb6f2d3-cd48-4f1d-b919-b3fba0a9a2a2_0_ID192MP3.mp3</link><description>Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
 
 Dagens eksperter:
 Biolog Petter Bøckman
@@ -467,14 +475,4 @@ Hvorfor begrensningen på skistavlengden i Vasaloppet?
 
 Hvorfor forholder alt som lever seg til størrelse?
 
-Hvorfor varierer nøytroner fra stoff til stoff?</itunes:summary></item><item><title>Forskningsfronten - Litt angst kan være bra å ha</title><link>https://podkast.nrk.no/fil/abels_taarn/fd89aa55-29e8-4b3e-b952-79efd7608ba5_0_ID192MP3.mp3</link><description>Redaksjonen byr på et knippe nyheter fra vitenskapens verden.
-
-- Kunstig intelligens kan si hva som feiler deg bare basert på hosten din
-- Siden barneskolen har vi lært at ulike ladninger tiltrekker hverandre. Nå har forskere oppdaget at det ikke alltid er sånn 
-- Å ha angst er ikke bare en ulempe
-</description><pubDate>Mon, 08 Apr 2024 06:00:00 GMT</pubDate><enclosure url="https://podkast.nrk.no/fil/abels_taarn/fd89aa55-29e8-4b3e-b952-79efd7608ba5_0_ID192MP3.mp3" length="1275" type="audio/mpeg"></enclosure><itunes:image href="https://gfx.nrk.no/BZ7FN6omVUz5XJKQdc4VDQ2T21hOp5vYgsvH09i4wtpQ"></itunes:image><itunes:duration>0:21:15</itunes:duration><itunes:order>None</itunes:order><itunes:subtitle>Forskningsfronten - Litt angst kan være bra å ha</itunes:subtitle><itunes:summary>Redaksjonen byr på et knippe nyheter fra vitenskapens verden.
-
-- Kunstig intelligens kan si hva som feiler deg bare basert på hosten din
-- Siden barneskolen har vi lært at ulike ladninger tiltrekker hverandre. Nå har forskere oppdaget at det ikke alltid er sånn 
-- Å ha angst er ikke bare en ulempe
-</itunes:summary></item></channel></rss>
+Hvorfor varierer nøytroner fra stoff til stoff?</itunes:summary></item></channel></rss>
