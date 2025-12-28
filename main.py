@@ -79,7 +79,8 @@ class Podcast:
 
 if __name__ == '__main__':
     podcasts = [
-        "berrum_beyer_snakker_om_greier",
+        "desken_brenner",
+        "hele_historien",
         "loerdagsraadet",
         "trygdekontoret",
         "abels_taarn"
